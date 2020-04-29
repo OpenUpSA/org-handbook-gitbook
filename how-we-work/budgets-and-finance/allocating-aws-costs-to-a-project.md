@@ -16,13 +16,13 @@ Currently our biggest clearly allocatable cost is S3. We allocate the rest \(RDS
 
 ## Steps
 
-1. Copy the latest allocations spreadsheet in the [AWS invoice allocations folder](https://drive.google.com/drive/folders/1FqRVxmUFCdhknIB8kwV2z4lOSPfjA0eS) and update the name for the month you're allocating
-   1. Prefix it with DRAFT until it's done, so that someone doesn't think you're done and uses the data when you're still updating last month's data.
-2. Check in the EC2 instances list that the **servers sheet** reflects the servers that were running most of that month
-3. Check that the apps running in AWS are reflected accurately on the **Apps sheet** for most of that month
-   1. The apps that should be there are
-   2. Removed apps are not there
-   3. The server they're allocated to is correct
+### Create file for the new month
+
+ \(the month that the costs were incurred - see invoice\)
+
+Copy the latest allocations spreadsheet in the [AWS invoice allocations folder](https://drive.google.com/drive/folders/1FqRVxmUFCdhknIB8kwV2z4lOSPfjA0eS) and update the name for the month you're allocating
+
+Prefix it with DRAFT until it's done, so that someone doesn't think you're done and uses the data when you're still updating last month's data.
 
 Copy the exchange rate into the `ZAR in a USD` value cell on the Settings sheet
 
@@ -39,4 +39,21 @@ Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` valu
 3. Ensure significant projects are listed in the table on the S3 sheet
 4. Copy the project totals for the month to the monthly $ cell of the S3 sheet
 5. Verify that the S3 incl tax $ values match between the Settings and the S3 sheet
+
+### Allocate EC2 and other costs
+
+1. Ensure the EC2 instances list that the **servers sheet** reflects the servers that were running most of that month
+2. Ensure that the apps running in AWS are reflected accurately on the **Apps sheet** for most of that month
+   1. The apps that should be there are
+   2. Removed apps are not there
+   3. The server they're allocated to is correct
+3. verify that the `Grand Total` `SUM of monthl USD incl tax` on the Apps sheet is the same as `EC2+Other` `USD incl Tax` on the Settings sheet
+
+### Record project charges in Xero
+
+1. Record costs on the S3 sheet
+2. Record costs on the EX2 Project charges sheet
+3. Allocate unknown to Core
+
+
 
