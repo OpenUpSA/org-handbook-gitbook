@@ -17,9 +17,9 @@ Internally
 
 Externally
 
-* **Email: in the beginning, bc people are most comfortable with that.**
-* **Phone calls: if they’re a long term partner, try to bring them into Slack.**
-* **For a month long project, probably just emails.** 
+* Email: in the beginning, bc people are most comfortable with that.
+* Phone calls: if they’re a long term partner, try to bring them into Slack.
+* For a month long project, probably just emails. 
 
 **Adrian K:** 
 
