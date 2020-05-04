@@ -7,6 +7,7 @@
 
 * [Project Initiation](projects/pre-project.md)
 * [Project Implementation](projects/project-planning/README.md)
+  * [Agile & Scrum](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)
   * [Team Management](projects/project-planning/team-management.md)
   * [Common Roles](projects/project-planning/common-roles.md)
