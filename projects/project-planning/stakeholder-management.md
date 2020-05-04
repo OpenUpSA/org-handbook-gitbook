@@ -15,52 +15,31 @@
 
 #### Managing stakeholders
 
-**Shaun R:** So, the main thing with managing stakeholders is obviously communication. It’s about understanding and their needs and their expectations. Basically, your job as a project manager is to make sure you understand them, and that they understand you. They need to feel like their input is in the actual tool, or project or whatever you’re doing. They don’t wanna not know what’s going on. 
-
-So to summarize: as a project manager, your job is to manage their needs and expectations. Keep them informed, and make sure you both understand each other. 
-
-So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
-
-Slack
-
-* What we do with our stakeholders is create a Slack channel they can be a part of. We’re really encouraging Slack as a platform to do this, instead of email. Email can be a little more cumbersome, especially when you need to do back-and-forth \(communication\). Whereas Slack can allow conversation to be recorded. Then there’s kind of a paper trail; if people are unsure of what's been delivered, you can always go back and look at what we spoke about. 
-
-That all make sense? Cool,
-
-Regular communication, updates, and progress reports to your stakeholders. I can’t really give you a number on how many times a week you should find them, etcetera. That could be in a longer-based practices document, but we use those different platforms, it’s important to communicate often.
-
-And- I know this is probably something Adrian will speak about- letting them \(stakeholders\) understand how two-week Sprints work, and having that Sprint meeting with them, having them understand and allow you to work for two weeks. Then get back to them, instead of having them constantly making changes and comments and things like that- which could disrupt be disruptive, especially developers or for someone working on something that’s quite complex. 
-
-So having them attend those meetings instead, allows for less interruption throughout the process.
-
-**Adrian K:** When we were speaking about \(Project\) Initiation, I- I think that’s the period; the most fundamental part when it comes to stakeholders. The initiation process of the project.
-
-If you have the backing- that is, if you have your stakeholders buy in, and the communication platforms well defined in the initiation process of the project- it becomes quite easy to manage stakeholders. This is because they know through and what platforms they can communicate through, what they can look forward to. They also know what the roles and responsibilities are in the bigger project. 
-
-So I have to deal with stakeholder management all the time in all my meetings. As  constituencies, they represent a particular issue that they want to breeze through; the project’s that I’m trying to implement. For me, it’s very important to manage expectations from their side, as well as from the client's side, and to find that middle ground where we can deliver on something, and address both needs.
-
-There have been instances- make no mistake- where I’ve had my project management skills lean more toward the client. At the time, the client has been the more dominant persona in the space. It really depends on the situation, but you have to understand that it’s not just about managing stakeholder expectations, but client expectations as well. 
-
-**Jen W:**  Managing stakeholders for me is ensuring that stakeholders are kept in the communication loop, that they know what to expect, that their expectations are managed. That where they have the need for requirements, they- that when there are technical reasons that we can necessarily implement the way they believe they would like to see it, is making sure that I negotiate with them, and we find a compromise that works for everyone.   
+The key to stakeholder management is communication. A project manager is tasked with keeping stakeholders involved, and integrating their ideas in the proceedings. This begins and ends with ‘keeping them in the loop’, by managing and understanding their needs and expectations, while meeting requirements when possible. When we can’t implement a preconceived vision for a project. This means negotiating and working toward a satisfactory compromise.   
 
 
-So typically, I use various forms of communication. It’ll be phone calls, it’ll be meetings, it’ll be emails. Meetings will either be face-to-face or virtual, it doesn’t really matter.   
+‘_When we were speaking about \(Project\) Initiation, I think that’s the period; the most fundamental part when it comes to stakeholders. The initiation process of the project.  
+If you have the backing- that is, if you have your stakeholders buy in, and the communication platforms well defined in the initiation process of the project- it becomes quite easy to manage stakeholders. This is because they know through and what platforms they can communicate through; what they can look forward to. They also know what the roles and responsibilities are in the bigger project_’. **Adrian K**.    
   
+'Communication' means providing stakeholders with regular updates and progress reports. OpenUp utilizes a variety of platforms to achieve this \(see **Communication**, **Stakeholder Management**\). 
+
+Example: helping stakeholders understand the purpose of sprint meetings every two weeks. This prevents disruption, and keeps both parties from having to make constant changes or interruptions in the process of something that could potentially be fairly complex. These issues are sidestepped by including stakeholders in sprint meetings from the get-go. 
+
+Though it depends on the situation, stakeholder management isn’t just about managing stakeholder expectations, but \(to a variable degree\) client expectations as well. It’s very important to find the middle ground between both sides, where we can deliver on something and address the needs of both constituencies.  
 
 
 #### Recommendations on Dealing with Difficult Stakeholders
 
-**Shaun R:** Following best practices and communicating is important. What’s really important to remember for difficult stakeholders is, setting clear boundaries and a clear scope on what you will do and what won’t do, by the beginning of the project. Often stakeholders will have an idea in their head which just isn’t possible or practical. Maybe their idea  would take up much more resources than they think. People underestimate how long it takes to create something. They always underestimate how long and how much effort it’ll take.
+Difficult stakeholders are theorized to most likely arise whenever a project doesn’t have a reporting system in place; when a project lacks transparency and accountability. 
 
-So it’s about setting expectations early, and then working to that plan. Then also making sure that your stakeholders are invested in the project as well, and that they’re doing what they’re supposed to be doing. I think if people are really difficult \(and you might need to speak to Adi about this\) - if a stakeholder or a client or a partner or collaborator is too difficult to work with- you have to decide if maybe it’s just not worth it, it’s too difficult to work with this person, and you kind of like, fire your clients. 
+When it comes to difficult stakeholders, it is important to set clear boundaries- a clear scope on what you will and won’t do, in regards to the project and for the stakeholder in question- from the beginning. Many stakeholders have ideas or concepts that aren’t possible or practical, within the given parameters. Maybe they don’t realize the quantity of resources those ideas would need to be implemented; maybe they underestimate the time and the effort it would take to make their initial concept a reality. 
 
-So that’s probably what I would do with difficult stakeholders, but yeah. Good communication, and also, a lot of times there with the difficult ones is that they’ll say something, you’ll do what they say, and then they’ll say, “but I didn’t mean that”. So it’s about showing them that you’re basically working- the clearer they are, the easier it is for you to do your job.   
-  
-  
-****
+Setting expectations early- from the initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
 
-  
-****
+If they refuse to listen or negotiate, remain adamantly insistent on seeing their vision through- if they’re just too difficult- escalate and get help \(from Adi and Lailah\), depending on if the issue is technological or operational. If that doesn’t help, it might be necessary to let the stakeholder go.  
+
+
+\*\*\*\*
 
 ## **Meetings**
 
@@ -178,6 +157,14 @@ I guess that’s why I was trying to make the distinction between workshops and 
 
 ## Communication
 
+**Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
+
+Slack
+
+* What we do with our stakeholders is create a Slack channel they can be a part of. We’re really encouraging Slack as a platform to do this, instead of email. Email can be a little more cumbersome, especially when you need to do back-and-forth \(communication\). Whereas Slack can allow conversation to be recorded. Then there’s kind of a paper trail; if people are unsure of what's been delivered, you can always go back and look at what we spoke about. 
+
+That all make sense? Cool,
+
 #### Frequency
 
 #### Slack
@@ -198,6 +185,8 @@ Outputs \(tracking via Trello - create a template project board\)
 
 * Time frames/milestones/stages and deliverables
 * Monthly report \[Doc\]
+
+
 
 ## Invoicing and Receiving Payment
 

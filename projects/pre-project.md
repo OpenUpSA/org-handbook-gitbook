@@ -14,69 +14,42 @@ To inform and empower citizens through technology about how government systems w
 
 We want to create a vibrant civic data landscape in which residents and civic groups use data tools and civic tech to engage with government, and government becomes open, accountable and responsive to their needs.
 
+## How Projects Support Our Mission
+
 #### What are the qualities that make a project align with OpenUp's mission and vision, and what are the metrics used to measure them?
 
-**Shaun R**: A potential project would need to answer two questions:
+ **‌**OpenUp’s projects should allow the public to play an active role in society, and make a difference in terms of their needs. A project’s ability to address and achieve this is initially judged from the perspective of three key words in our core values: to **Inform, Empower,** and **Activate**. These broad segments form the basis of the metrics we use to assess potential project compatibility. 
+
+#### Inform
+
+* Are people informed? 
+* What will we inform them of? 
+* Why do we want to inform them? 
+
+**Empower**
+
+* How will what we plan to do empower our audience?
+* How will we give them the ability to actively interact with their environment?
+* How many people can use our tools?
+* How many people can access them? 
+* Ultimately, what benefit would the information have? How much will a tool help or improve the circumstances of our target audience?
+
+**Activate**
+
+* Who is our target audience? What kind of questions would they want answered?
+* How will we inform our target audience? What medium will we use to inform them? 
+
+In summary, a potential project would need to answer two questions:
 
 1. Does it create information that is accessible to and/or could be given to citizens?
 2. Does the project create tools that allow people to successfully engage and interact with government systems?
 
-If the answer to either is no, the proposed project never leaves the drawing board. 
+ For example, making budget data open to the public allows them to stay informed of developments. By creating a tool that sits on top of the data that people can use, we empower South African citizens with the knowledge the tool grants them. This helps hold the government accountable.
 
-Both of these questions stem from two keywords in our company philosophy, that ultimately make up our metrics.   
-
-
-* Informed
-  *  Are people informed?
-* Empowerment
-  * How many people can use our tools?
-  * How many people can access them?
-
-For example: making a tool that allows people to comment on what’s going to be built in their areas, by letting them get involved in the IDP \(Integrated Development Plan\) process.  
+OpenUp is not a grassroots organization. In our mission to make information available, we have to find the right partners and partner with the right companies.   
 
 
-We can measure if people are able to use our tool if people know about it, but when an event happens that people need to make comments on, the ultimate measurement of empowerment’s side is how much our tool will help them. or improve their circumstances.   
-
-
-Core objectives of the mission: to open up govt data
-
-Informed: opening up a data set
-
-Empowered: creating a tool that sits on top of the data that people can use   
-
-
-**Adrian K**: From my understanding of working in OpenUp for the last two years, our core values are to Inform, Empower, and Activate. Two of the projects I work on- access to project information, and budget information- both fall under the first two \(Inform and Empower\) in different ways. Making budget data available to the public allows the public to stay informed, and empowers South African citizens with the knowledge it grants them. This helps them hold the government accountable. 
-
-Through the projects we have, society should be able to play an active role and make a difference, in terms of what their needs are.  
-I often use the three broad segments of our core values: Inform, Empower, and Activate. Based on the demands of our clients, we start finding out what this means and how the segments might apply for every particular project.   
-
-
-Inform
-
-* What is the medium we will use to inform them? Is it going to be a web based medium? An app? 
-* Who is the target we are informing?
-* In both kinds of projects we have a community leader, an activist, a teacher- a target audience in mind. What kind of questions would they want answered?
-
-Empower
-
-* How will what we plan to do empower our audience?
-* How will we give them the ability to actively interact with their environment?
-
-Activate
-
-* They play a part in the chain
-* They might want different things
-* Firstly, What medium do we use? 
-* Who is our target audience?
-
-
-
-Keep in mind that we aren't a grassroots organization. As an org, we make information available. However, we need to hook up with the right partners, and partner up with the right companies.   
-  
-  
-****
-
-#### As a non-profit, how does the potential for profit influence the overall viability of a proposed project?
+#### \*As a non-profit, how does the potential for profit influence the overall viability of a proposed project?
 
 **Adrian K**: That’s something we’ve been tackling. Because we work  with technology, we haven’t really articulated how to sell what we have to offer more effectively. With certain projects, there’s a client, and there’s a contract. We go out, and deliver on what the contract says. Through this, we generate a fixed amount of money. Luckily, both of my current projects have contracts. So I know exactly what the fixed amount will be, and what the client expects.    
 
@@ -113,29 +86,32 @@ We shouldn’t be looking at what we do as a profit making activity**.**
 
 #### **What, specifically, are the documents and checklists required for a project to push through?**
 
-**Shaun R**: So the first thing on the agenda is a concept note, or a proposal. You need to define what the problem is and what you’re trying to solve- NOT the tool you’re trying to create.   
+The first thing a project requires to push through the conceptual stage is a concept note or a proposal, These are used to ‘define what the problem is’, and what this project is attempting to solve- NOT by the tool we want to attempt to create. Building a concept note on the basis of preconceived tools or technology- like a website, or an app- is a good way to get confined by the boundaries of the tool in mind, limiting potential solutions. 
+
+* ~~‘We want to build a website’~~ \(wrong\)
+* ‘This is the problem we are trying to solve’, and ‘this is how we can solve it’.  \(correct\)
+
+Implementation plans go into time frames that get broken down into digestible chunks called ‘sprint plans’.  i.e. if a particular feature needs to be delivered, we align it to a Gantt chart or a project load map. These make it possible to develop small, mini-time frame plans. Within a bigger delivery of project features and a 12-month plan, two-to-three week plans are made.   
 
 
-We don’t start by saying “we want to build a website”. We say that, “this is the problem we’re trying to solve”, and “this is how we’re going to go about \(experimentally\) solving it. If you decide on the tool or the tech first- like a website or an app- then you’re confined by that tool. How do you know it’s going to work? We go back to the conceptual stage and ask,  
+Through the duration of this process, Google Drive is used to document everything. It’s common for the living minutes to get taken, most notably during project steering meetings. Project steering meetings give the organization opportunities to discuss what OpenUp needs to prioritize. This is all made possible through an Agile project management system, which allows time and schedules to shift once data is made available.   
 
 
-1. What’s the problem here?
-2. How do we go about solving it? 
+The last step is to partner with a committed domain expert- a process called stakeholder management. Typical partners are government citizen groups and NGOs- specialists on the issue at stake, with the ability to drive the project forward.   
+****
 
-The second part of what we need to do is partner with a domain expert who is committed to the project. We’re jacks-of-all-trades, not experts. We need to partner with someone, like government citizen groups and NGOs, who are experts on the issue and will drive the project forward. 
+**To Summarise: Internal Project Initiation Process- Steps and Documents:**
 
-**Adrian K**: With my projects, there are clear contracts between us \(OpenUp\) and the client. Clear contracts with deliverables, time frames, and an overall idea of what the budget might look like. I’m made aware that my ability to deliver all of the features outline will amount to a certain outcome. That’s the first process. 
+1. Create a Trello Board
+2. Create a project chart and checklist. The project manager will draft an initial concept note budget and a rough implementation plan. Formulate a cohesive proposal from the concept note.  During this stage, we work to determine: 
+   * What we are doing
+   * What we are trying to solve
+   * Who are we doing it for. Note that is a very important part of the overall process.
+3. Stakeholder engagement begins.
 
-Internally, we normally develop concept notes or a project proposal. Normally, the project manager will come up with a concept note budget and a rough implementation plan. My implementation plans go into a certain time frame, so they get pulled into my Sprint plans. For example, if a particular feature needs to be delivered, we align it to a Gantt chart or a project load map. Through these, it’s possible to develop small, mini-time frame plans. Within a bigger delivery of project features and a 12-month plan, we would have two or three week plans within them.
 
-What else?
 
-We use Google Drive- I use Google Drive- to document everything.   
-We also document things through living minutes- notes taken when we meet up and voice out thoughts and concerns. This usually happens during project steering meetings- which are INCREDIBLY important. They give use the chance to have discussions on what needs to be prioritized.  During these meetings, we can bring in users gathered through our delivery of features. This is all made possible through our Agile project management system, which allows for time changes once data is available. 
-
-## How Projects Support Our Mission
-
-## Engaging Stakeholders
+### **Engaging Stakeholders**
 
 Engaging stakeholders will usually be one of the first stages of every project. It is important to know exactly who is involved, what their level of commitment is \(financial and labour\), and have clarity on roles within the project. 
 
@@ -178,28 +154,15 @@ Projects cannot run indefinitely. The client or partner may have some hard deadl
 
 #### How long does the Project Initiation Phase take in relation to the rest of the project lifespan?
 
-**Shaun R:** What we want to answer here is, “how long do we want to do this for?”
+What needs to be considered here is 'how long do we want to do this for?'
 
-Sometimes, a project proposal or project note doesn’t go anywhere. We’ll put it together and the project might go ahead, but sometimes, there’s no money. That’s why the budget comes last, to be signed off.
+The length of the Project Initiation phase usually depends on the circumstances the project was birthed from. A clear client with outlines intentions and set deliverables typically indicate a shorter initiation process. Fixed contracts easily expedite this phase of the project lifespan. 
 
-The project can go ahead, but it can incubate, or be written off as a waste of time. Because of this, we want to get to the decision making stage as quickly as possible  
+Otherwise- for projects borne from proposals and concept notes, that require OpenUp to engage possible users, participants, and clients- the initiation process easily takes two to three months, minimum. 
 
+Some projects never exit the initiation phase. A proposal or a concept note could be put together and approved, and still fail to leave the procedural planning stage. A common reason for this is a lack of funds- which is why the budget is the last item to be signed off. Sometimes the project incubates, or gets written off as a waste of time. This is why it's imperative to get to the decision-making stage as quickly as possible.
 
-**Adrian K:** I think this is an opportunity to differentiate. When there’s a clear client, I think the initiation process isn't that long, because there are set deliverables.
-
-When it’s a project where OpenUp needs to engage possible participants, possible users, possible clients, for that matter….then the initiation process has taken quite long.
-
-So I’ll say for a client with a specific initiation process would probably take about a couple of weeks? Or a month? 
-
-For a non-client- where we actually have to go out and engage stakeholders/clients and sort of sell who we are and what OpenUp does- that initiation process takes \(I’ve seen, EASILY\) two to three months. 
-
-If you want to do it the correct way, then we actually speak to all stakeholders in the space. So we explain the value of open data, and sell them what OpenUp has to offer. For example, in the municipal space, where some of my colleagues are working. 
-
-In some instances, the Project Initiation phase has been quite easy; in other instances it’s been quite difficult because of...of. I don't know, I can’t explain that part? But I think it’s quite clear that when there’s a fixed contract, initiation into that project is simpler. When there’s not a fixed contract, when there’s a proposal or, or a concept note, then- put in a particular space- it becomes more lengthy.  
-  
-
-
-
+ 
 
 ### Is this project a revenue stream for OpenUp?
 
@@ -228,17 +191,10 @@ The information mentioned above should be complied into a Memorandum of Understa
 
 **What kind of MOUs/contracts are worked up during the project?**
 
-**Shaun R:** The first thing to look at is creating a Trello Board. 
+Many projects birth clear contracts between OpenUp and the client- with deliverables, time frames, and an overall idea of what the budget might look like. Project managers are made aware that their ability to deliver on the features outlined will ultimately amount to a certain desired outcome. 
 
-Then we create a project chart and checklist. Under the Project Initiation checklist, there is stakeholder engagement, which is basically ‘partnering with the expert’. 
-
-Then from the concept notes, we draw up a proposal. During this stage we work to determine 1\) What are we doing, 2\) What are we trying to solve, and 3\) Who are we doing for. This is a REALLY important part of the process.   
-
-
-The first two things on the checklist are the two things we spoke about earlier.   
-
-
-On the administrative side of things, they create:
+  
+****On the administrative side of things, they create:
 
 #### Templates
 
@@ -253,7 +209,7 @@ On the administrative side of things, they create:
 
 Add the stakeholders details to **stakeholder database**.
 
-## Project Initiation Documents
+## Product Management During the Project Initiation Phase
 
 #### Documents and Checklists Required for a Project to push through:
 
