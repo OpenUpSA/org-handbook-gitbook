@@ -94,15 +94,17 @@ That all make sense? Cool.
 ### **Ways and Places to Conduct Meetings** 
 
 * **Big planning meetings \(aka kickoff meetings\).** These are about brainstorming; getting information out of people's heads, understanding project concept, determining the objectives and what we want to achieve out of the project, etc.
+
+
+
 * **Task orientated meetings i.e.** sprint planning meetings, sprint review, sprint plans. Covers the task list, what has and hasn't been done, resources needed, etc. Shouldn't be held too often, as you want to give people time to do the work that's been set. 
 
 
 
-* this is the problem we’re having, you’re employed because you're able to go out and bring back what you’ve got so that we can review it again.
-* Catchup meeting. These are the smallest meetings. \(Shaun’s favorite\) Probably my favorite meeting to have with people I work well with, and my least favorite with people who I don’t work well with. 
-* So for example, I’ll go to Matt, and it’ll just be a simple, one-on-one, “just update me one what you’ve been doing.” And they can present their work in a very uncritical way, more like an expose, we can have an informal discussion, and I can understand how far along the project is, and what that person needs without having to really work on the task list with them. \(Although I will go back and feed that into a task list\). 
-* So that’s like, the least formal meeting, where I think a good working relationship can be built.
-* Face-to-face meetings
+* **Catch up meetings**. Small meetings \(Shaun’s favorite\). Informal, great foundation for building good working relationships. 
+* **Shaun R:** my favorite meeting to have with people I work well with, and my least favorite with people who I don’t work well with. 
+* **Shaun R:** So for example, I’ll go to Matt, and it’ll just be a simple, one-on-one, “just update me one what you’ve been doing.” And they can present their work in a very uncritical way, more like an expose, we can have an informal discussion, and I can understand how far along the project is, and what that person needs without having to really work on the task list with them. \(Although I will go back and feed that into a task list\). 
+* **Face-to-face meetings**
 * Digital meetings- phone calls, Skype meetings, etc.
 * I generally prefer face-to-face, because communication is easier there. But you’ve got to do remote when you’ve gotta do remote, and I don’t think it’s that difficult to do remote meetings.
 * What you do need are people to be on time \(Shaun need’s JD’s checklist for practices on meetings\). People need to commit to meetings at least 2 days in advance; you can’t just do a meeting in 5 minutes unless people are available. Don’t expect them to be available. Every meeting needs an agenda. People should arrive on time to the meeting, and most importantly people need to set times for meetings to stick to.
