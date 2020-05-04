@@ -88,19 +88,13 @@ That all make sense? Cool.
 ### **Ways and Places to Conduct Meetings** 
 
 * **Big planning meetings \(aka kickoff meetings\).** These are about brainstorming; getting information out of people's heads, understanding project concept, determining the objectives and what we want to achieve out of the project, etc.
-
-
-
 * **Task orientated meetings i.e.** sprint planning meetings, sprint review, sprint plans. Covers the task list, what has and hasn't been done, resources needed, etc. Shouldn't be held too often, as you want to give people time to do the work that's been set. 
-
-
-
 * **Catch up meetings**. Small meetings \(Shaun’s favorite\). Informal, great foundation for building good working relationships. 
 * **Shaun R:** my favorite meeting to have with people I work well with, and my least favorite with people who I don’t work well with. 
 * **Shaun R:** So for example, I’ll go to Matt, and it’ll just be a simple, one-on-one, “just update me one what you’ve been doing." And they can present their work in a very uncritical way, more like an expose, we can have an informal discussion, and I can understand how far along the project is, and what that person needs without having to really work on the task list with them. \(Although I will go back and feed that into a task list\).
 * **Digital meetings**- phone calls, Skype meetings, etc.
 * * **Adrian K: S**ince I came from a government background and worked there for fifteen years, vI was only familiar with face-to-face, boardroom-like meetings. In OpenUp...I’ve had to re-adapt.
-  * So, my favorite used to be in-person, boardroom-like meetings for communication. Now, I've become more online, virtual. Zoom, Google Hangout, Skype. I’m able to say what I want much better. 
+  * So, my favorite used to be in-person, boardroom-like meetings for communication. Now, I've become more online, virtual. Zoom, Google Hangout, Skype. I’m able to say what I want much better.
 * **Face-to-face meetings**
 * * **Shaun R:** I generally prefer face-to-face, because communication is easier there. But you’ve got to do remote when you’ve gotta do remote, and I don’t think it’s that difficult to do remote meetings.
   * 
@@ -145,6 +139,7 @@ I guess that’s why I was trying to make the distinction between workshops and 
 Outputs \(tracking via Trello - create a template project board\)
 
 * Time frames/milestones/stages and deliverables
+* Sprint plans and sprint reviews
 * Monthly report \[Doc\]
 
 
