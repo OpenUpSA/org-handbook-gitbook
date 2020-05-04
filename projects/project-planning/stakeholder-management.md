@@ -106,11 +106,41 @@ So it’s about managing an internal team, and that’s where Trello becomes my 
 J: So just a note for me: it’s mostly software. I know that’s different for Shaun’s projects.   
 
 
-**Ways and Places to Conduct Meetings**
+## Communication
 
-**Shaun R:** 
+**Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
 
-Ok, so there’s obviously the different types of meetings, um and I’d like to see what you get from all the other project managers here, like the different types of meetings that are possible. So you’ve got like:  
+Slack
+
+* What we do with our stakeholders is create a Slack channel they can be a part of. We’re really encouraging Slack as a platform to do this, instead of email. Email can be a little more cumbersome, especially when you need to do back-and-forth \(communication\). Whereas Slack can allow conversation to be recorded. Then there’s kind of a paper trail; if people are unsure of what's been delivered, you can always go back and look at what we spoke about. 
+
+That all make sense? Cool. 
+
+* **Frequency**
+* **Slack**
+* **Email**
+* **Meetings/Face-to-face**
+* **Phone Calls**
+* **Whatsapp**
+* **Social Media**
+
+#### Slack
+
+#### Email
+
+#### Meetings/Face-to-face
+
+#### Phone calls
+
+#### WhatsApp
+
+#### Social Media
+
+
+
+### **Ways and Places to Conduct Meetings**
+
+**Shaun R:** Ok, so there’s obviously the different types of meetings, um and I’d like to see what you get from all the other project managers here, like the different types of meetings that are possible. So you’ve got like:  
 
 
 * Big planning meetings \(like your kickoff meeting, and when you’re scoping out the project\). You don’t have to be too prescriptive; it’s more of like getting info out of people's heads, so brainstorming, understanding the conceptualization of the project, what actually are you trying to achieve, etc. That’s a nice meeting to have. 
@@ -152,32 +182,7 @@ I guess that’s why I was trying to make the distinction between workshops and 
   
 
 
-  
 
-
-## Communication
-
-**Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
-
-Slack
-
-* What we do with our stakeholders is create a Slack channel they can be a part of. We’re really encouraging Slack as a platform to do this, instead of email. Email can be a little more cumbersome, especially when you need to do back-and-forth \(communication\). Whereas Slack can allow conversation to be recorded. Then there’s kind of a paper trail; if people are unsure of what's been delivered, you can always go back and look at what we spoke about. 
-
-That all make sense? Cool,
-
-#### Frequency
-
-#### Slack
-
-#### Email
-
-#### Meetings/Face-to-face
-
-#### Phone calls
-
-#### WhatsApp
-
-#### Social Media
 
 ## Tracking work & reporting
 
