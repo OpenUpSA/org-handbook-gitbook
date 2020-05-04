@@ -41,7 +41,38 @@ J: Yup. And also, internally, is it a company update in terms of how we’re tra
 ****
 
   
+**Team Management During Projects That Call For External Collaboration**
+
+There are many ways to handle cross-organization team management. Typically, work happens in-parallel- a project manager/lead will handle OpenUp’s side of things, and vice-versa with the entity we’re collaborating with. Each company’s project lead/project manager handles and oversees their own staff.   
+
+
+Interactions throughout the duration of the project. Communication is conducted between the project leads, each of whom might work individually with different companies, organizations, and corporations in order to meet the prescribed project goals.   
+
+
+Internal systems are used to engage with the team and push projects forward. Every person &/or entity we work and associate with outside of OpenUp is usually under contract. These contracts determine a budget and a reporting process; they outline the terms and the timeline of what the associate agreed to produce. Throughout the whole spectrum, communication remains key to meeting deadlines and producing deliverables.   
+
+
+ **Jen W**: Internal team members- and that’s a distinction I would make in this case- would be people actually implementing the project. Implementation for me is very much technical...my products are mostly software development.    
+
+
+So it’s about managing an internal team, and that’s where Trello becomes my source of truth...I don’t do standups anymore. What I do...alright, so maybe just to contextualize; currently my Wazimap team consists of two offshore developers, working in different timezones: Adi, myself, and Matt. So we all use Trello and a Slack channel to do all of our communication, clarification, as well as prioritization.   
   
+
+
+**Shaun R**: But I think the best way to do it is to itemize tasks, so this needs to be done by when and by whom. That’s one of the practices that I always do. You’ve probably seen that in the Sprint plans that I’ve put together.
+
+‌
+
+* What are the tasks that need to be done?
+* Who is going to do it?
+* Who is responsible for it?
+* When does it need to be done by?
+
+‌
+
+I think that’s just a good way of basically making it clear to everyone what needs to happen, so that you don’t have to micromanage, especially when it's across organizations or across companies.
+
+One more thing is making yourself available to people at the other organization or company, if they need help from you.  
 
 
 ## Onboarding

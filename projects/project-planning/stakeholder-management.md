@@ -56,9 +56,8 @@ If they refuse to listen or negotiate, remain adamantly insistent on seeing thei
 
 Read more on how to get the best out of meetings [here](https://hbr.org/2016/06/8-ground-rules-for-great-meetings).
 
-**Team Management During Projects That Call For External Collaboration**
+  
 
-\*\*\*\*
 
  **Shaun R:** What will generally happen will be that the project manager from our side, and whoever the project lead, or project owner from the other organization or company’s side. And generally, that person will manage their employees, and the project manager will look after OpenUp staff.
 
