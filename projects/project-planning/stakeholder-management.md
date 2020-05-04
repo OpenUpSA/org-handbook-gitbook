@@ -59,54 +59,6 @@ Read more on how to get the best out of meetings [here](https://hbr.org/2016/06/
   
 
 
- **Shaun R:** What will generally happen will be that the project manager from our side, and whoever the project lead, or project owner from the other organization or company’s side. And generally, that person will manage their employees, and the project manager will look after OpenUp staff.
-
-Sometimes we might work across, and we work directly with them, but what I do is generally work through whomever the lead is on that side, to speak to them to get them to stuff, and then we might work individually one-on-one with someone from a different company, or a different organization. 
-
-But I think the best way to do it is to itemize tasks, so this needs to be done by when and by whom. That’s one of the practices that I always do. You’ve probably seen that in the Sprint plans that I’ve put together.   
-
-
-* What are the tasks that need to be done?
-* Who is going to do it?
-* Who is responsible for it?
-* When does it need to be done by? 
-
-I think that’s just a good way of basically making it clear to everyone what needs to happen, so that you don’t have to micromanage, especially when its across organizations or across companies. 
-
-One more thing is making yourself available to people at the other organization or company, if they need help from you.   
-
-
-**Adrian K:** I have a contract with every person outside of OpenUp- besides Damian, who works with me, Roxanne, and the rest of the team. Right now, most of my colleagues in OpenUp at the moment are predominantly on my team. This means I project manage basically everyone at some point in a project. Besides Shaun and Jen really, because they’re project managers themselves. 
-
-So with that it’s quite easy, using that internal system for me to engage them, to move the project forward, to follow in-person catch-ups, etcetera. For external people \(i.e. Roxanne\), I develop a form of contract that says, “this is what I need you to deliver within these three months.” We then agree on a budget and a reporting process. So in Roxanne’s case, she comes in on a Monday and she reports in our standups.
-
-With other companies, it’s been rather difficult. I’ve had some challenges with one particular company that used to develop our videos. My predecessor recruited them before I became project manager. The company was challenging and difficult to manage; since then, we’ve replaced them.
-
-What I did was run through the lifespan of that particular project with the prior company. I made look for some other service provider that was more suited to- that I can work with. I found someone else at a fraction of the cost. 
-
-So it’s not a difficult thing. I think other companies- and us at OpenUp- need to know what we need to deliver on, through clear communication. And \(I keep repeating this throughout this interview\) communication is important on any level. Be it by email, through meetings, Trello Board, whatever; you need to to be clear, across the whole spectrum. 
-
-So it’s not a difficult thing- I think both companies, or both organizations and us, at OpenUp, know what we need to deliver on, and clear communication. And I keep repeating this throughout this interview; communication is quite important at what level- whether it be by emails, meetings, Trello Board, whatever- you need to be clear, in the whole spectrum. 
-
-What method do we use for what particular person, or organization within the project, that’s all.
-
-**Jen W:** is this where a team is defined as members from other organizations that are part of the implementation team? 
-
-K:...pretty much, yeah. Like in this question, how I’d define a team would be whoever’s working on the project/s at the time, whether they be from OpenUp or not. 
-
-J: And your distinction between team members and stakeholders?
-
-K:...um. Not much of a distinction, from my perspective. Even though I know there really should be. But, um, this question is mostly about how you stay connected with other teams, how, uh- really, how you work with them when your companies might be doing different things. That sort of thing. 
-
-J: So, external resources, I would put into stakeholders, and my answer for that would apply. Internal team members- and that’s a distinction I would make in this case- would be people actually implementing the project. Implementation for me is very much technical. I know it’s very different in Shaun’s world; it’s not all software development, but my projects are mostly software development. 
-
-So it’s about managing an internal team, and that’s where Trello becomes my source of truth. I would be able to say that I used to hold standups. I don’t do standups anymore. What I do do...alright, so maybe just to contextualize; currently my Wazimap team consists of two offshore developers, working in different timezones. Adi, myself, and Matt; so, we all use Trello and a Slack channel to do all or our communication, clarification, as well as prioritization. 
-
-...I’m sorry, that doesn’t speak of companies and organizations, but I can’t think of an example where I’m doing that. I mean, that isn’t just general stakeholder management for the rest of the external team. 
-
-J: So just a note for me: it’s mostly software. I know that’s different for Shaun’s projects.   
-
-
 ## Communication
 
 **Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
@@ -139,12 +91,9 @@ That all make sense? Cool.
 
 
 
-### **Ways and Places to Conduct Meetings**
+### **Ways and Places to Conduct Meetings** 
 
-**Shaun R:** Ok, so there’s obviously the different types of meetings, um and I’d like to see what you get from all the other project managers here, like the different types of meetings that are possible. So you’ve got like:  
-
-
-* Big planning meetings \(like your kickoff meeting, and when you’re scoping out the project\). You don’t have to be too prescriptive; it’s more of like getting info out of people's heads, so brainstorming, understanding the conceptualization of the project, what actually are you trying to achieve, etc. That’s a nice meeting to have. 
+* **Big planning meetings \(aka kickoff meetings\).** These are about brainstorming; getting information out of people's heads, understanding project concept, determining the objectives and what we want to achieve out of the project, etc.
 * Task orientated meetings- those are like Sprint planning meetings, Sprint review and the Sprint plan, a little bit like we did this morning, where we like- Okay. “What was our old task list, what’s been done, what hasn’t been done, why hasn't it been done, what are the reasons for it not being done, do certain individuals need more advice, do they need more resources, like what do they need to do their job better, and then to set the next task list. You don't want to meet too often, you want to give people time to do the work that you’ve set. You want to build a habit of not having a million meetings to re-clarify what you spoke about.
 * this is the problem we’re having, you’re employed because you're able to go out and bring back what you’ve got so that we can review it again.
 * Catchup meeting. These are the smallest meetings. \(Shaun’s favorite\) Probably my favorite meeting to have with people I work well with, and my least favorite with people who I don’t work well with. 
