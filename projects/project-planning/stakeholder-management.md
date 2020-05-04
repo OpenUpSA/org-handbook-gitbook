@@ -58,6 +58,8 @@ Read more on how to get the best out of meetings [here](https://hbr.org/2016/06/
 
 **Team Management During Projects That Call For External Collaboration**
 
+\*\*\*\*
+
  **Shaun R:** What will generally happen will be that the project manager from our side, and whoever the project lead, or project owner from the other organization or company’s side. And generally, that person will manage their employees, and the project manager will look after OpenUp staff.
 
 Sometimes we might work across, and we work directly with them, but what I do is generally work through whomever the lead is on that side, to speak to them to get them to stuff, and then we might work individually one-on-one with someone from a different company, or a different organization. 
