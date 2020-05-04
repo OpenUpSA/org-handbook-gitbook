@@ -36,10 +36,7 @@ When it comes to difficult stakeholders, it is important to set clear boundaries
 
 Setting expectations early- from the initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
 
-If they refuse to listen or negotiate, remain adamantly insistent on seeing their vision through- if they’re just too difficult- escalate and get help \(from Adi and Lailah\), depending on if the issue is technological or operational. If that doesn’t help, it might be necessary to let the stakeholder go.  
-
-
-\*\*\*\*
+If they refuse to listen or negotiate, remain adamantly insistent on seeing their vision through- if they’re just too difficult- escalate and get help \(from Adi and Lailah\), depending on if the issue is technological or operational. If that doesn’t help, it might be necessary to let the stakeholder go.
 
 ## **Meetings**
 
@@ -51,17 +48,14 @@ If they refuse to listen or negotiate, remain adamantly insistent on seeing thei
 6. Keep **minutes** of your meeting
 7. Every meeting should produce a **list of next actions** and the people responsible for that work
 8. You may want to decide when the next meeting will be
-9. Circulate minutes and action list to all participants afterwards
+9. Circulate minutes and action lists to all participants afterwards
 10. Keep a record of the minutes and action lists in the appropriate project folder
 
 Read more on how to get the best out of meetings [here](https://hbr.org/2016/06/8-ground-rules-for-great-meetings).
 
-  
-
-
 ## Communication
 
-**Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Hangout, Google Meet. 
+**Shaun R:** So the tools we use to communicate are face-to-face meetings, while remote meetings are done using Skype, Google  Hangouts/Meet. 
 
 Slack
 

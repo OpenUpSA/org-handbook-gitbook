@@ -8,7 +8,7 @@ To drive systemic change and innovation in local governance, in order to empower
 
 ### OpenUp's Vision
 
-To inform and empower citizens through technology about how government systems work, while giving them the proper tools to engage with and in their government more directly.
+To inform and empower citizens through technology about how government systems work, while giving them the proper tools to engage with their government more directly.
 
 ### What Impact do we want to have?
 
@@ -18,7 +18,7 @@ We want to create a vibrant civic data landscape in which residents and civic gr
 
 #### What are the qualities that make a project align with OpenUp's mission and vision, and what are the metrics used to measure them?
 
- **‌**OpenUp’s projects should allow the public to play an active role in society, and make a difference in terms of their needs. A project’s ability to address and achieve this is initially judged from the perspective of three key words in our core values: to **Inform, Empower,** and **Activate**. These broad segments form the basis of the metrics we use to assess potential project compatibility. 
+**‌**OpenUp’s projects should allow the public to play an active role in society, and make a difference in terms of their needs. A project’s ability to address and achieve this is initially judged from the perspective of three key words in our core values: to **Inform, Empower,** and **Activate**. These broad segments form the basis of the metrics we use to assess potential project compatibility. 
 
 #### Inform
 
@@ -119,12 +119,6 @@ Read this entire section and then use the **stakeholder checklist** and [**Proje
 
 \*see [Stakeholder Managemen](project-planning/stakeholder-management.md)t, Project Implementation.
 
-
-
-
-
-
-
 ### Desired goals and outcomes
 
 What are the desired outcomes for each stakeholder? From OU's side you may want to [create a concept note](https://drive.google.com/open?id=1K-mBZlabZYBi_LApktb7eYpmR1NCo7M8oroDechZfA8) to explain how the project supports[ OpenUp's mission](). 
@@ -162,8 +156,6 @@ Otherwise- for projects borne from proposals and concept notes, that require Ope
 
 Some projects never exit the initiation phase. A proposal or a concept note could be put together and approved, and still fail to leave the procedural planning stage. A common reason for this is a lack of funds- which is why the budget is the last item to be signed off. Sometimes the project incubates, or gets written off as a waste of time. This is why it's imperative to get to the decision-making stage as quickly as possible.
 
- 
-
 ### Is this project a revenue stream for OpenUp?
 
 \[Lailah, what are the implications here?\]
@@ -173,7 +165,7 @@ Some projects never exit the initiation phase. A proposal or a concept note coul
 * Why are you doing this project? 
 * How does it align with OpenUp's mission?
 * What question\(s\) are you trying to answer?
-* What's your broad strategy for answering these questions?
+* What is your broad strategy for answering these questions?
 
 ## Project Overview Document \(P.O.D\)
 

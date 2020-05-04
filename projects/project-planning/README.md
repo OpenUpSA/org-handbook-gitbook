@@ -18,7 +18,7 @@ This plan should include:
 
 If this project is small and contained you may want to do a once-off experiment. Use the [Experiment Template](https://docs.google.com/document/d/1Lg0rxIoDVkskMqfdbEtj43gCw_cMYb2zrVe_ZrWhbR4/edit) for this.
 
-If the project is large you may want to create a **Log Frame**, a detailed **Project Plan**, and a number of smaller [experiments ](https://docs.google.com/document/d/1Lg0rxIoDVkskMqfdbEtj43gCw_cMYb2zrVe_ZrWhbR4/edit)within the project.
+If the project is large you may want to create a **Log Frame**, a detailed **Project Plan** \(or both\), and a number of smaller [experiments ](https://docs.google.com/document/d/1Lg0rxIoDVkskMqfdbEtj43gCw_cMYb2zrVe_ZrWhbR4/edit)within the project.
 
 ## Experiments and Sub-project Plans
 
