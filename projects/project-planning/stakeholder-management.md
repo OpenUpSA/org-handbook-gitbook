@@ -110,12 +110,18 @@ That all make sense? Cool.
 * **Face-to-face meetings**
 * * **Shaun R:** I generally prefer face-to-face, because communication is easier there. But you’ve got to do remote when you’ve gotta do remote, and I don’t think it’s that difficult to do remote meetings.
   * 
-* What you do need are people to be on time \(Shaun need’s JD’s checklist for practices on meetings\). People need to commit to meetings at least 2 days in advance; you can’t just do a meeting in 5 minutes unless people are available. Don’t expect them to be available. Every meeting needs an agenda. People should arrive on time to the meeting, and most importantly people need to set times for meetings to stick to.
-* While meetings are important for planning, \(this is probably my strongest philosophy for planning\)  meetings aren’t work. Don’t see a meeting as work. 
-* There must always be a list of outcomes from a  meeting. Take minutes. You don’t have to be super detailed, just make sure the most important parts come through \(living minutes doc. Attach here. All minutes are recorded here
-* Task list- who is doing what, and when are they doing it by. 
-* Last thing: try setting the next meeting at the end of the meeting, since you don't know when you’ll have that same group of people together in a room again, and that can be quite difficult. 
-* I definitely think there could be a longer google doc attached here, like “best practices for meetings"? Because there’s a lot of different ways you could do these things.
+
+What you do need are people to be on time \(Shaun need’s JD’s checklist for practices on meetings\). People need to commit to meetings at least 2 days in advance; you can’t just do a meeting in 5 minutes unless people are available. Don’t expect them to be available. Every meeting needs an agenda. People should arrive on time to the meeting, and most importantly people need to set times for meetings to stick to.
+
+**Shaun R:** While meetings are important for planning, \(this is probably my strongest philosophy for planning\)  meetings aren’t work. Don’t see a meeting as work. 
+
+There must always be a list of outcomes from a  meeting. Take minutes. You don’t have to be super detailed, just make sure the most important parts come through \(living minutes doc. Attach here. All minutes are recorded here
+
+Task list- who is doing what, and when are they doing it by. 
+
+Last thing: try setting the next meeting at the end of the meeting, since you don't know when you’ll have that same group of people together in a room again, and that can be quite difficult. 
+
+I definitely think there could be a longer google doc attached here, like “best practices for meetings"? Because there’s a lot of different ways you could do these things.
 
 **Adrian K:** Initially- since I come from a government background, and worked there for fifteen years- I was only familiar with face-to-face, boardroom-like meetings. In OpenUp, we don’t really do face-to-face, boardroom meetings. I’ve had to re-adapt. 
 
