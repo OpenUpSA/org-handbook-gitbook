@@ -105,29 +105,27 @@ That all make sense? Cool.
 * **Shaun R:** my favorite meeting to have with people I work well with, and my least favorite with people who I don’t work well with. 
 * **Shaun R:** So for example, I’ll go to Matt, and it’ll just be a simple, one-on-one, “just update me one what you’ve been doing." And they can present their work in a very uncritical way, more like an expose, we can have an informal discussion, and I can understand how far along the project is, and what that person needs without having to really work on the task list with them. \(Although I will go back and feed that into a task list\).
 * **Digital meetings**- phone calls, Skype meetings, etc.
-* * **Adrian K:** Initially- since I come from a government background and worked there for fifteen years- I was only familiar with face-to-face, boardroom-like meetings. In OpenUp...I’ve had to re-adapt.
+* * **Adrian K: S**ince I came from a government background and worked there for fifteen years, vI was only familiar with face-to-face, boardroom-like meetings. In OpenUp...I’ve had to re-adapt.
   * So, my favorite used to be in-person, boardroom-like meetings for communication. Now, I've become more online, virtual. Zoom, Google Hangout, Skype. I’m able to say what I want much better. 
 * **Face-to-face meetings**
 * * **Shaun R:** I generally prefer face-to-face, because communication is easier there. But you’ve got to do remote when you’ve gotta do remote, and I don’t think it’s that difficult to do remote meetings.
   * 
 
-What you do need are people to be on time \(Shaun need’s JD’s checklist for practices on meetings\). People need to commit to meetings at least 2 days in advance; you can’t just do a meeting in 5 minutes unless people are available. Don’t expect them to be available. Every meeting needs an agenda. People should arrive on time to the meeting, and most importantly people need to set times for meetings to stick to.
+People need: 
+
+* to be on time
+* to commit to meetings at least 2 days in advance \(don't expect people to always be available\)
+* to set times to stock to.
 
 **Shaun R:** While meetings are important for planning, \(this is probably my strongest philosophy for planning\)  meetings aren’t work. Don’t see a meeting as work. 
 
-There must always be a list of outcomes from a  meeting. Take minutes. You don’t have to be super detailed, just make sure the most important parts come through \(living minutes doc. Attach here. All minutes are recorded here
+* There must always be a list of outcomes from a meeting. 
+* Take minutes. Make sure the most important parts come through. 
 
 Task list- who is doing what, and when are they doing it by. 
 
 Last thing: try setting the next meeting at the end of the meeting, since you don't know when you’ll have that same group of people together in a room again, and that can be quite difficult. 
 
-I definitely think there could be a longer google doc attached here, like “best practices for meetings"? Because there’s a lot of different ways you could do these things.
-
-**Adrian K:** Initially- since I come from a government background, and worked there for fifteen years- I was only familiar with face-to-face, boardroom-like meetings. In OpenUp, we don’t really do face-to-face, boardroom meetings. I’ve had to re-adapt. 
-
-So, my favorite used to be in-person, boardroom-like meetings for communication. Now, I've become more online, virtual. Zoom, Google Hangout, Skype. I’m able to say what I want much better.
-
-Either/or, I’m not really fussy about it.   
 
 
 **Jen W:** Meetings is a big word for me. So I see there are many different types of communications that need to happen. Some are shared working sessions, like running a workshop, and that’s typically to kind of center around the problem or maybe surface solutions, or potential options to solve that problem. That might be at the start of understanding who our users are, and what their needs are.
