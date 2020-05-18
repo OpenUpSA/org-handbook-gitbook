@@ -242,7 +242,7 @@ Something I’m very remiss in is communication from a social media point of vie
 I don’t know, ten to fifteen percent of the total lifespan? Maybe less?   
 
 
-Close-out for me, is- I think Adrian is the one who probably has the most specific closeout tasks, given the government work he does, and I know that’s a big government requirement. Close-out for me would be doing things like reconciling budgets, would be any sort of points that haven’t been- any backlog items, because we work in a timebox or a budget constraint, ideally.   
+Close-out for me, is- I think Adrian is the one who probably has the most specific closeout tasks, given the government work he does, and I know that’s a big government requirement. Close-out for me would be doing things like reconciling budgets, would be any sort of points that haven’t been- any backlog items, because we work in a time box or a budget constraint, ideally.   
 
 
 Um, process? It would be any of the requirements that haven’t been able to be done, kind of making sure that those are parked in a backlog for potentially revisiting in the future. And then also doing things like retrospectives.   
