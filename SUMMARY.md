@@ -12,6 +12,7 @@
   * [Creating a Budget](projects/pre-project/creating-a-budget.md)
   * [Documentation](projects/pre-project/documentation.md)
   * [Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
+  * [DRAFT COPY](projects/pre-project/draft-copy.md)
 * [Project Implementation](projects/project-planning/README.md)
   * [Agile & Scrum](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)

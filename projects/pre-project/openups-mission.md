@@ -82,3 +82,5 @@ I believe our goal should be to develop concepts and ideas that speak to our vis
 
 We shouldn’t be looking at what we do as a profit making activity**.**
 
+## **Meeting funder deliverables**
+

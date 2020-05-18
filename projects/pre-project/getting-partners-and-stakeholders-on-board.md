@@ -2,7 +2,7 @@
 
 ### **Engaging Stakeholders**
 
-Engaging stakeholders will usually be one of the first stages of every project. It is important to know exactly who is involved, what their level of commitment is \(financial and labour\), and have clarity on roles within the project. 
+Engaging stakeholders will usually be one of the first stages of every project. It is important to know who is involved, what their level of commitment is \(financial and labour\), and have clarity on roles within the project. 
 
 Read this entire section and then use the **stakeholder checklist** and [**Project Overview Document**](https://docs.google.com/document/d/1xDjx5-Wfqbsi8WnyaOrEQd-r98a_p27Jjp6WQ4nj_zc/edit) to make sure you have all the information you need to start a project.
 
