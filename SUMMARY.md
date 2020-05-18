@@ -5,7 +5,9 @@
 
 ## Project Management <a id="projects"></a>
 
-* [Project Initiation](projects/pre-project.md)
+* [Project Initiation](projects/pre-project/README.md)
+  * [OpenUp's Mission](projects/pre-project/openups-mission.md)
+  * [Writing a Concept/Proposal](projects/pre-project/writing-a-concept-proposal.md)
 * [Project Implementation](projects/project-planning/README.md)
   * [Agile & Scrum](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)

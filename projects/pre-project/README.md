@@ -117,7 +117,7 @@ Engaging stakeholders will usually be one of the first stages of every project. 
 
 Read this entire section and then use the **stakeholder checklist** and [**Project Overview Document**](https://docs.google.com/document/d/1xDjx5-Wfqbsi8WnyaOrEQd-r98a_p27Jjp6WQ4nj_zc/edit) to make sure you have all the information you need to start a project.
 
-\*see [Stakeholder Managemen](project-planning/stakeholder-management.md)t, Project Implementation.
+\*see [Stakeholder Managemen](../project-planning/stakeholder-management.md)t, Project Implementation.
 
 ### Desired goals and outcomes
 
@@ -133,14 +133,14 @@ Having clearly defined roles and communicating them to everyone is vital to a su
 
 Common roles include:
 
-* [Product Owner](project-planning/common-roles.md#product-owner) \(See also: [https://www.scaledagileframework.com/product-owner/](https://www.scaledagileframework.com/product-owner/)\)
-* [Project Manager](project-planning/common-roles.md#project-manager)
-* [Implementers ](project-planning/common-roles.md#lead-developer)\(coders, designers, writers etc.\)
-* [Communications or Marketing](project-planning/common-roles.md#communications-and-marketing-lead)
+* [Product Owner](../project-planning/common-roles.md#product-owner) \(See also: [https://www.scaledagileframework.com/product-owner/](https://www.scaledagileframework.com/product-owner/)\)
+* [Project Manager](../project-planning/common-roles.md#project-manager)
+* [Implementers ](../project-planning/common-roles.md#lead-developer)\(coders, designers, writers etc.\)
+* [Communications or Marketing](../project-planning/common-roles.md#communications-and-marketing-lead)
 
 ### Financial Implications and Responsibilities
 
-Budgetary implications for each party must be expressed early in the project in order to plan efficiently. See [Budgets & Finance](../how-we-work/budgets-and-finance/) for more information.
+Budgetary implications for each party must be expressed early in the project in order to plan efficiently. See [Budgets & Finance](../../how-we-work/budgets-and-finance/) for more information.
 
 ### Time frames and time limits
 
