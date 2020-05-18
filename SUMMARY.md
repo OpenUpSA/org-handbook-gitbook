@@ -7,7 +7,11 @@
 
 * [Project Initiation](projects/pre-project/README.md)
   * [OpenUp's Mission](projects/pre-project/openups-mission.md)
+  * [Getting Partners and Stakeholders on Board](projects/pre-project/getting-partners-and-stakeholders-on-board.md)
   * [Writing a Concept/Proposal](projects/pre-project/writing-a-concept-proposal.md)
+  * [Creating a Budget](projects/pre-project/creating-a-budget.md)
+  * [Documentation](projects/pre-project/documentation.md)
+  * [Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
 * [Project Implementation](projects/project-planning/README.md)
   * [Agile & Scrum](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)
