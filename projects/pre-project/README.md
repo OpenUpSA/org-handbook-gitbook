@@ -9,20 +9,20 @@
 5. You must create all the necessary documentation \(and other admin\) to start a project \([read more](documentation.md)\)
 6. You must manage the project or product during the Project Initiation phase \([read more](management-during-the-project-initiation-phase.md)\)
 
-## 1. Aligning with OpenUp's vision and mission
+## 1. Aligning with OpenUp's vision and mission \([read more](openups-mission.md)\)
 
-* Read the vision and mission [here](https://openup.org.za/about#how-we-work).
+* Read the vision and mission [here](openups-mission.md).
 * Does the project meet any of our funder's deliverables?
 
-## 2. Getting Partners and Stakeholders on Board
+## 2. Getting Partners and Stakeholders on Board \([read more](getting-partners-and-stakeholders-on-board.md)\)
 
-## 3. Writing a Concept Note or Proposal and getting it approved
+## 3. Writing a Concept Note or Proposal and getting it approved \([read more](writing-a-concept-proposal.md)\)
 
-## 4. Drafting a Budget and getting it approved
+## 4. Drafting a Budget and getting it approved \([read more](creating-a-budget.md)\)
 
-## 5. Creating all necessary documentation and admin
+## 5. Creating all necessary documentation and admin \([read more](documentation.md)\)
 
-## 6. Managing the project or product during the Initiation Phase
+## 6. Managing the project or product during the Initiation Phase \([read more](management-during-the-project-initiation-phase.md)\)
 
 
 

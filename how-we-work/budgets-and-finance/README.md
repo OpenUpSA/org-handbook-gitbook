@@ -33,9 +33,19 @@ description: >-
 
   The last category of a budget worth mentioning is an overall budget for internal projects. Internal projects don't get invoiced; they get funded. So the grants that we get in are split among internal projects. 
 
-**Aside from projects, where does budget creation apply?**
+**Budget Creation**
 
-\*\*\*\*
+Obviously there’s the core operational stuff, that’s not necessarily a project, just operations. And then secondly, our projects are divided broadly into two categories:   
+
+
+* Internal projects. Projects that pool from our core grant. 
+* External projects. Revenue based. 
+* 
+Then often there’ll be activities or things that we feel are worth investing in. They aren’t necessarily projects, but they will be packaged and shaped as an internal project, that we will give value to how we allocate core budgeting.   
+
+
+While that doesn’t answer the question, I think it speaks to how we create and treat budgets. Budgets are primarily created around an intention we’re willing to spend money on.   
+
 
 \*\*\*\*
 
