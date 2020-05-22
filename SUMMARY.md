@@ -41,5 +41,5 @@
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
 * [Marketing & Communications](how-we-work/marketing-and-communications/README.md)
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
-* [Human Resources](human-resources.md)
+* [Human Resources](how-we-work/human-resources.md)
 
