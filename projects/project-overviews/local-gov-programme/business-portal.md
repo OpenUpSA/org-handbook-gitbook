@@ -2,13 +2,17 @@
 
 ### Project Details
 
-**Website:** [https://biz-capeagulhas.openup.org.za/](https://biz-capeagulhas.openup.org.za/)  
- **Drive Folder:** [https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai](https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai)
+**Website:** 
+
+* Cape Agulhas [https://biz-capeagulhas.openup.org.za/](https://biz-capeagulhas.openup.org.za/)\*\*\*\*
+* Demo muni [https://biz-portal.openup.org.za/](https://biz-portal.openup.org.za/)
+
+**Drive Folder:** [https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai](https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai)
 
 ### Project Team
 
-**Product Owner:** Chantal Booyse  
-**Project Manager:** Jennifer Walker  
+**Product Owner:** Adrian Kearns  
+**Project Manager:** Adrian Kearns  
 **Tech Lead:** JD Bothma  
 
 
