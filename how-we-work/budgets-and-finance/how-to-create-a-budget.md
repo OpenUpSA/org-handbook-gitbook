@@ -1,8 +1,6 @@
 # How to create a budget
 
-
-
-### **How do you create a budget?**
+## **How do you create a budget**
 
 \*\*\*\*
 

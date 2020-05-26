@@ -10,6 +10,8 @@ description: >-
 
 ### **Budget Creation: Where Budget Planning Starts**
 
+1. \*\*\*\*
+
 * **Budgets are primarily created around an intention we’re willing to spend money on.** 
 * **OpenUp uses projects to derive value on how we allocate core budgeting**
 * **Categorizing OpenUp’s projects**
@@ -19,18 +21,19 @@ description: >-
   * * **Then often there’ll be activities or things that we feel are worth investing in. They aren’t necessarily projects, but they will be packaged and shaped as an internal project**
     * \*\*\*\*
 
-1. **Types of Budgets**
-   1. **Core operating/core expenses budget**
-   2. **Revenue Projects**
-      1. **Splitting revenue project budgets into different costs**
-         * **Staff Costs**
-         * **Hard Costs**
-         * **External Resources**
-   3. **Overall Budget for Internal Projects**
-      1. **Internal projects don't get invoiced; they get funded. So the grants that we get in are split among internal projects.** 
-   4. **Core Budgeting**
-2. **Budget Template**
-3. **Core Questions**
+**Types of Budgets**
+
+1. **Core operating/core expenses budget**
+2. **Revenue Projects**
+   1. **Splitting revenue project budgets into different costs**
+      * **Staff Costs**
+      * **Hard Costs**
+      * **External Resources**
+3. **Overall Budget for Internal Projects**
+   1. **Internal projects don't get invoiced; they get funded. So the grants that we get in are split among internal projects.** 
+4. **Core Budgeting**
+5. **Budget Template**
+6. **Core Questions**
 
 * * **How do you create a budget?**
   * **What baseline- if any- do you use to estimate costs?**

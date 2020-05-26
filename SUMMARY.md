@@ -28,6 +28,7 @@
 
 * [What do we use for...](how-we-work/what-do-we-use-for....md)
 * [Budgets & Finance](how-we-work/budgets-and-finance/README.md)
+  * [Where budget planning starts](how-we-work/budgets-and-finance/where-budget-planning-starts.md)
   * [How to create a budget](how-we-work/budgets-and-finance/how-to-create-a-budget.md)
   * [How to spend a budget](how-we-work/budgets-and-finance/how-to-spend-a-budget.md)
   * [How to adjust a budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
