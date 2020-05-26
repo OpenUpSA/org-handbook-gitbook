@@ -1,3 +1,10 @@
+---
+description: >-
+  (Title from the Hobbit; specifically, Riddles in the Dark. A reference to the
+  last riddle Gollum gave to Bilbo during their game, right before Bilbo
+  outwitted him with his own).
+---
+
 # The Thing All Things Devour: When to Start Planning a Budget
 
 ### Hint: It Depends

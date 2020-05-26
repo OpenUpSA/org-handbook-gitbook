@@ -1,4 +1,4 @@
-# How to Spend a Budget
+# How to Spend a  Budget
 
 ### **Current major core funders.** 
 

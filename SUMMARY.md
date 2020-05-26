@@ -31,7 +31,7 @@
   * [One Fish, Two Fish, Red Fish, Blue Fish: The Types of Budgets OpenUp Uses](how-we-work/budgets-and-finance/one-fish-two-fish-red-fish-blue-fish-the-types-of-budgets-openup-uses.md)
   * [The Thing All Things Devour: When to Start Planning a Budget](how-we-work/budgets-and-finance/where-budget-planning-starts.md)
   * [How to Create a Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget.md)
-  * [How to Spend a Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget-1.md)
+  * [How to Spend a  Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget-1.md)
   * [How to adjust a budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
   * [Expense claims](how-we-work/budgets-and-finance/expense-claims.md)
   * [Invoicing clients](how-we-work/budgets-and-finance/invoicing-clients.md)
