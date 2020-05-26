@@ -2,6 +2,8 @@
 
 ## Coding
 
+JD 
+
 ## Design
 
 ## Content, Writing & Media
