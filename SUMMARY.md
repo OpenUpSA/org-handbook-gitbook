@@ -28,6 +28,7 @@
 
 * [What do we use for...](how-we-work/what-do-we-use-for....md)
 * [Budgets & Finance](how-we-work/budgets-and-finance/README.md)
+  * [One Fish, Two Fish, Red Fish, Blue Fish: The Types of Budgets OpenUp Uses](how-we-work/budgets-and-finance/one-fish-two-fish-red-fish-blue-fish-the-types-of-budgets-openup-uses.md)
   * [Where budget planning starts](how-we-work/budgets-and-finance/where-budget-planning-starts.md)
   * [How to create a budget](how-we-work/budgets-and-finance/how-to-create-a-budget.md)
   * [How to spend a budget](how-we-work/budgets-and-finance/how-to-spend-a-budget.md)
