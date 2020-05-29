@@ -51,8 +51,8 @@ Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` valu
 
 ### Record project charges in Xero
 
-1. Record costs on the S3 sheet
-2. Record costs on the EX2 Project charges sheet
+1. Record costs on the **S3** sheet
+2. Record costs on the **EC2+Other Project charges** sheet
 3. Allocate unknown to Core
 
 
