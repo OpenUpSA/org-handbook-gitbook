@@ -48,7 +48,9 @@ We don't necessarily need to actively move things to the preferred thing, but we
       <td style="text-align:left">Moving content from one page to another is surprisingly hard</td>
     </tr>
   </tbody>
-</table>## Software/web development and hosting
+</table>
+
+## Software/web development and hosting
 
 ### General
 
@@ -135,7 +137,9 @@ We don't necessarily need to actively move things to the preferred thing, but we
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Software/web development stack
+</table>
+
+### Software/web development stack
 
 Please discuss deviations from our standard stack options in [\#technology-advice-grp](https://openupsa.slack.com/archives/CBL958RME).
 

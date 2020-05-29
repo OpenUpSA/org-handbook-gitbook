@@ -18,7 +18,7 @@ Currently our biggest clearly allocatable cost is S3. We allocate the rest \(RDS
 
 ### Create file for the new month
 
- \(the month that the costs were incurred - see invoice\)
+ \(the month that the costs were incurred - see "This invoice is for the billing period ..." on the invoice\)
 
 Copy the latest allocations spreadsheet in the [AWS invoice allocations folder](https://drive.google.com/drive/folders/1FqRVxmUFCdhknIB8kwV2z4lOSPfjA0eS) and update the name for the month you're allocating
 
