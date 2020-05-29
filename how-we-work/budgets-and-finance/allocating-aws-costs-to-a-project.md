@@ -47,7 +47,7 @@ Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` valu
    1. The apps that should be there are
    2. Removed apps are not there
    3. The server they're allocated to is correct
-3. verify that the `Grand Total` `SUM of monthl USD incl tax` on the Apps sheet is the same as `EC2+Other` `USD incl Tax` on the Settings sheet
+3. verify that the `Grand Total` `SUM of monthl USD incl tax` on the **EC2+Other Project charges** sheet is the same as `EC2+Other` `USD incl Tax` on the **Settings** sheet
 
 ### Record project charges in Xero
 
