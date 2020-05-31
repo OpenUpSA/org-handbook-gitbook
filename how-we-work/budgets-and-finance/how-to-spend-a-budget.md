@@ -1,10 +1,15 @@
 # How to Create a Budget
 
-### 1. **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
+## 1. **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
 
-* \*\*\*\*
+* See [here](../../projects/project-planning/stakeholder-management.md#managing-stakeholders) for info on dealing with difficult clients and stakeholders
+* Let's talk about money \(everyone's favourite casual conversation topic ever\)
+* Politics \(f\*\*k yeah\)
+* Dealing with Unexpected Plot Twists \(or, We Need to Talk About COVID-19\)
+* Taking stock of our resources
+* The Cost of Quality vs Quantity
 
-### **2. Guesstimation Is Your Friend**
+## **2. Guesstimation Is Your Friend**
 
 ### **Cost Estimation**
 
@@ -19,5 +24,5 @@
 * **On estimating:** 
   1. \*\*\*\*
 
-### **3. The Plan: Getting Down To Business** 
+## **3. The Plan: Getting Down To Business** 
 
