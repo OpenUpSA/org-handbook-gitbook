@@ -1,3 +1,7 @@
+---
+description: Chantal
+---
+
 # Marketing & Communications
 
 ## Creating a marketing campaign/plan
