@@ -41,7 +41,7 @@
   * [Planning a Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget.md)
   * [How to Create a Budget](how-we-work/budgets-and-finance/how-to-create-a-budget.md)
   * [How to Spend a  Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget-1.md)
-  * [How to adjust a budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
+  * [How to Adjust a Budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
   * [Expense claims](how-we-work/budgets-and-finance/expense-claims.md)
   * [Invoicing clients](how-we-work/budgets-and-finance/invoicing-clients.md)
   * [Allocating AWS costs to a project](how-we-work/budgets-and-finance/allocating-aws-costs-to-a-project.md)
