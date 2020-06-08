@@ -1,9 +1,18 @@
-# How to Create a Budget
+# Planning a Budget
 
 ## 1. **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
 
 * See [here](../../projects/project-planning/stakeholder-management.md#managing-stakeholders) for info on dealing with difficult clients and stakeholders
-* Let's talk about money \(everyone's favourite casual conversation topic ever\)
+
+Any good strategy should take the surrounding environment into the equation. A popular example of this in business would be the Porter's 5 Forces model. 
+
+Plan for what you have and what you're likely to face. Be realistic about budget constraints, resource allocation, and the realities of overspending. If possible, make a forecast worst-to-best case scenarios, alongside an estimate of what each scenario might cost and generate.  \(Note: not standard OpenUp practice, but it should probably be done anyway\). 
+
+When planning a budget, consider the political situation. Think about:
+
+1. The possible trajectory of South Africa \(politically, socially, environmentally\) within the lifespan of the project. 
+2. How will these factors affect our mission? Our clients? The people we serve? How might they affect demand and production? 
+
 * Politics \(f\*\*k yeah\)
 * Dealing with Unexpected Plot Twists \(or, We Need to Talk About COVID-19\)
 * Taking stock of our resources

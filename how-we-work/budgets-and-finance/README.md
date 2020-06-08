@@ -12,7 +12,11 @@ Our Common Budgets
 
 1. Core Operating Budget
 2. Revenue Project Budget
-3. Core Operating Budget
+3. Overall Budget for Internal Projects
+
+## Internal Projects vs. External Projects: A Note On The Divide
+
+
 
 
 
