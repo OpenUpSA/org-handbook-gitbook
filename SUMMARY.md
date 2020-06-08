@@ -56,6 +56,7 @@
   * [Contract people for work](how-we-work/outsourcing-and-contracting/contracting-people-for-work.md)
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
 * [Marketing & Communications](how-we-work/marketing-and-communications/README.md)
+  * [Marketing Q &A](how-we-work/marketing-and-communications/marketing-q-and-a.md)
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
 * [Human Resources](how-we-work/human-resources.md)
 
