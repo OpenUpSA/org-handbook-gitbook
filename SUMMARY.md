@@ -48,6 +48,7 @@
   * [Allocating Upwork transactions to projects](how-we-work/budgets-and-finance/allocating-upwork-transactions-to-projects.md)
 * [Tool Development](how-we-work/tool-development/README.md)
   * [Coding](how-we-work/tool-development/tool-development-coding.md)
+  * [The Lego Collection: Tools For Coding](how-we-work/tool-development/the-lego-collection-tools-for-coding.md)
   * [Design](how-we-work/tool-development/tool-development-design.md)
   * [Content, Writing & Media](how-we-work/tool-development/tool-development-content-writing-and-media.md)
   * [Training & Events](how-we-work/tool-development/training-and-events.md)
