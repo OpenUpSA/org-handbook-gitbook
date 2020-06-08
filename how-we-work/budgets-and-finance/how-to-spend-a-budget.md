@@ -1,6 +1,6 @@
 # Planning a Budget
 
-## 1. **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
+## **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
 
 * See [here](../../projects/project-planning/stakeholder-management.md#managing-stakeholders) for info on dealing with difficult clients and stakeholders
 
@@ -13,8 +13,10 @@ When planning a budget, consider the political situation. Think about:
 1. The possible trajectory of South Africa \(politically, socially, environmentally\) within the lifespan of the project. 
 2. How will these factors affect our mission? Our clients? The people we serve? How might they affect demand and production? 
 
-* Politics \(f\*\*k yeah\)
-* Dealing with Unexpected Plot Twists \(or, We Need to Talk About COVID-19\)
+#### Dealing with Unexpected Plot Twists \(or, We Need to Talk About COVID-19\)
+
+No one predicted the COVID-19 crisis while forecasting for 2020. That said, at the time of writing, Wimbleton's organizers are expecting $141 million dollar payout after 17 years of pandemic insurance. After the 2003 SARS outbreak, they made a point to pay $2 million for pandemic insurance every year. While most businesses \(including OpenUp\) can't afford to do this, it's not a bad idea to make contingency plans. 
+
 * Taking stock of our resources
 * The Cost of Quality vs Quantity
 
@@ -33,5 +35,5 @@ When planning a budget, consider the political situation. Think about:
 * **On estimating:** 
   1. \*\*\*\*
 
-## **3. The Plan: Getting Down To Business** 
+##  
 

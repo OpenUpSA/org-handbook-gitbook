@@ -24,9 +24,7 @@ description: >-
 
 
 
-### \(Spoilers: I Lied\). 
-
-* ~~Technically the budget thing officially starts after a proposal is approved, but budget planning almost always starts before that happens. Preferably as soon as possible.~~ 
+### 
 
 
 

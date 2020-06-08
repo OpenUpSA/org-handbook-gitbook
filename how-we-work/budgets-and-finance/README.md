@@ -18,6 +18,12 @@ Our Common Budgets
 
 
 
+## The Thing All Things Devour: When to Start Planning a Budget 
+
+## Planning a Budget
+
+
+
 
 
 ## **How to Create A Budget**
