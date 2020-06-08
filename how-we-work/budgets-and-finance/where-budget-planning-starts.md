@@ -9,6 +9,8 @@ description: >-
 
 ### Hint: It Depends
 
+Note: to understand OpenUp's definition between an internal project and an external project, click here. 
+
 1. Budget planning for **external projects** begins in the project initiation phase. This is because external projects innately require strategic forethought and budget/cost forecasting, in order for a client to sign off on a budget. A standard part of the proposal process, a budget needs to be signed off to confirm the kind of funding a project will receive, and determines what and why certain decisions will be made. 
 2. **Internal Projects** either align to **core grants**, or to **project-specific grants**.
 

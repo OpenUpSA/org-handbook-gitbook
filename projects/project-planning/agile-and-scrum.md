@@ -1,6 +1,8 @@
 # Agile & Scrum
 
-## AGILE METHODOLOGY
+## AGILE METHODOLOGY, explained. 
+
+
 
 ## SCRUM, explained. 
 

@@ -34,13 +34,15 @@ Internal projects don’t get invoiced; they get funded. Grants are split among 
 
 
 
+What is the difference between internal project vs an external project?  See [here](internal-projects-vs.-external-projects-a-note-on-the-divide.md). 
 
 
-### **Internal Projects vs. External Projects: a Note on the Divide**
 
-* **External projects** are revenue based.
-* **Internal projects** pool money from our core grant
-* * Additional budget-creating activities we invest \(or might invest\) in will be packaged and shaped as an internal project. This is done to allocate the activity to the Core Operations Budget, even if the activity isn’t necessarily a project itself. 
+
+
+### \*\*\*\*
+
+* \*\*\*\*
 
 
 

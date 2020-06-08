@@ -6,6 +6,16 @@ description: >-
 
 # Budgets & Finance
 
+## One Fish, Two Fish, Red Fish, Blue Fish: The Types of Budgets OpenUp Uses
+
+Our Common Budgets
+
+1. Core Operating Budget
+2. Revenue Project Budget
+3. Core Operating Budget
+
+
+
 ## **How to Create A Budget**
 
 1. All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)
