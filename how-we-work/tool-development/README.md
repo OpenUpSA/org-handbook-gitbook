@@ -2,6 +2,8 @@
 
 ## Orienteering: Where Tool Development Lands Amidst The Project Process
 
+![](../../.gitbook/assets/1155f920-c4dc-4eb2-8858-763f2e80a524.png)
+
 ## The sectors of Tool Development in relation to the project process
 
 
