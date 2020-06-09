@@ -24,10 +24,14 @@ A lot of the information we need is inaccessible for many of our project recipie
 
 ### 5. Publish and release it 
 
+* Collect data on the users. Identify points-of-interest from a user perspective; what are they interested in? 
+
 ### 6. Gather feedback on the content
 
 It's important to generate a feedback loop.
 
-* **Is the content you’ve created solving the problem you want it to solve?** 
-* **What kind of data can you collect to re-inform the content being generated for the project?**
+* Is the content you’ve created solving the problem you want it to solve? 
+* What kind of data can you collect to re-inform the content being generated for the project?
+* * iterate and make changes to content based on newfound data
+  * To solve the problem, better and better
 
