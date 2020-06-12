@@ -46,7 +46,9 @@ Before the end of the project's active development period, the project manager n
 3. If it's a grant project
    1. figure out if grant funds can be kept aside for long term hosting, or if we are willing to host it long term from core funding or reserves.
 
+## Invoice processing procedures
 
+See the [Software, services and hosting budget and invoice processing procedures.](https://docs.google.com/spreadsheets/d/1CEKZnVxZr7rzhv1LLhoaCV_T3vGdxD8_eNGWti_Udrs/edit#gid=0)
 
-
+See the [AWS invoice allocation procedures](allocating-aws-costs-to-a-project.md).
 
