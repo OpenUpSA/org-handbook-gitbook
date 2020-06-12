@@ -48,7 +48,10 @@ Before the end of the project's active development period, the project manager n
 
 ## Invoice processing procedures
 
-See the [Software, services and hosting budget and invoice processing procedures.](https://docs.google.com/spreadsheets/d/1CEKZnVxZr7rzhv1LLhoaCV_T3vGdxD8_eNGWti_Udrs/edit#gid=0)
+Invoices for active projects should be entered into Xero by the project's Project Manager.
 
-See the [AWS invoice allocation procedures](allocating-aws-costs-to-a-project.md).
+Invoices for shared accounts and inactive projects are entered by Finance. Approval depends on whether the project is currently active. 
+
+* See the [Software, services and hosting budget and invoice processing procedures.](https://docs.google.com/spreadsheets/d/1CEKZnVxZr7rzhv1LLhoaCV_T3vGdxD8_eNGWti_Udrs/edit#gid=0)
+* See the [AWS invoice allocation procedures](allocating-aws-costs-to-a-project.md).
 
