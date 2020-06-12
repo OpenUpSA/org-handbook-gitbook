@@ -46,6 +46,7 @@
   * [Invoicing clients](how-we-work/budgets-and-finance/invoicing-clients.md)
   * [Allocating AWS costs to a project](how-we-work/budgets-and-finance/allocating-aws-costs-to-a-project.md)
   * [Allocating Upwork transactions to projects](how-we-work/budgets-and-finance/allocating-upwork-transactions-to-projects.md)
+  * [Software, Services and Hosting](how-we-work/budgets-and-finance/software-services-and-hosting.md)
 * [Tool Development](how-we-work/tool-development/README.md)
   * [Orienteering: Where Tool Development Lands Amidst The Project Process](how-we-work/tool-development/orienteering-where-tool-development-lands-amidst-the-project-process.md)
   * [Coding](how-we-work/tool-development/tool-development-coding.md)
