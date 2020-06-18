@@ -65,6 +65,7 @@
   * [The Art of War: An Event-Planners Guide](how-we-work/tool-development/the-art-of-war-an-event-planners-guide.md)
   * [Membership Cards, from Crossfit to Starbucks: Tools Used By Training and Events](how-we-work/tool-development/membership-cards-from-crossfit-to-starbucks-tools-used-by-training-and-events.md)
   * [User testing](how-we-work/tool-development/user-testing.md)
+  * [Making government accessible](how-we-work/tool-development/making-government-accessible.md)
 * [Outsourcing & Contracting](how-we-work/outsourcing-and-contracting/README.md)
   * [Contract people for work](how-we-work/outsourcing-and-contracting/contracting-people-for-work.md)
   * [Why We Contract People](how-we-work/outsourcing-and-contracting/why-we-contract-people.md)
