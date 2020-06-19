@@ -32,54 +32,19 @@ Our Common Budgets
 2. Guesstimation Is Your Friend
 3. Getting Down to Business
 
-## **How to Spend a Budget**
-
-1. 
 ## **How to adjust a budget**
 
-* * **What is OpenUp’s policy on adjusting budgets?**
-  * **When and how often do adjustments usually happen? What are the typical circumstances involved?**
-    * **Internal Budget**
-      * **Operating Costs**
-      * **Expenses**
-    * **External Budget**
-  * **How do you prioritize where to allocate limited funds, for equally important things/tasks?**
+* * What is OpenUp’s policy on adjusting budgets?
+  * When and how often do adjustments usually happen? What are the typical circumstances involved?
+    * Internal Budget
+      * Operating Costs
+      * Expenses
+    * External Budget
+  * How do you prioritize where to allocate limited funds, for equally important things/tasks?
 
 ## **Expense claims**
 
-* * **Run through**
-
-1. **Invoicing clients**
-
-* * **Run through**
-
-1. **Allocating AWS costs to a project \(?\)**
-2. **Allocating Upwork transactions to a project**
-3. 
-* **Budget template**
-* **Financial reports**
-  * **Provide example**
-  * **Provide template**
-  * **What kind of liabilities does OpenUp typically incur?**
-  * **As a non-profit, what do OpenUp’s income statements and cash flow statements usually look like** 
-
-\*\*\*\*
-
-* Budget template
-
-## How to spend a budget
-
-* where does funding come from, and how to decide where the money goes 
-
-## How to adjust a budget
-
-* **What is OpenUp’s policy on adjusting budgets?**
-* **When and how often do adjustments usually happen? What are the typical circumstances involved?**
-  * **Internal Budget**
-    * **Operating Costs**
-    * **Expenses**
-  * **External Budget**
-  * **How do you prioritize where to allocate limited funds, for equally important things/tasks?**
+## 
 
 ## Expense claims
 
@@ -96,4 +61,6 @@ Our Common Budgets
 * [Budget template](https://docs.google.com/spreadsheets/d/1mnkaWTnviVv-5ZrqplAD2w75Ou3xbOk0MwPb6C3UBFs/edit#gid=0)
 * An[ invoice](https://docs.google.com/document/d/1B_3Xogib_sK6B9f7cSLpEpIlDEbZTBHx00h2g73LLyE/edit?usp=sharing)
 * [Project Budget template](https://docs.google.com/spreadsheets/d/1MKtXfwWbfPoDpFU2ahAfIHanJ800kILrLJMkT3O2Pxo/edit?usp=sharing)
+* [Humentum link folder](https://drive.google.com/drive/folders/1Lkv_wGYIQ0pxxZLOixahNdRuGaNHVQUS)
+* [Link to OpenUp assessment and action plan](https://docs.google.com/spreadsheets/d/1qHhq0X_GuMpGZP3DibOp5AcwBXfrJHfhr9E-zUvOd_Q/edit#gid=196352735)
 
