@@ -4,7 +4,7 @@ description: 'Interviews: JD, Adi, Lailah'
 
 # Outsourcing & Contracting
 
-## Why do we contract external workers?
+## 
 
 ## Platforms we use to find contractors
 

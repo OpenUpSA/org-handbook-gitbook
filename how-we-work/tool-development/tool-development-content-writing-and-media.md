@@ -4,15 +4,21 @@ description: 'Interviews: Shaun and Damian'
 
 # Content, Writing & Media
 
-## **Content Lead**
+## **Content Lead:** 
 
-## Content & Writing Brief
+## Content & Writing Brief \(Creating Substance: Content in Tool Development\)
+
+
+
+## **Content Writing Steps \(What's in the Bag: Packing Content With a Destination in Mind\)**
+
+## He Said, She Said: What Goes In Social Media
+
+## Outsourcing and Contracting
 
 ## Editing & Reviewing
 
 ## Publishing
-
-## Contracting & Outsourcing
 
 
 

@@ -6,6 +6,8 @@
 
 ## The sectors of Tool Development in relation to the project process
 
+Design- tends to be pulled into the process whenever needed. Ideally, Design should be involved as early as possible. 
+
 
 
 ## Coding
