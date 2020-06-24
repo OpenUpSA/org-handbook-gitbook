@@ -1,4 +1,4 @@
-# Initial page
+# Home
 
 Start at [onboarding](onboarding.md).
 
@@ -7,7 +7,7 @@ Find how we structure projects under **Project Management**.
 Find task-specific documentation under **How we work**.
 
 {% hint style="info" %}
-**How to complete anything we do should be documented.**
+**All our processes and best practises should be documented.**
 
 If you're wondering how to do something, check if there's already documentation for it. If it's out of date, please fix it.
 

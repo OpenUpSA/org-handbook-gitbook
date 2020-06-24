@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
 * [Onboarding](onboarding.md)
 
 ## Project Management <a id="projects"></a>
