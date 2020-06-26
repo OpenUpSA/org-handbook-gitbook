@@ -1,4 +1,4 @@
-# Management during the Project Initiation Phase
+# Product Management during the Project Initiation Phase
 
 ## Product Management During the Project Initiation Phase
 
