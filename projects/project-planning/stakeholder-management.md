@@ -2,7 +2,11 @@
 
 ## The difference between a client and a partner
 
-1. * 
+PARTNERSHIP. A relationship between participants in a state of cooperation, with specified rights, roles, and responsibilities. 
+
+BUSINESS PARTNER. An entity currently engaged in a state of cooperation with one or more participant\(s\), for the sake of pursuing a shared goal. 
+
+CLIENT. Someone who employs the services of a professional person and/or company. 
 
 \*\*\*\*
 
