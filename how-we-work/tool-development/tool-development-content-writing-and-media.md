@@ -10,10 +10,6 @@ description: 'Interviews: Shaun and Damian'
 
 
 
-## **Content Writing Steps \(What's in the Bag: Packing Content With a Destination in Mind\)**
-
-## He Said, She Said: What Goes In Social Media
-
 ## Outsourcing and Contracting
 
 ## Editing & Reviewing
@@ -22,7 +18,7 @@ description: 'Interviews: Shaun and Damian'
 
 
 
-## Backpacker Gear Review: Tools Used By Content Creators
+## Tools Used By Content Creators
 
 
 
