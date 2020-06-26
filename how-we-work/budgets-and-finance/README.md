@@ -30,10 +30,7 @@ Our Common Budgets
 
 ## **How to Create A Budget**
 
-1. All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)
-2. Guesstimation Is Your Friend
-3. Getting Down to Business
-
+1. 
 ## **How to adjust a budget**
 
 * * What is OpenUp’s policy on adjusting budgets?
@@ -43,6 +40,8 @@ Our Common Budgets
       * Expenses
     * External Budget
   * How do you prioritize where to allocate limited funds, for equally important things/tasks?
+
+## **Month-in**
 
 ## **Expense claims**
 

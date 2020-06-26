@@ -42,6 +42,7 @@
   * [How to Create a Budget](how-we-work/budgets-and-finance/how-to-create-a-budget.md)
   * [How to Spend a Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget-1.md)
   * [How to Adjust a Budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
+  * [Month-in](how-we-work/budgets-and-finance/month-in.md)
   * [Expense claims](how-we-work/budgets-and-finance/expense-claims.md)
   * [Invoicing clients](how-we-work/budgets-and-finance/invoicing-clients.md)
   * [Capturing and approving invoices for payment](how-we-work/budgets-and-finance/capturing-and-approving-invoices-for-payment.md)
