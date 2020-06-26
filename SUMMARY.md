@@ -50,7 +50,7 @@
   * [Software, Services and Hosting](how-we-work/budgets-and-finance/software-services-and-hosting.md)
 * [Tool Development](how-we-work/tool-development/README.md)
   * [CODING](how-we-work/tool-development/tool-development-coding.md)
-  * [The Lego Collection: Tools For Coding](how-we-work/tool-development/the-lego-collection-tools-for-coding.md)
+  * [Tools For Coding](how-we-work/tool-development/the-lego-collection-tools-for-coding.md)
   * [DESIGN](how-we-work/tool-development/tool-development-design.md)
   * [Where Design Begins and Ends In the Project Process](how-we-work/tool-development/untitled.md)
   * [The Design Process](how-we-work/tool-development/the-design-process-paint-by-numbers.md)
