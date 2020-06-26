@@ -1,6 +1,6 @@
 # Planning a Budget
 
-## **All Things Considered: the Good, the Bad, and the Ugly \(AKA how circumstances can and should factor into the budget planning process\)**
+## H**ow circumstances can and should factor into the budget planning process**
 
 * See [here](../../projects/project-planning/stakeholder-management.md#managing-stakeholders) for info on dealing with difficult clients and stakeholders
 
@@ -13,23 +13,21 @@ When planning a budget, consider the political situation. Think about:
 1. The possible trajectory of South Africa \(politically, socially, environmentally\) within the lifespan of the project. 
 2. How will these factors affect our mission? Our clients? The people we serve? How might they affect demand and production? 
 
-#### Dealing with Unexpected Plot Twists \(or, We Need to Talk About COVID-19\)
+#### Dealing with the Unexpected 
 
-No one predicted the COVID-19 crisis while forecasting for 2020. That said, at the time of writing, Wimbleton's organizers are expecting $141 million dollar payout after 17 years of pandemic insurance. After the 2003 SARS outbreak, they made a point to pay $2 million for pandemic insurance every year. While most businesses \(including OpenUp\) can't afford to do this, it's not a bad idea to make contingency plans. 
+No one predicted the COVID-19 crisis while forecasting for 2020. That said, at the time of writing, Wimbleton's organizers are expecting $141 million dollar payout as a result of 17 years of pandemic insurance. After the 2003 SARS outbreak, they made a point to pay $2 million for pandemic insurance every year. While most businesses \(including OpenUp\) can't afford to do this, it's not a bad idea to make contingency plans. 
 
 * Taking stock of our resources
 * The Cost of Quality vs Quantity
 
-## **2. Guesstimation Is Your Friend**
+## Estimating Costs
 
-### **Cost Estimation**
-
-**On estimating**
+On estimating:
 
 * **staff costs:**  the blanket internal rate is a baseline.
 * **external resources:** ‘I think it’s fair to say that project managers mostly work with the same contractors, so they’re quite comfortable in predicting. They know what those independent contractors charge, and how long they need to do certain things. So I think from a longstanding relationship with independent contractors, it’s quite easy \(I think\) to estimate.’ \(Janine P.\)
 
-**Historical Costs: how the past informs the future**
+**Historical Costs**
 
 * Historically-based budget forecasting is a three-part exercise in social studies, archival digging, and oracular prognostication.
 * **On estimating:** 

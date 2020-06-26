@@ -2,7 +2,7 @@
 description: How to create content
 ---
 
-# What's in the Bag: Packing Content With A Destination In Mind
+# Creating Content: Step-By-Step
 
 ### 1. Understand the problem and the user journey
 

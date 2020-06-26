@@ -1,4 +1,4 @@
-# OpenUp's Mission
+# OpenUp's Mission and Vision
 
 ## Aligning Projects with OpenUp's Mission and Vision
 

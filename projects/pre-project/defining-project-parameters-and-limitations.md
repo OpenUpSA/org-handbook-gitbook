@@ -18,6 +18,8 @@ This is a key part of the [project proposal](writing-a-concept-proposal.md).
 
 ## Time Frames and Limits
 
+Tasks within a time frame are broken down into bimonthly sprint sessions.
+
 The length of the Project Initiation phase depends on the circumstances. 
 
 #### Elements of a short/expedited initiation process

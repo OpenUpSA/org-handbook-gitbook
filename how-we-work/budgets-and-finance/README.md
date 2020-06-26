@@ -6,7 +6,7 @@ description: >-
 
 # Budgets & Finance
 
-## One Fish, Two Fish, Red Fish, Blue Fish: The Types of Budgets OpenUp Uses
+## The Types of Budgets Used By OpenUp
 
 Our Common Budgets
 
@@ -14,11 +14,13 @@ Our Common Budgets
 2. Revenue Project Budget
 3. Overall Budget for Internal Projects
 
-## Internal Projects vs. External Projects: A Note On The Divide
+## When to Start Planning a Budget 
 
+1. External Projects
+2. Internal Projects
 
-
-## The Thing All Things Devour: When to Start Planning a Budget 
+* Project-specific grants
+* Core grants
 
 ## Planning a Budget
 

@@ -2,7 +2,7 @@
 description: Coding/data (what info do coders need to do the job?)
 ---
 
-# Coding
+# CODING
 
 * [**How we work**](https://docs.google.com/document/d/1alHk05S-HgCNZj71ZyS6VPMkd0Px10ZiEJps9FNq5ZE/edit#) **\(tech parts\) \[Doc\]**
 * **Interviews: Lunga and JD**

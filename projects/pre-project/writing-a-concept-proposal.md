@@ -62,7 +62,10 @@ The **PROJECT STRATEGY**
 
 ## 5\) DEFINE: The SCHEDULE, BUDGET, and COST ESTIMATES
 
-Outline the project schedule and lifespan. Break down the deadlines and the deliverables per time frame. Be as specific and accurate as possible. \(For more information, see [Budgets and Finance](../../how-we-work/budgets-and-finance/)\).
+1. Outline the project schedule and lifespan. 
+2. Break down the deliverables into an implementation plan with time frames and deadlines. 
+
+Be as specific and accurate as possible. \(For more information, see [Budgets and Finance](../../how-we-work/budgets-and-finance/)\). However, as a proponent of the Agile and Scrum methodologies, time within time frames can be malleable, depending on circumstances. 
 
 * **Break down, identify, and justify** forecasted project costs and expenses in detail. 
 * Clearly **define the resources and funding required** to execute the proposal. 

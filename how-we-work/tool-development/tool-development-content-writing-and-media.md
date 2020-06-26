@@ -2,7 +2,7 @@
 description: 'Interviews: Shaun and Damian'
 ---
 
-# Content, Writing & Media
+# CONTENT, WRITING, AND MEDIA
 
 ## **Content Lead:** 
 

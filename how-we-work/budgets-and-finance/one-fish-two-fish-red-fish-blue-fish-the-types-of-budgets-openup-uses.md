@@ -1,4 +1,4 @@
-# Types of Budgets Used By OpenUp
+# The Types of Budgets Used By OpenUp
 
 ## Our Common Budgets
 

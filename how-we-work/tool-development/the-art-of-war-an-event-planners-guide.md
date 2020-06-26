@@ -1,6 +1,6 @@
-# The Art of War: the Event Planners' Edition
+# Event Planning
 
-## **Getting the Ball Rolling: Kickstarting the Event Implementation Process**
+## Starting **the Event Implementation Process**
 
 ### For Instance: a **CID.** 
 

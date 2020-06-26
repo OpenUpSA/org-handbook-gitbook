@@ -1,4 +1,4 @@
-# He Said, She Said: What Goes In Social Media
+# What Goes In Social Media
 
 ## Giving Our Projects Visibility
 

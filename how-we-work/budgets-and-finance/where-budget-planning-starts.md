@@ -14,8 +14,13 @@ Budget planning begins in the **Project Initiation** phase. Whether a project is
 
 ### **Internal projects e**ither align to project-specific grants, or core grants
 
-* In order to obtain **project-specific grants,** budgets are required as part of the project proposal process.Project-specific grants are intended for project-specific ideas. 
-* Internal projects aligned to **core grants** are guided by a “vision for the organization”, then aligned to the KPIs and measurables against what needs to be reported. This is followed by an estimation of costs; namely the operational cost, and the cost of implementing that vision among the other internal projects.  
+* **project-specific grants** are intended for project-specific ideas. 
+
+
+
+* **core grants** are guided by a “vision for the organization”
+* * aligned to the **KPIs and measurables** against what needs to be reported. 
+  * followed by an estimation of costs; namely the **operational cost,** and the **cost of implementing that vision among the other internal projects.**  
 
 
 

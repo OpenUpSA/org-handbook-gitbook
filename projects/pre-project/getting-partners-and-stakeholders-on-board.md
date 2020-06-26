@@ -56,27 +56,7 @@ Common roles include:
 
 ### 
 
-## MOUs, SLAs, and Contracts
-
-The information mentioned above should be complied into a Memorandum of Understanding \(MOU\) or a Service Level Agreement \(SLA\) or some other relevant type of contract or agreement. It is a formalisation of roles and commitments and sets out in writing clearly what each stakeholder has agreed to.
-
-**What kind of MOUs/contracts are worked up during the project?**
-
-Many projects birth clear contracts between OpenUp and the client- with deliverables, time frames, and an overall idea of what the budget might look like. Project managers are made aware that their ability to deliver on the features outlined will ultimately amount to a certain desired outcome. 
-
-  
-****On the administrative side of things, they create:
-
-### Templates
-
-* **A Project Overview Document \(POD\)** \(template available\). Link: [https://docs.google.com/document/d/1oa8xMs3HE1ZlcblkTaEOKA8-yf001tuu8cnzQhTgK2Q/edit](https://docs.google.com/document/d/1oa8xMs3HE1ZlcblkTaEOKA8-yf001tuu8cnzQhTgK2Q/edit)
-* A Slack channel
-* MOUs, SLAs, contracts \(templates available\). Link: [https://docs.google.com/document/d/1EqLR3jysI5ORx8SKJhoP3WpKAsNYlu7IDMb5lcU0lJQ/edit](https://docs.google.com/document/d/1EqLR3jysI5ORx8SKJhoP3WpKAsNYlu7IDMb5lcU0lJQ/edit)
-* 
-
-
-* Find the MOU template here. **\[Doc\]**
-* Find the SLA template here. **\[Doc\]**
+## 
 
 Add the stakeholders details to **stakeholder database**.
 

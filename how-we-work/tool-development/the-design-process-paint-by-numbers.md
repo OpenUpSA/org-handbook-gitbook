@@ -1,4 +1,4 @@
-# The Design Process: Paint by Numbers
+# The Design Process
 
 ## **Step One: Get a basic understanding of what the problem is.**
 
