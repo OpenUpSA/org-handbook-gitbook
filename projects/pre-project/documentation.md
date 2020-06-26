@@ -1,7 +1,5 @@
 # Documentation
 
-
-
 ### Documents and Checklists
 
 #### **What, specifically, are the documents and checklists required for a project to push through?**

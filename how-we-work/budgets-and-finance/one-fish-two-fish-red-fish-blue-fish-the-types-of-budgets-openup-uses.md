@@ -1,57 +1,50 @@
----
-description: (Temp title a reference to Dr. Seuss).
----
+# Types of Budgets Used By OpenUp
 
-# One Fish, Two Fish, Red Fish, Blue Fish: The Types of Budgets OpenUp Uses
+## Our Common Budgets
 
-### Our Common Budgets
+### **1. Core Operating Budget**
 
-Upon googling ‘types of budgets utilized in business’, the first item that pops up lists ten. According to Janine Pretorius, OpenUp usually makes use of three. 
+* covers a company’s known expenses and predicted future costs for a specific period of time \(typically a quarter or a year\).
+* Historical costs and expenses are used as a basis to project the budget forward. 
 
-#### **1. Core Operating Budgets** 
+Most costs that fall under **core operating overhead** are **fixed**. 
 
-A core operating budget covers a company’s known expenses and predicted future costs for a specific period of time \(typically a quarter or a year\).  Historical costs and expenses are used as a basis to project the budget forward. 
+**Variable costs** figures are arrived at by getting the **average of the past six months of expenditure.** 
 
-Most costs that fall under core operating overhead are fixed; variable costs figures are arrived at by getting the average of the past six months of expenditure.   
-  
-Note: Traditional core operating budgets include predictions of what a business stands to earn \(revenue, income, profit margins, income after tax. etc.\) in a series of worst-to-best case scenarios. As a non-profit organization, it’s important to segregate and denote estimated streams of income flow, from temporary, transient sources of funding.
+$$VC=TC(M1)+TC(M2)+TC(M3)+TC(M4)+TC(M5)+TC(M6)/6$$   
 
-**2. Revenue Project Budgets**
 
-As a non-profit organization, it’s important to make the distinction between revenue projects, and non-revenue projects. Revenue projects are defined as ‘any project that will be invoiced.’ Ideally, the project managers need to create a budget for those projects. A template can be viewed [here](https://docs.google.com/spreadsheets/d/1mnkaWTnviVv-5ZrqplAD2w75Ou3xbOk0MwPb6C3UBFs/edit#gid=0).
+* Note: Traditional core operating budgets include **predictions of what a business stands to earn** \(revenue, income, profit margins, income after tax. etc.\) in a series of worst-to-best case scenarios. 
+* As a non-profit organization, **it’s important to segregate and denote estimated streams of income flow**, from **temporary, transient sources of funding.**
 
-The budget is split into different costs:
+### **2. Revenue Project Budgets**
 
-* **Staff costs**. Internal staff; salaried, OpenUp team members. Staff costs get costed in at a fixed internal day rate, per person. That’s a blanket rate of R4000 \(four thousand rand\) per day, per person.
-* **External resources**. Independent contractors outside of the company, who bill for their services. 
-* **Hard costs**. Where project managers can budget for what they expect to spend on software, printing, various travel costs, etc. 
+* apply to any invoiced project. 
+* A template can be viewed [here](https://docs.google.com/spreadsheets/d/1mnkaWTnviVv-5ZrqplAD2w75Ou3xbOk0MwPb6C3UBFs/edit#gid=0).
+
+As a non-profit organization, it’s important to make the distinction between revenue projects, and non-revenue projects. 
+
+This budget is split into different costs:
+
+* **STAFF COSTS**. 
+* * **Internal staff**; salaried, OpenUp team members. 
+  * Get costed in at a **fixed internal day rate, per person.** 
+  * * That’s a blanket rate of R4000 \(four thousand rand\) per day, per person.
+* **EXTERNAL RESOURCES**. 
+* * Independent contractors outside of the company who bill for their services. 
+* **HARD COSTS**. 
+* tangible, easily quantifiable assets needed to complete the project.
+* Where project managers can budget for what they expect to spend on software, printing, various travel costs, etc. 
 
 This is for **revenue-generating projects**. The onus is on the project managers to put together the budget. 
 
-**3. Overall Budget for Internal Projects**
+### **3. Overall Budget for Internal Projects**
 
-Internal projects don’t get invoiced; they get funded. Grants are split among internal projects. 
-
-
-
-What is the difference between internal project vs an external project?  See [here](internal-projects-vs.-external-projects-a-note-on-the-divide.md). 
+* Internal projects don’t get invoiced; they get funded. 
+* **Grants** are split among internal projects. 
 
 
 
-
-
-### \*\*\*\*
-
-* \*\*\*\*
-
-
-
-
-
-  
-
-
-  
-  
+What is the difference between an internal project and an external project?  See[ here](../../projects/pre-project/defining-project-parameters-and-limitations.md#internal-vs-external-projects-whats-the-difference).  
 
 

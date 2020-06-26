@@ -1,4 +1,9 @@
-# How to Spend a  Budget
+# How to Spend a Budget
+
+### **Spending a Budget**
+
+*  By nature, approved budgets are **fixed.** Approved budgets have allocated funds to specific tasks and/or areas of the project. 
+* as line items, they have to be spent accordingly. 
 
 ### **Current major core funders.** 
 
@@ -11,6 +16,8 @@ Restricted grants: restricted to be spent on certain projects.
 2. Overall budgets: reviewed every quarter. Gives us an idea of how we spend the unrestricted grant. 
 3. Other sources for revenue projects, they get invoiced, and we aim to make a profit from those, in terms of where that money will go. 
    1. As an org, we’d like to move to a place where profit from revenue projects can pay for core operating expenses, so core operating expenses don't get paid from grants. 
+
+
 
 
 

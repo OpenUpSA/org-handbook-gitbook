@@ -20,7 +20,7 @@ This is a key part of the [project proposal](writing-a-concept-proposal.md).
 
 The length of the Project Initiation phase depends on the circumstances. 
 
-### Elements of a short/expedited initiation process
+#### Elements of a short/expedited initiation process
 
 * Clients who come forward with **outlined intentions** and **set deliverables** 
 * Fixed contracts
@@ -55,6 +55,16 @@ the initiation process easily takes two to three months, minimum.
 
 
 Some projects never exit the initiation phase. A proposal or a concept note could be put together and approved, and still fail to leave the procedural planning stage. A common reason for this is a lack of funds- which is why the budget is the last item to be signed off. Sometimes the project incubates, or gets written off as a waste of time. This is why it's imperative to get to the decision-making stage as quickly as possible.
+
+## INTERNAL VS EXTERNAL PROJECTS. What's the Difference? 
+
+
+
+**External projects** are revenue based.
+
+**Internal projects** pool money from our core grant
+
+* Additional budget-creating activities we invest \(or might invest\) in will be packaged and shaped as an internal project. This is done to allocate the activity to the Core Operations Budget, even if the activity isn’t necessarily a project itself. 
 
 ### 
 
