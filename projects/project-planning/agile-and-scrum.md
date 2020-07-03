@@ -16,6 +16,8 @@
 * a 'lightweight process framework' for agile development
 * **process framework**: a set of practices that must be consistently followed
 * **lightweight**: overhead is made as minimal as possible, to maximise productivity and allow room for adaptation and new developments
+* works in timebox sprints. OpenUp has a policy of doing this at the end of every project.
+* * however, the standard approach toward identifying action points is to do so at the end of each sprint, which allows for time to update things and fix issues while the project is still ongoing. 
 
 
 
