@@ -9,9 +9,12 @@
 * * the documentation taken throughout the project
   * if certain ideas are feasible
   * potential opportunities, etc. 
-* **Have we documented everything?**
-* **Do we have a sustainability plan/exit strategy that could be handed to a partner?**
-* **Do I have enough documentation for the last three years to outline how certain things are done on the site?** 
+
+### QUESTIONS for Maintenance
+
+* Have we documented everything?
+* Do we have a sustainability plan/exit strategy that could be handed to a partner?
+* Do I have enough documentation for the last three years to outline how certain things are done on the site? 
 
 ### Maintenance: Product Management
 
