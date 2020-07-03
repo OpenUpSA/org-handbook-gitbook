@@ -8,6 +8,11 @@ description: 'Interviews: JD, Adi, Lailah'
 
 ## Platforms we use to find contractors
 
+* Upwork
+* Fiverr
+
+For more info, see [here](platforms-we-use-to-find-contractors.md). 
+
 ## How do we contract external workers?
 
 * Work brief **\[DOC\]**

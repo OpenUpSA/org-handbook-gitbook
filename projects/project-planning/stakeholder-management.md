@@ -19,26 +19,48 @@ CLIENT. Someone who employs the services of a professional person and/or company
 
 #### Managing stakeholders
 
-The key to stakeholder management is communication. A project manager is tasked with keeping stakeholders involved, and integrating their ideas in the proceedings. This begins and ends with ‘keeping them in the loop’, by managing and understanding their needs and expectations, while meeting requirements when possible. When we can’t implement a preconceived vision for a project. This means negotiating and working toward a satisfactory compromise.   
+The key to stakeholder management is **communication.**
+
+* 'Communication' means providing stakeholders with regular updates and progress reports. OpenUp utilizes a variety of platforms to achieve this \(see[ here](stakeholder-management.md#communication) for more\). 
+
+ A PROJECT MANAGER is tasked with**:** 
+
+* keeping stakeholders involved
+* managing client expectations
+* integrating their ideas in the proceedings. 
+* ‘keeping them in the loop’: managing and understanding their needs and expectations,
+*  meeting requirements when possible. 
+* * important to find the middle ground between both sides, where we can deliver on something and address the needs of both constituencies.
+
+When we can’t implement a preconceived vision for a project, project managers need to negotiate and work toward a satisfactory compromise.   
 
 
 ‘_When we were speaking about \(Project\) Initiation, I think that’s the period; the most fundamental part when it comes to stakeholders. The initiation process of the project.  
 If you have the backing- that is, if you have your stakeholders buy in, and the communication platforms well defined in the initiation process of the project- it becomes quite easy to manage stakeholders. This is because they know through and what platforms they can communicate through; what they can look forward to. They also know what the roles and responsibilities are in the bigger project_’. **Adrian K**.    
   
-'Communication' means providing stakeholders with regular updates and progress reports. OpenUp utilizes a variety of platforms to achieve this \(see **Communication**, **Stakeholder Management**\). 
-
-Example: helping stakeholders understand the purpose of sprint meetings every two weeks. This prevents disruption, and keeps both parties from having to make constant changes or interruptions in the process of something that could potentially be fairly complex. These issues are sidestepped by including stakeholders in sprint meetings from the get-go. 
-
-Though it depends on the situation, stakeholder management isn’t just about managing stakeholder expectations, but \(to a variable degree\) client expectations as well. It’s very important to find the middle ground between both sides, where we can deliver on something and address the needs of both constituencies.  
 
 
-#### Recommendations on Dealing with Difficult Stakeholders
+EXAMPLE: helping stakeholders understand the purpose of sprint meetings every two weeks. 
 
-Difficult stakeholders are theorized to most likely arise whenever a project doesn’t have a reporting system in place; when a project lacks transparency and accountability. 
+* prevents disruption
+* keeps both parties from having to make constant changes or interruptions in the process of something that could potentially be fairly complex
 
-When it comes to difficult stakeholders, it is important to set clear boundaries- a clear scope on what you will and won’t do, in regards to the project and for the stakeholder in question- from the beginning. Many stakeholders have ideas or concepts that aren’t possible or practical, within the given parameters. Maybe they don’t realize the quantity of resources those ideas would need to be implemented; maybe they underestimate the time and the effort it would take to make their initial concept a reality. 
+These issues are sidestepped by including stakeholders in sprint meetings from the get-go.   
 
-Setting expectations early- from the initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
+
+## Recommendations on Dealing with Difficult Stakeholders
+
+Difficult stakeholders are most likely arise whenever a project doesn’t have a reporting system in place; when a project lacks transparency and accountability. 
+
+### When it comes to difficult stakeholders
+
+It is: 
+
+1. **Important to set clear boundaries from the beginning**: a clear scope on what you will and won’t do, in regards to the project and for the stakeholder in question
+
+* Many stakeholders have ideas or concepts that aren’t possible or practical, within the given parameters. Maybe they don’t realize the quantity of resources those ideas would need to be implemented; maybe they underestimate the time and the effort it would take to make their initial concept a reality. 
+
+2. **Set expectations early**- from the initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
 
 If they refuse to listen or negotiate, remain adamantly insistent on seeing their vision through- if they’re just too difficult- escalate and get help \(from Adi and Lailah\), depending on if the issue is technological or operational. If that doesn’t help, it might be necessary to let the stakeholder go.
 

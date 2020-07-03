@@ -67,6 +67,7 @@
   * [User testing](how-we-work/tool-development/user-testing.md)
   * [Making government accessible](how-we-work/tool-development/making-government-accessible.md)
 * [Outsourcing & Contracting](how-we-work/outsourcing-and-contracting/README.md)
+  * [Platforms We Use To Find Contractors](how-we-work/outsourcing-and-contracting/platforms-we-use-to-find-contractors.md)
   * [Contract people for work](how-we-work/outsourcing-and-contracting/contracting-people-for-work.md)
   * [Why We Contract People](how-we-work/outsourcing-and-contracting/why-we-contract-people.md)
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
