@@ -1,6 +1,8 @@
 # Roles and responsibilities
 
-## Concerns that must be addressed
+## Concerns
+
+These are the things that need to be considered and kept on top of thoughout the life of the project - not just during active develoment, but also as long as we want any tools to be available after active development.
 
 ### Compliance
 
@@ -19,6 +21,7 @@
 
 * Tracking requests, requirements
 * Keeping things up to date
+* Clearly defined
 
 ### User research
 
@@ -51,14 +54,24 @@
 * Impacts our brand
 * User and decision-maker confidence in the tool
 
+### Technical leadership
+
+* Specify tasks for contracted developers
+* Review change proposals from contracted developers
+* Overall technical design
+* OpenUp technical best practises are followed or deviated from with good reason
+* Deploy changes
+
 ### Uptime - keeping it available
 
 * Detect that it's unavailable
 * Respond when it's unavailable
 
+### Bringing it all together
 
-
-
+* Ensure all these concerns are considered in the project context
+* Make overarching decisions
+* Prioritise work, what happens when, given available money, people, opportunities
 
 ## Required roles
 
