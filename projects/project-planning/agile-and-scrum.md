@@ -1,23 +1,28 @@
 # Agile, Scrum, and the Lean Startup Method
 
-## AGILE METHODOLOGY
+## Agile
 
-* a group of software development methodologies based on 'iterative development'
+* A set of principles
+* Manages risk: Try, evaluate, learn, course-correct continually
+* based on 'iterative development'
 * Requirements and solutions evolve through collaboration
 * self-organising, cross-functional teams
 * encourages regular inspection and continuous adaptation
 * promotes fast delivery of high-quality software, made possible by an efficient use of resources and a constant feedback loop
 
-### Agile methodology
+### Agile methodologies
 
 * We use [Scrum. Read the Scrum guide](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100). 
 * We adapt the process to our needs, especially when we are not producing software. Get someone to [introduce you to Scrum using these slides.](https://www.slideshare.net/arriellemali/scrum-101-introduction-to-scrum) 
-* * 
+* Other examples
+  * Kanban
+  * Extreme Programming
+
 
 
 ## SCRUM
 
-* a subset of Agile. 
+* An agile methodology
 * a 'lightweight process framework' for agile development
 * **process framework**: a set of practices that must be consistently followed
 * **lightweight**: overhead is made as minimal as possible, to maximise productivity and allow room for adaptation and new developments

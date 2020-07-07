@@ -19,7 +19,7 @@
   * [Agile, Scrum, and the Lean Startup Method](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)
   * [Team Management](projects/project-planning/team-management.md)
-  * [Common Roles](projects/project-planning/common-roles.md)
+  * [Roles and responsibilities](projects/project-planning/common-roles.md)
 * [Project Close-out](projects/ending-a-project/README.md)
   * [Retrospective](projects/ending-a-project/retrospective.md)
   * [Donor thanks](projects/ending-a-project/donor-thanks.md)
