@@ -22,7 +22,7 @@ We use [Scrum. Read the Scrum guide](http://www.scrumguides.org/docs/scrumguide/
 
 ## Structure of this guide
 
-Anything that doesn’t have a better home in another part of [our shared Google Drive folders](https://drive.google.com/drive/u/0/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU) lives under the [Organisational Manual folder](https://drive.google.com/open?id=1kUM3s9MO_z8ccNl7LthdF6Y8JJpAp0DJZcu489LjOmU). The structure will always be evolving. If you struggle to find things, talk to the team and to try and improve things.
+Anything that doesn’t have a better home in another part of [our shared Google Drive folders](https://drive.google.com/drive/u/0/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU) lives under the [Organisational Manual folder](https://drive.google.com/open?id=1kUM3s9MO_z8ccNl7LthdF6Y8JJpAp0DJZcu489LjOmU). The structure will always be evolving. If you struggle to find things, talk to the team and work together to try and improve discoverability.
 
 ## Guides
 
@@ -147,7 +147,7 @@ These guidelines help to make our goals concrete:
 
 **Writing documents**
 
-* Please follow the writing guidelines recording in [this](https://docs.google.com/document/d/17mhEtDaPbmJj3FeVO4sChxC-BPBQ2DHQtGPzZePpavU/edit#) document.
+* Please follow the writing guidelines recorded in [this](https://docs.google.com/document/d/17mhEtDaPbmJj3FeVO4sChxC-BPBQ2DHQtGPzZePpavU/edit#) document.
 
 ### Key folders in Drive
 
