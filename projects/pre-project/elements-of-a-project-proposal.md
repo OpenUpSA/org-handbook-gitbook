@@ -1,3 +1,7 @@
+---
+description: (nothing more to add here)
+---
+
 # Elements Of A Project Proposal
 
 ### 1. SUMMARY. 
