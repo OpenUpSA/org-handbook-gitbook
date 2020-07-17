@@ -31,6 +31,8 @@
 
 Everyone involved with a project is responsible for ensuring that project’s Scrum process is followed. One reason we use scrum is that the concept of sprints provides more predictable planning for ourselves and clients. It is also the most effective way we know to ensure clients eventually get attention: it’s easier to continually push ad-hoc scheduled work out, while a commitment of 1 week of implementation time in sprint n or n+1 is harder to push out without consideration. We can choose not to use scrum on a project, but we should be aware of what the tradeoff is.
 
+For a comprehensive look at the Scrum guide, see [here](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100). 
+
 
 
 ## LEAN STARTUP METHOD

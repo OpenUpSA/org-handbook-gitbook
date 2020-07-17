@@ -13,7 +13,7 @@ description: 'Interviews: JD, Adi, Lailah'
 
 For more info, see [here](platforms-we-use-to-find-contractors.md). 
 
-## How do we contract external workers?
+## How we contract external workers
 
 * Work brief **\[DOC\]**
 * Contracts **\[DOC\]**
