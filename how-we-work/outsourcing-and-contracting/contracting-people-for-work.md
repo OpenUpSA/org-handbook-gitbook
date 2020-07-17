@@ -1,30 +1,32 @@
 ---
 description: >-
-  How we contract people for various kinds of work - best practises and tips to
-  get the best experience
+  How we contract people for various kinds of work . Best practices and tips to
+  get the best experience.
 ---
 
-# Contract people for work
+# Contracting people for work
 
 ## Types of contracting
 
-* Companies that we can outsource to
-* Freelancers on UpWork or similar freelancer/contractor sites where the contracts are managed on the website
-* Contracting directly with the individual
+* **Companies** that we can outsource to
+* **Freelancers** on UpWork or similar freelancer/contractor sites where the contracts are managed on the website
+* Contracting directly with the **individual**
 
 ## Task/sector specifics
 
 ### Data collection
 
-We've used interns on the evictions project.
+We've used interns on the Evictions project.
 
-We've used local temps to type up specifc paragraphs from PDFs in text files when the PDFs when those paragraphs could not be extracted automatically. The quality was very frustrating. The amount of errors meant a lot of manual corrections were needed afterwards.
+We've used local temps to type up specific paragraphs from PDFs in text files when the PDFs when those paragraphs could not be extracted automatically. The quality was very frustrating. The amount of errors meant a lot of manual corrections were needed afterwards.
 
 ### Software development
 
+We often outsource clearly-specified tasks on UpWork.
+
 We have found good local developers on ZATech Slack - when we could build trusting relationships with them over time, we could give them more freedom on how solutions are put together and let them deploy changes and debug things on the production server.
 
-We often outsource clearly-specified tasks on UpWork.
+
 
 ## How to specify a task
 

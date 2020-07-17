@@ -1,6 +1,6 @@
 # Event Planning
 
-## Starting **the Event Implementation Process**
+## STEPS: Starting **the Event Implementation Process**
 
 ### For Instance: a **CID.** 
 
@@ -17,7 +17,7 @@
 * Mostly Facebook, Twitter, etc. 
 * We post a registration link, alongside all necessary registration information. 
 
-**Step 3: Logistics**. This will always be the biggest challenge, _especially_ if it’s a big event.   
+**Step Three: Logistics**. This will always be the biggest challenge, _especially_ if it’s a big event.   
 
 
 * Damian Pool: transport, the food, the flights, etc.- any and all the logistics. Coordination; making sure things run smoothly during the event. 

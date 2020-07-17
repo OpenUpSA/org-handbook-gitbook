@@ -4,11 +4,7 @@ description: 'Interviews: Shaun and Damian'
 
 # CONTENT, WRITING, AND MEDIA
 
-## **Content Lead:** 
-
-## Content & Writing Brief \(Creating Substance: Content in Tool Development\)
-
-
+## **Content Lead**
 
 ## Outsourcing and Contracting
 

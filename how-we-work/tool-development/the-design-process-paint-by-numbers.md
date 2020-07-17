@@ -1,4 +1,4 @@
-# The Design Process
+# The Design Process: Step-By-Step
 
 ## **Step One: Get a basic understanding of what the problem is.**
 

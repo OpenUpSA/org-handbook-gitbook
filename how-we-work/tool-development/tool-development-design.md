@@ -10,6 +10,8 @@ See [this document](https://docs.google.com/document/d/1lCWpup6rICRS0_nPMELh3rJQ
 
 ## **Lead Designer**
 
+* Matthew Stark
+
 ## **Design Brief**
 
 * [Design Brief Template](https://drive.google.com/open?id=1WDChERwsbbjeOK2ylg3ExWApKJF-rdlcprBvzl02n8s)

@@ -28,7 +28,9 @@ A lot of the information we need is inaccessible for many of our project recipie
 
 ### 6. Gather feedback on the content
 
-It's important to generate a feedback loop.
+It's important to generate a **feedback loop**.
+
+### SELF-REFLECT
 
 * Is the content you’ve created solving the problem you want it to solve? 
 * What kind of data can you collect to re-inform the content being generated for the project?

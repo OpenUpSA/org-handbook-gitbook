@@ -1,4 +1,4 @@
-# Tools Used In Design Process
+# Tools Used In The Design Process
 
 ## DESIGN
 
