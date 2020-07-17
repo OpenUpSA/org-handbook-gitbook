@@ -24,6 +24,8 @@ Trello Board would have checklists, broken down into tasks and activities. The o
 We use Google Suite to do our work. I think it’s convenient and quite important for us to record information directly onto Google Drive, so we can easily continue what’s been done.   
 
 
+### The Close-out Report: What Did We Learn?
+
 ### Retrospective
 
 

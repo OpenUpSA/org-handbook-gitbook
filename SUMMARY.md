@@ -21,6 +21,7 @@
   * [Team Management](projects/project-planning/team-management.md)
   * [Roles and responsibilities](projects/project-planning/common-roles.md)
 * [Project Close-out](projects/ending-a-project/README.md)
+  * [The Close-Out Report](projects/ending-a-project/the-close-out-report.md)
   * [Retrospective](projects/ending-a-project/retrospective.md)
   * [Donor thanks](projects/ending-a-project/donor-thanks.md)
   * [One page write-up](projects/ending-a-project/one-page-write-up.md)
