@@ -1,5 +1,7 @@
 # Stakeholder Management
 
+To jump to the Project Implementation page, click [here](./). 
+
 ## The difference between a client and a partner
 
 PARTNERSHIP. A relationship between participants in a state of cooperation, with specified rights, roles, and responsibilities. 

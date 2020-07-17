@@ -1,6 +1,6 @@
 # Agile, Scrum, and the Lean Startup Method
 
-## Agile
+## AGILE
 
 * A set of principles
 * Manages risk: Try, evaluate, learn, course-correct continually

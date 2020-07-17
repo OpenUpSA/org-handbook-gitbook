@@ -16,6 +16,7 @@
   * [Product Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
   * [DRAFT COPY](projects/pre-project/draft-copy.md)
 * [Project Implementation](projects/project-planning/README.md)
+  * [Project Planning](projects/project-planning/project-planning.md)
   * [Agile, Scrum, and the Lean Startup Method](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)
   * [Team Management](projects/project-planning/team-management.md)
