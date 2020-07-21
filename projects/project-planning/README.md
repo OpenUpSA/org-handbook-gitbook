@@ -7,7 +7,7 @@
 3. How will you achieve the aim of the project? 
 
 * What the plan should include
-* FINISH LINKING!!!
+* FINISH LINKING!!!h
 
 
 
