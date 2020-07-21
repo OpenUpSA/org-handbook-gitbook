@@ -19,6 +19,8 @@
   * [Project Planning](projects/project-planning/project-planning.md)
   * [Agile, Scrum, and the Lean Startup Method](projects/project-planning/agile-and-scrum.md)
   * [Stakeholder Management](projects/project-planning/stakeholder-management.md)
+  * [Meetings](projects/project-planning/meetings.md)
+  * [Communication](projects/project-planning/communication.md)
   * [Team Management](projects/project-planning/team-management.md)
   * [Roles and responsibilities](projects/project-planning/common-roles.md)
 * [Project Close-out](projects/ending-a-project/README.md)

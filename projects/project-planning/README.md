@@ -7,7 +7,8 @@
 3. How will you achieve the aim of the project? 
 
 * What the plan should include
-* FINISH LINKING!!!h
+
+Click [here ](project-planning.md)to read more. 
 
 
 
@@ -15,12 +16,12 @@ If this project is small and contained you may want to do a once-off experiment.
 
 If the project is large you may want to create a **Log Frame**, a detailed **Project Plan** \(or both\), and a number of smaller [experiments ](https://docs.google.com/document/d/1Lg0rxIoDVkskMqfdbEtj43gCw_cMYb2zrVe_ZrWhbR4/edit)within the project.
 
-## Experiments and Sub-project Plans
+#### Experiments and Sub-project Plans
 
 ## Agile, Scrum, and the Lean Startup Method
 
 * [AGILE](agile-and-scrum.md#agile)
-* * [Agile methodologies](agile-and-scrum.md#agile-methodologies)
+* * Agile methodologies. See [here](agile-and-scrum.md#agile-methodologies).
 * [SCRUM](agile-and-scrum.md#scrum)
 * [LEAN STARTUP METHOD](agile-and-scrum.md#lean-startup-method)
 
@@ -36,9 +37,29 @@ Learn more about the methodology [here ](http://theleanstartup.com/principles)or
 
 ## Stakeholder Management
 
-* The difference between a client and a partner. See [here](stakeholder-management.md#the-difference-between-a-client-and-a-partner).
-* How to manage a client or partner well
-* Managing stakeholders
+* [Defining a Partnership; the difference between a client and a partner](stakeholder-management.md#the-difference-between-a-client-and-a-partner). 
+* [How to manage a client or a partner well](stakeholder-management.md#how-to-manage-a-client-or-partner-well). 
+* * Managing stakeholders. See [here](stakeholder-management.md#managing-stakeholders). 
+* [Project Manager Tasks](stakeholder-management.md#project-manager-tasks)
+* [Recommendations on Dealing With Difficult Stakeholders](stakeholder-management.md#recommendations-on-dealing-with-difficult-stakeholders)
+* * When it Comes to Difficult Stakeholders....\[See [here](stakeholder-management.md#when-it-comes-to-difficult-stakeholders)\].
+* Tracking Work and Reporting
+* * Needs more info
+* Invoicing and Receiving Payment
+* * \[shouldn't this be in Budgets and Finance? Could probably link it\]
+
+## Meetings
+
+* [Tips and Tricks for Meetings: How to Host and Get the Most Out of Them.](meetings.md) 
+* * People need...\[see [here](meetings.md#people-need)\].
+* [Ways and Places to Conduct Meetings](meetings.md#ways-and-places-to-conduct-meetings)
+* 
+## Communication
+
+* [How We Communicate](communication.md#communication). 
+* Tools to Communicate Effectively
+
+
 
 ## Team Management
 
