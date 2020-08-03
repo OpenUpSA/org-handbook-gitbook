@@ -1,5 +1,7 @@
 # Defining Project Parameters and Limitations
 
+To jump to the Project Initiation main page, click [here](./). 
+
 ## Resource Allocation
 
 Forecasting: 

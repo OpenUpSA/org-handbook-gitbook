@@ -1,5 +1,7 @@
 # OpenUp's Mission and Vision
 
+To jump to the Project Initiation main page, click[ here](./). 
+
 ## Aligning Projects with OpenUp's Mission and Vision
 
 ### **OpenUp's Mission**

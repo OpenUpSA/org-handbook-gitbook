@@ -1,5 +1,7 @@
 # How Projects Support Our Mission and Vision
 
+To jump to the Project Initiation main page, click [here](./). 
+
 #### What are the qualities that make a project align with OpenUp's mission and vision, and what are the metrics used to measure them?
 
 **‌**OpenUp’s projects should allow the public to play an active role in society, and make a difference in terms of their needs. A project’s ability to address and achieve this is initially judged from the perspective of three key words in our core values: to **Inform, Empower,** and **Activate**. These broad segments form the basis of the metrics we use to assess potential project compatibility. 

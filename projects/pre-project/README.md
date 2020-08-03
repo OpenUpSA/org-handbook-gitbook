@@ -19,7 +19,10 @@
 
 ## 1. Aligning with OpenUp's vision and mission \([read more](openups-mission.md)\)
 
-* Read our **vision** and **mission** [here](openups-mission.md).
+* [OpenUp's Mission and Vision](openups-mission.md)
+* * What impact do we want to have? 
+* [How projects support our mission and vision](how-projects-support-our-mission-and-vision.md#what-are-the-qualities-that-make-a-project-align-with-openups-mission-and-vision-and-what-are-the-metrics-used-to-measure-them)
+* * [Qualities and core values](how-projects-support-our-mission-and-vision.md#inform)
 * Does the project meet the deliverables of our funders?
 
 ## 2. Getting Partners and Stakeholders on Board \([read more](getting-partners-and-stakeholders-on-board.md)\)
@@ -30,11 +33,18 @@
 * \*\*\*\*[**DEFINE THE ROLES** of all parties involved.](getting-partners-and-stakeholders-on-board.md#3-define-the-roles-of-all-parties-involved)
 * [Common roles](getting-partners-and-stakeholders-on-board.md#common-roles-include)
 
-## 3. Writing a Concept Note or Proposal and getting it approved \([read more](writing-a-concept-proposal.md)\)
+## 3. Write a Concept Note or Proposal \([read more](writing-a-concept-proposal.md)\)
 
-## 4. Drafting a Budget and getting it approved \([read more](../../how-we-work/budgets-and-finance/#links-to-templates)\)
+* [Defining Project Parameters and Limitations](defining-project-parameters-and-limitations.md)
+* [Writing a Project Proposal: Step-by-Step](writing-a-concept-proposal.md)
+* [Elements Of A Project Proposal](elements-of-a-project-proposal.md)
 
-## 5. Creating all necessary documentation and admin \([read more](documentation.md)\)
+## 4. Draft a Budget and get it approved \([read more](../../how-we-work/budgets-and-finance/#links-to-templates)\)
+
+* See [Budgets and Finance](../../how-we-work/budgets-and-finance/)
+* WIP
+
+## 5. Create all necessary documentation and admin \([read more](documentation.md)\)
 
 ## 6. Managing the project or product during the Initiation Phase \([read more](management-during-the-project-initiation-phase.md)\)
 
