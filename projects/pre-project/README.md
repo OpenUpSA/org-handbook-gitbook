@@ -16,6 +16,8 @@
 
 ## 2. Getting Partners and Stakeholders on Board \([read more](getting-partners-and-stakeholders-on-board.md)\)
 
+
+
 ## 3. Writing a Concept Note or Proposal and getting it approved \([read more](writing-a-concept-proposal.md)\)
 
 ## 4. Drafting a Budget and getting it approved \([read more](../../how-we-work/budgets-and-finance/#links-to-templates)\)
