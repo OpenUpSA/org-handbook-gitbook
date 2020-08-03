@@ -2,6 +2,8 @@
 
 ## **Project Planning**
 
+Review Questions
+
 1. What is the project trying to achieve? 
 2. Why? 
 3. How will you achieve the aim of the project? 
@@ -25,11 +27,11 @@ If the project is large you may want to create a **Log Frame**, a detailed **Pro
 * [SCRUM](agile-and-scrum.md#scrum)
 * [LEAN STARTUP METHOD](agile-and-scrum.md#lean-startup-method)
 
-See [here](agile-and-scrum.md).
+See [here](agile-and-scrum.md) for more. 
 
 
 
-#### The Lean Startup Method
+### The Lean Startup Method
 
 Lean startup is a methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable; this is achieved by adopting a combination of business-hypothesis-driven experimentation, iterative product releases, and validated learning.
 

@@ -3,20 +3,32 @@
 ## How to start a Project at OpenUp
 
 1. The project must align with OpenUp's vision and mission \([read more](openups-mission.md)\)
-2. Get partners and/or stakeholders onboard - clarity of roles and level of commitment \([read more](getting-partners-and-stakeholders-on-board.md)\)
-3. Write a concept note or proposal, which must be approved by Senior Management and the client/partner/stakeholder \([read more](writing-a-concept-proposal.md)\)
-4. You must create a draft budget, which must be approved by Senior Management and the client/partner/stakeholder \([read more](../../how-we-work/budgets-and-finance/#links-to-templates)\)
-5. You must create all the necessary documentation \(and other admin\) to start a project \([read more](documentation.md)\)
-6. You must manage the project or product during the Project Initiation phase \([read more](management-during-the-project-initiation-phase.md)\)
+
+* * [OpenUp's Mission and Vision](openups-mission.md)
+  * [How Projects Support Our Mission and Vision](how-projects-support-our-mission-and-vision.md)
+
+2. Get partners and/or stakeholders onboard; clarifying the respective roles and levels of commitment \([read more](getting-partners-and-stakeholders-on-board.md)\)
+
+3. Write a concept note or proposal. This must be approved by Senior Management and the client/partner/stakeholder \([read more](writing-a-concept-proposal.md)\)
+
+4. Create a draft budget. This must be approved by Senior Management and the client/partner/stakeholder \([read more](../../how-we-work/budgets-and-finance/#links-to-templates)\)
+
+5. Create all the necessary documentation \(and other admin\) to start a project \([read more](documentation.md)\)
+
+6. Manage the project or product during the Project Initiation phase \([read more](management-during-the-project-initiation-phase.md)\)
 
 ## 1. Aligning with OpenUp's vision and mission \([read more](openups-mission.md)\)
 
-* Read the vision and mission [here](openups-mission.md).
+* Read our **vision** and **mission** [here](openups-mission.md).
 * Does the project meet the deliverables of our funders?
 
 ## 2. Getting Partners and Stakeholders on Board \([read more](getting-partners-and-stakeholders-on-board.md)\)
 
-
+* [Engaging Stakeholders: Who, How, What](getting-partners-and-stakeholders-on-board.md#engaging-stakeholders)
+* [What are the **DESIRED GOALS** and **OUTCOMES** for each stakeholder? ](getting-partners-and-stakeholders-on-board.md#1-what-are-the-desired-goals-and-outcomes-for-each-stakeholder)
+* [What are the **RESOURCE CAPACITIES** of each stakeholder? ](getting-partners-and-stakeholders-on-board.md#2-what-are-the-resource-capacities-of-each-stakeholder)
+* \*\*\*\*[**DEFINE THE ROLES** of all parties involved.](getting-partners-and-stakeholders-on-board.md#3-define-the-roles-of-all-parties-involved)
+* [Common roles](getting-partners-and-stakeholders-on-board.md#common-roles-include)
 
 ## 3. Writing a Concept Note or Proposal and getting it approved \([read more](writing-a-concept-proposal.md)\)
 

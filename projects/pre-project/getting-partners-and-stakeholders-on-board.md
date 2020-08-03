@@ -1,5 +1,7 @@
 # Getting Partners and Stakeholders on Board
 
+To jump to the Project Initiation main page, click [here](./). 
+
 Read this section and then use the **stakeholder checklist** and [**Project Overview Document**](https://docs.google.com/document/d/1xDjx5-Wfqbsi8WnyaOrEQd-r98a_p27Jjp6WQ4nj_zc/edit) to make sure you have all the information you need to start a project.
 
 \*see [Stakeholder Managemen](../project-planning/stakeholder-management.md)t, Project Implementation.
@@ -43,7 +45,7 @@ Defining and delegating roles- a step preceded by **getting to know the skill se
 
 Delegating and defining roles clearly defined roles and communicating them to everyone is vital to a successful project. Knowing what people can and cannot do, will help you plan accordingly.
 
-Common roles include:
+#### Common roles include:
 
 * [Product Owner](../project-planning/common-roles.md#product-owner) \(See also: [https://www.scaledagileframework.com/product-owner/](https://www.scaledagileframework.com/product-owner/)\)
 * [Project Manager](../project-planning/common-roles.md#project-manager)
