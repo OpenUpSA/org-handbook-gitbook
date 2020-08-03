@@ -128,7 +128,7 @@ The product owner keeps their eye on the larger vision and advocates for user ne
 
 ### Project Manager
 
-TThe project manager is the task-driver on any project. They are responsible for determining work breakdown, negotiating resources, facilitating team communication, raising risks, issues and concerns and generally keeping the project on track. The project manager acts as the liaison between all team members, including external stakeholders.
+The project manager is the task-driver on any project. They are responsible for determining work breakdown, negotiating resources, facilitating team communication, raising risks, issues and concerns and generally keeping the project on track. The project manager acts as the liaison between all team members, including external stakeholders.
 
 ### Lead Developer
 
