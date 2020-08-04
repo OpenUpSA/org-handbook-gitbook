@@ -47,8 +47,6 @@ Our Common Budgets
 
 ## 
 
-## Expense claims
-
 ## Invoicing clients
 
 * the difference between invoicing clients and invoicing projects. Is their a difference?
