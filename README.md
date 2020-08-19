@@ -6,21 +6,35 @@ Find how we structure projects under **Project Management**.
 
 Find task-specific documentation under **How we work**.
 
-{% hint style="info" %}
-**All our processes and best practises should be documented.**
+## Maintaining the handbook
 
-If you're wondering how to do something, check if there's already documentation for it. If it's out of date, please fix it.
+### What should be documented?
 
-If it's not documented yet, speak to the people who might know, see if we know a way that's worked before, otherwise try something, and document it.
-{% endhint %}
+* Any standard procedures - if there's a "right way" of doing something
+* Anything we need or do repeatedly
+* Any best practises - when there's an approach we know generally works better than other options
 
-{% hint style="info" %}
-**When do we document something?**
+### Who should document something?
 
-We don't need to document everything at once.
+* The person establishing a standard procedure should document it
+* The person asking how to do something, when they find it is not documented, or the documentation is out of date or incorrect. They should find out what the current correct information is, and fix the documentation.
 
-As you try to do something, check the documentation, and update or fill the gaps for the next person.
-{% endhint %}
+### When do we document something?
+
+* We don't have to document everything all at once
+* We should ideally document standard procedures as that procedure is defined
+* When we need to carry something out and we've asked someone how to do it, we should document that as part of carrying out the task
+
+### How much detail do I need to document?
+
+* The documentation should be as concise as possible, while being sufficient so that someone can carry out a task correctly without assistance
+* Rather than document every detail, document the bits that are specific to us, and link to an online guide to the general approach
+
+### How should we organise the documentation?
+
+* The documentation should be organised so that you can find what you need based on the task you need to carry out.
+* Use clear concise page names and headings so that someon scanning a list of pages or links can easily see the relevant page
+* Avoid creating empty stub pages - it makes it hard to know what's documented and what isn't, and someone else might document that concept in another section without realising a stub had been created
 
 
 
