@@ -8,6 +8,11 @@ Find task-specific documentation under **How we work**.
 
 ## Maintaining the handbook
 
+### This handbook is public!
+
+* This means others can benefit from our established processes and learnings
+* Sensitive things that should not be publicly accessible should be in Google Documents with appropriate sharing settings \(not readable with the link!\)
+
 ### What should be documented?
 
 * Any standard procedures - if there's a "right way" of doing something
