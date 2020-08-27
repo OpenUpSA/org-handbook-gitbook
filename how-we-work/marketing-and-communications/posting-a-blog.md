@@ -118,3 +118,5 @@ Make sure you are selecting an appropriate layout for your images. By default, t
 For large images, **use the full-width option**.
 {% endhint %}
 
+Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md). 
+
