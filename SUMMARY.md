@@ -80,6 +80,7 @@
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
 * [Marketing & Communications](how-we-work/marketing-and-communications/README.md)
   * [Posting a blog](how-we-work/marketing-and-communications/posting-a-blog.md)
+  * [Sharing a blog post](how-we-work/marketing-and-communications/sharing-a-blog-post.md)
   * [Marketing Q &A](how-we-work/marketing-and-communications/marketing-q-and-a.md)
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
   * [Tracking app and campaign web traffic sources](how-we-work/marketing-and-communications/tracking-app-and-campaign-web-traffic-sources.md)
