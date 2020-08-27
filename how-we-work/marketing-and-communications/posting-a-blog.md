@@ -66,8 +66,6 @@ You can select multiple categories for a post, but please ensure that your selec
 **IF UNSURE** what category to use on your post, please contact a member of the comms team.
 {% endhint %}
 
-
-
 ## Checklist for posting an article
 
 ### 1. My document is only using existing copy styles:
@@ -119,6 +117,4 @@ Make sure you are selecting an appropriate layout for your images. By default, t
 {% hint style="info" %}
 For large images, **use the full-width option**.
 {% endhint %}
-
-Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md). 
 
