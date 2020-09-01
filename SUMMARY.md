@@ -79,6 +79,7 @@
   * [Contracting people for work](how-we-work/outsourcing-and-contracting/contracting-people-for-work.md)
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
 * [Marketing & Communications](how-we-work/marketing-and-communications/README.md)
+  * [Creating an email newsletter](how-we-work/marketing-and-communications/creating-an-email-newsletter.md)
   * [Posting a blog](how-we-work/marketing-and-communications/posting-a-blog.md)
   * [Sharing a blog post](how-we-work/marketing-and-communications/sharing-a-blog-post.md)
   * [Marketing Q &A](how-we-work/marketing-and-communications/marketing-q-and-a.md)
