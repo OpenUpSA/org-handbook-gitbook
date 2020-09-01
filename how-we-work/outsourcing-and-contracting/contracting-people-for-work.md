@@ -26,7 +26,28 @@ We often outsource clearly-specified tasks on UpWork.
 
 We have found good local developers on ZATech Slack - when we could build trusting relationships with them over time, we could give them more freedom on how solutions are put together and let them deploy changes and debug things on the production server.
 
+## How to write a contract and get it signed by all parties
 
+We have a contract template, which is based on a spreadsheet in Google sheets to log deliverables, and a contract with the URL to that spreadsheet as the agreed rates and deliverables.
+
+The deliverables spreadsheet includes due dates, and deliverable-based pricing or time-based rate along with a cap or timebox on the maximum number of hours that may be recorded on that task before discussing potentally expanding the timebox for that task. The change logging provided by Google Drive provides an audit log so that it is clear who updated each field. Notes on column headings specify whether OpenUp or the contractor should update each field.
+
+1. Create a folder for the contractor in the [Contracts folder](https://drive.google.com/drive/folders/1eGjxwWe3uJctCl_Rjosal2xYTVxoBmXT)
+2. Create the deliverables spreadsheet from the Google Sheets template `Contracting task list - NAME - started DATE` in the contractor's folder.
+3. Update the NAME and DATE in the spreadsheet name to match the contractor name and planned start date.
+4. Create the contract from the Google Docs template `Deliverable- OR Time-based contract - NAME - started DATEU`
+5. Update the NAME and DATE in the doc name to match the contractor name and planned start date.
+6. Update all the fields between {{ and }}
+7. Ensure that the duration, task outline, scope of work and project are correct for the intended contractor and project.
+8. Ask the Director to sign the contract
+9. Give the contractor access to the document or send it to them via another menas if they prefer. 
+10. Ask the Contractor to sign it if they are happy with it.
+
+It is sufficient for the Director and Contractor to insert images of their signature on in the contract Google Document, as long as the document change tracking reflects that they were the ones to insert their own signatures. It is not ok for anyone else to insert their signatures into the document.
+
+Now you can have regular meetings with the contractor, agree task scope, whether it's deliverable- or time-based, deadlines, timeboxes, etc, and mark the agreed tasks as agreed in the deliverables spreadsheet.
+
+Remember to keep it updated as deliverables are completed, invoiced, and paid, to make it easy to ensure we are up to date with payments and tasks are not left hanging.
 
 ## How to specify a task
 
