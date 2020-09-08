@@ -2,7 +2,7 @@
 description: Chantal
 ---
 
-# Marketing & Communications
+# Communications & Branding
 
 ## Creating a marketing campaign/plan
 
