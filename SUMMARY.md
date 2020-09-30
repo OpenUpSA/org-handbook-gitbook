@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Onboarding](onboarding.md)
+* [Code of Conduct](code-of-conduct.md)
 
 ## Project Management <a id="projects"></a>
 
