@@ -56,9 +56,10 @@ If you find broken steps or something that needs fixing, please use comments cre
 * Take some time to read through this manual and get to know how OpenUp works.
 * Have the operations manager add the daily standup to your calendar.
 * Ask the operations manager to add you to: 
-  * Clockify for timekeeping.
-  * Slack for internal communications.
-  * Trello for task management.
+  * [Clockify](https://clockify.me/) for timekeeping.
+  * [Slack](https://slack.com/) for internal communications.
+  * [Trello](https://trello.com/en) for task management.
+  * [Simplepay](https://www.simplepay.co.za/) for payroll.
 
 #### Technical Staff
 
