@@ -58,13 +58,13 @@ Difficult stakeholders are most likely arise whenever a project doesn’t have a
 
 ### When it comes to difficult stakeholders
 
-It is: 
+It is important to: 
 
-1. **Important to set clear boundaries from the beginning**: a clear scope on what you will and won’t do, in regards to the project and for the stakeholder in question
+**1. Set clear boundaries from the beginning**: a clear scope on what you will and won’t do, in regards to the project and for the stakeholder in question
 
 * Many stakeholders have ideas or concepts that aren’t possible or practical, within the given parameters. Maybe they don’t realize the quantity of resources those ideas would need to be implemented; maybe they underestimate the time and the effort it would take to make their initial concept a reality. 
 
-2. **Set expectations early**- from the Initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
+**2. Set expectations early**- from the Initiation phase, when possible- keeping them invested and on track with their duties, and working toward a set plan is usually enough to circumvent this problem. Stakeholders greatly benefit from a place to voice their opinions. 
 
 If they refuse to listen or negotiate, remain adamantly insistent on seeing their vision through- if they’re just too difficult- escalate and get help \(from Adi and Lailah\), depending on if the issue is technological or operational. If that doesn’t help, it might be necessary to let the stakeholder go.
 

@@ -1,6 +1,6 @@
 # When, Where, and How to Hold a Training Session
 
-## Training 
+## TRAINING
 
 * Usually offered as a product, moreso than something that happens internally.
 * Offered as an ongoing project and/or program deliverable
@@ -16,7 +16,7 @@ Though selling/pushing training is **NOT** a key part of our philosophy, the maj
 * Other members of the team benefit
 * Often done for onboarding, team bonding
 
-## External Training, step-by-step
+## EXTERNAL TRAINING: step-by-step
 
 #### 1. Clients request training sessions they think they might need
 

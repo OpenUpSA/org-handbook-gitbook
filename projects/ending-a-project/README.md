@@ -1,6 +1,6 @@
 # Project Close-out
 
-## The Close-out Process
+## THE CLOSE-OUT PROCESS
 
 1. Documents and checklists utilized during the close-out stage.
 2. The Close-out report: what did we learn? 
