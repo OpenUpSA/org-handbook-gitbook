@@ -92,22 +92,7 @@ By default, the template has 4 blog post blocks built in. If you would like to a
 **Do not try to add an image to the blog post block - always use a URL.** This will increase the size of the email and might cause the email to not be able to be received. 
 {% endhint %}
 
+## Need help?
 
-
-## Select the "OpenUp newsletter template
-
-```
-$ give me super-powers
-```
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+**This guide is not yet complete!** If you have any problems, please contact Matthew on the Comms team.
 
