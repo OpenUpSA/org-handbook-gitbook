@@ -34,38 +34,40 @@ If you find broken steps or something that needs fixing, please use comments cre
 
 #### Everyone
 
-* Get a Google Apps account for @openup.org.za
+* Get a Google Apps account for @openup.org.za.
 * Use strong, unique passwords for every service. Follow password best practises:
-  * Never use the same password for two accounts
-  * Don’t use personal information
-  * Don’t use words from a dictionary
-  * Use at least 8 characters
-  * [Use strong passwords - it can be easier than you think](https://blog.lastpass.com/2015/07/how-to-make-a-strong-master-password.html/)
+  * Never use the same password for two accounts.
+  * Don’t use personal information.
+  * Don’t use words from a dictionary.
+  * Use at least 8 characters.
+  * [Use strong passwords - it can be easier than you think](https://blog.lastpass.com/2015/07/how-to-make-a-strong-master-password.html/).
     * If you don’t want to follow this advice:
-      * Use numbers
-      * Use punctuation
-  * Use a password manager to help you remember all those unique passwords
-* Sign up for the OpenUp Slack and get added to the \#team channel and join \#new-hires
-* Fill out your contact details in the [employee contact list](https://docs.google.com/spreadsheets/d/15bBPWQlbfL0kJG2SZ6Hn0D9i6yZeII2Xs_PIJPMWvwc/edit#gid=0)
+      * Use numbers.
+      * Use punctuation.
+  * Use a password manager to help you remember all those unique passwords.
+* Sign up for the OpenUp Slack and get added to the \#team channel and join \#new-hires.
+* Fill out your contact details in the [employee contact list](https://docs.google.com/spreadsheets/d/15bBPWQlbfL0kJG2SZ6Hn0D9i6yZeII2Xs_PIJPMWvwc/edit#gid=0).
 * Have someone share the [root OpenUp google drive folder](https://drive.google.com/drive/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU) with you, and add it to your Google Drive.
-* Have Codebridge keys cut and sign the key register
-* You'll need a photo and a bio for the website \([example](https://openup.org.za/team/adi.html)\)
-  * Interns: you will fill out a different format
-* Ensure we have a copy of your signed contract and your ID
-* Set up a fortnightly 1-1 session with your manager/peer
-  * Bookings: [Quarterly 1-1s 20](https://docs.google.com/spreadsheets/d/1ctVpV6-gWRruFuK49_d0n8qPCVFGNz-VIY0gSTU7mRk/edit#gid=473914394)20
+* Have Codebridge keys cut and sign the key register.
+* You'll need a photo and a bio for the website \([example](https://openup.org.za/team/adi.html)\).
+  * For interns a different format will be followed.
+* Ensure we have a copy of your signed contract and your ID.
+* Set up a fortnightly 1-1 session with your manager/peers.
 * Take some time to read through this manual and get to know how OpenUp works.
-* Have JD add the daily standup to your calendar.
-* Ask Lailah to add you to Clockify
+* Have the operations manager add the daily standup to your calendar.
+* Ask the operations manager to add you to: 
+  * Clockify for timekeeping.
+  * Slack for internal communications.
+  * Trello for task management.
 
 #### Technical Staff
 
-* Read up on our [best practices](http://github.com/Code4SA/best-practices)
-* Get added to the OpenUpSA Github organisation by your manager
-* Add yourself to the website’s Team page by sending a pull request - [https://github.com/OpenUpSA/openupsa.github.io](https://github.com/OpenUpSA/openupsa.github.io)
-* Ask your manager to add you to the webapps@openup.org.za email list
-* Get your [SSH key added to the servers](https://github.com/OpenUpSA/ansible-config/#add-new-admins-to-ansibles-inventory)
-* Get your [GPG key added to the secrets store](https://github.com/OpenUpSA/secrets_store)
+* Read up on our [best practices](http://github.com/Code4SA/best-practices).
+* Get added to the OpenUpSA Github organisation by your manager.
+* Add yourself to the website’s Team page by sending a pull request - [https://github.com/OpenUpSA/openupsa.github.io](https://github.com/OpenUpSA/openupsa.github.io).
+* Ask your manager to add you to the webapps@openup.org.za email list.
+* Get your [SSH key added to the servers](https://github.com/OpenUpSA/ansible-config/#add-new-admins-to-ansibles-inventory).
+* Get your [GPG key added to the secrets store](https://github.com/OpenUpSA/secrets_store).
 
 ### How we Communicate and Collaborate
 
@@ -73,32 +75,32 @@ We are a distributed, diverse and collaborative team. While no tool is a perfect
 
 We create a supportive environment that allows everyone to:
 
-* Do their work
-* Be a responsible owner
-* Collaborate
-* Be accountable and hold each other to account
-* Ask for and provide help and assistance
+* Do their work.
+* Be a responsible owner.
+* Collaborate.
+* Be accountable and hold each other to account.
+* Ask for and provide help and assistance.
 
 We do this by:
 
-* Sharing as much as possible and keeping our team in the loop
-* Being attentive to communications during the work day
-* Asking when we don’t know
-* Helping others when they don’t know, and we do
-* Communicating clearly and regularly
-* Being respectful of people’s time
+* Sharing as much as possible and keeping our team in the loop.
+* Being attentive to communications during the work day.
+* Asking when we don’t know.
+* Helping others when they don’t know, and we do.
+* Communicating clearly and regularly.
+* Being respectful of people’s time.
 
 #### Guidelines
 
 These guidelines help to make our goals concrete:
 
 * Our primary communication tool is Slack. Being on Slack is the same as being at work. If you’re not on Slack, you’re not at work.
-* Our secondary communication tools are email and phone
-* If you won’t be available during the day \(eg. an appointment\), let people know on Slack
-* There is no expectation of replies outside of 9-5 business hours
-* Be available during core business hours, much as you would be if we all shared a single office
-* In a shared space, indicate to others that you’d rather not be interrupted by wearing headphones and snoozing Slack notifications
-* Document project meetings using living minutes documents in Google Drive
+* Our secondary communication tools are email and phone.
+* If you won’t be available during the day \(eg. an appointment\), let people know on Slack.
+* There is no expectation of replies outside of 9am - 5pm business hours.
+* Be available during core business hours, much as you would be if we all shared a single office.
+* In a shared space, indicate to others that you’d rather not be interrupted by wearing headphones and snoozing Slack notifications.
+* Document project meetings using living minutes documents in Google Drive.
 * When asking for input, you’re more likely to be successful if you make it clear:
   * Who do you need it from?
   * What do you need from them?
@@ -109,41 +111,41 @@ These guidelines help to make our goals concrete:
 
 * Being on Slack is the same as being at work. If you’re not on Slack, you’re not at work.
 * Use Slack unless it’s critically urgent. This gives others a chance to reply when it’s convenient for them. Therefore, don’t expect an immediate response.
-* If it’s critically urgent: check that it really is, then talk to them in person or [phone](https://docs.google.com/spreadsheets/d/15bBPWQlbfL0kJG2SZ6Hn0D9i6yZeII2Xs_PIJPMWvwc/edit#gid=0) them
+* If it’s critically urgent: check that it really is, then talk to them in person or [phone](https://docs.google.com/spreadsheets/d/15bBPWQlbfL0kJG2SZ6Hn0D9i6yZeII2Xs_PIJPMWvwc/edit#gid=0) them.
 * “Urgent” means anything that will block you if it is not resolved. Use your best judgement.
 * Prefer channels over direct messages as far as possible, especially for projects
-  * Helps share knowledge
-  * Greater chance of getting a reply
-  * Shared context \(not everyone is always physically present\)
-  * Historical value
-* Use Slack notifications effectively
-* Turn on snooze if you don’t want to be interrupted
+  * Helps share knowledge.
+  * Greater chance of getting a reply.
+  * Shared context \(not everyone is always physically present\).
+  * Historical value.
+* Use Slack notifications effectively.
+* Turn on snooze if you don’t want to be interrupted.
 * Turn off notifications outside of business hours. Spend time with your family and friends. Enjoy the sunshine.
 * When you need input from a group, don’t expect an immediate response. Set a deadline and make the timeframe clear. Where possible, prefer general consensus over all-or-nothing votes. If it’s critical you get a response, use @mentions, talk in person, or phone them.
 
 **Using Google Calendar Effectively**
 
-* Learn how to use Google Calendar, [here’s a tutorial](https://gsuite.google.com/learning-center/products/calendar/)
-* Be attentive to meeting requests and respond to them timeously
-* Everyone can see each other’s calendars, learn how to do this
-* Check someone else’s calendar before scheduling an appointment
-* It’s okay to send a meeting request to anyone, they might ask you to move it to a more suitable time
+* Learn how to use Google Calendar, [here’s a tutorial](https://gsuite.google.com/learning-center/products/calendar/).
+* Be attentive to meeting requests and respond to them timeously.
+* Everyone can see each other’s calendars, learn how to do this.
+* Check someone else’s calendar before scheduling an appointment.
+* It’s okay to send a meeting request to anyone, they might ask you to move it to a more suitable time.
 
 **Using Google Drive Effectively**
 
 * Learn how to use Google Drive, it’s critical for our business. [Here’s a tutorial](https://gsuite.google.com/learning-center/products/drive/).
 * Always use Google Drive under your OpenUp \(@openup.org.za\) account. Never share OpenUp content with your private Google account.
 * Add the [**OpenUp**](https://drive.google.com/drive/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU?usp=sharing) [folder](https://drive.google.com/drive/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU?usp=sharing) to your Drive, everything lives under that.
-  * Click on the folder link above
-  * Right click on the folder and add to drive
+  * Click on the folder link above.
+  * Right click on the folder and add to drive.
 * All documents, except those that are personally confidential, must be stored in the appropriate location in the **OpenUp** folder. This ensures we can all find, view and collaborate on documents together.
 * **Do not use Microsoft Office** \(Word, Excel and so on\). Rather set up offline Google Drive access on your laptop for when your connection has problems. Using Google Drive consistently means everyone has access to the latest changes, and your special changes don’t go missing when someone else uploads another MS Office version.
 * **We tend to agree with partners that we all work in Google Drive**. That avoids people sending around multiple versions of Word documents that someone has to merge. Partners can create a Google account to use with Drive using their existing work email address at [https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp&nogm=true](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp&nogm=true). This is unfortunately not always possible and we need to respect the client’s[\[1\]]() wishes.
 * Create new documents in the appropriate folder inside the OpenUp folder. This ensures permissions are set correctly and everyone can find things.
 * Add stars to folders/documents to bookmark them for easy access
-  * Right click on the folder/document and click "add star". They will show up under "Starred" found in the left menu
-* Create symbolic links with shift + z to put a document or folder in multiple locations
-* The search function \(as well as right click & locate\) are useful to find documents if you are unsure of where they are located on the drive
+  * Right click on the folder/document and click "add star". They will show up under "Starred" found in the left menu.
+* Create symbolic links with shift + z to put a document or folder in multiple locations.
+* The search function \(as well as right click & locate\) are useful to find documents if you are unsure of where they are located on the drive.
 
 **Writing documents**
 
@@ -153,7 +155,7 @@ These guidelines help to make our goals concrete:
 
 ### How we choose our projects
 
-Projects generally come into the organisation via Adi’s networking and partners. As ideas are mulled around, Adi and the rest of the Executive Committee share at Daily Standup and Weekly Planning. As potential projects near initiation, they get added to the [project registry](https://docs.google.com/spreadsheets/d/1nYDpzyjQpZACWLlYlB7llhQ8AfdDkKkxaXnPHf2VTMc/edit#gid=744626669).
+Projects generally come into the organisation via the Director's networking and partners. As ideas are mulled around, The Director and the rest of the Executive Committee share at Daily Standup and Sprintly Planning meetings. As potential projects near initiation, they get added to the [project registry](https://docs.google.com/spreadsheets/d/1l3KsR12CyvS8yBql1VwMhjlVncaxEgBfnvxHPOECyB8/edit#gid=0).
 
 Projects taken on are chosen based on the expected impact, the alignment with our vision and mission, the availability of funding, and finally, whether there are people with the right skills in the organisation to carry them out.
 
@@ -163,15 +165,15 @@ Anyone is free to propose projects for the organisation that align with the visi
 
 Unless you were assigned to investigate a project by your line manager, your project research is something you have to do in your own time until the project is taken on by the organisation. There’s no guarantee that your ideas will be taken on by the organisation - it depends on the factors mentioned above.
 
-Projects can be proposed informally, ad-hoc e.g. as you chat to people in the corridor. You can also email or slack people you think are interested.
+Projects can be proposed informally, ad-hoc e.g. as you chat to people in the corridor. You can also email or slack people you think may be interested.
 
 #### Who decides on projects?
 
-Adi decides whether we initiate a given project.
+The ultimate decision to pursue a project rests with the Director of the organisation, and in consultation with the Executive Committee and/or the Board where necessary.
 
 #### What does “go-ahead” look like for a project?
 
-It varies. Go-ahead looks like whatever is agreed with Adi - at an early stage of an idea, it might mean you get go-ahead to spend a few hours to write a concept document. Once the concept document is researched and written, the project can be re-evaluated and cleared for further work. It’s important to get a clear idea of what sort of go-ahead you have.
+It varies. Go-ahead looks like whatever is agreed with the Director - at an early stage of an idea, it might mean you get go-ahead to spend a few hours to write a concept document. Once the concept document is researched and written, the project can be re-evaluated and cleared for further work. It’s important to get a clear idea of what sort of go-ahead you have.
 
 Working on a project is also subject to your line manager who is responsible for resource allocation \(making sure we get the right people working on the right things to meet our commitments\). You might need to facilitate some of the communication to get time allocated to your project if you got some form of go-ahead.
 
