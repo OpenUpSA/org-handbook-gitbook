@@ -91,6 +91,7 @@
 ## Tech
 
 * [What do we use for...](tech/what-do-we-use-for....md)
+* [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 
 ---
