@@ -20,9 +20,9 @@
 ## 1. Aligning with OpenUp's vision and mission \([read more](openups-mission.md)\)
 
 * [OpenUp's Mission and Vision](openups-mission.md)
-* * What impact do we want to have? 
+  * What impact do we want to have? 
 * [How projects support our mission and vision](how-projects-support-our-mission-and-vision.md#what-are-the-qualities-that-make-a-project-align-with-openups-mission-and-vision-and-what-are-the-metrics-used-to-measure-them)
-* * [Qualities and core values](how-projects-support-our-mission-and-vision.md#inform)
+  * [Qualities and core values](how-projects-support-our-mission-and-vision.md#inform)
 * Does the project meet the deliverables of our funders?
 
 ## 2. Getting Partners and Stakeholders on Board \([read more](getting-partners-and-stakeholders-on-board.md)\)
