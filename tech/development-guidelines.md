@@ -36,11 +36,12 @@ This context means that most industry best practises are even more important to 
 
 ### Automate outage alerts
 
-### Tend towards best practises
+### Tend towards best practices
 
 ## Further reading
 
-The Twelve-Factor App - 
+* [The Twelve-Factor App](https://12factor.net/) - Lots of clear, specific best practices for building maintainable services
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Techniques for productively building software that don't get old
 
 
 
