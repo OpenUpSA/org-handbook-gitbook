@@ -16,18 +16,20 @@ This context means that most industry best practises are even more important to 
 * **User experience is critical:** You probably don't know what's actually usable as well as you think you do.
 * \*\*\*\*[**Easy dev**](development-guidelines.md#easy-development-setup)**:** It should be easy to get a project up and running in a development environment.
 * \*\*\*\*[**Automate testing**](development-guidelines.md#automated-tests)**:** If a feature is worth implementing, it's worth having automated tests for it
-* \*\*\*\*[**Clean code**](development-guidelines.md#clean-code)**:** Source code is for humans to read
+* \*\*\*\*[**Code is intended to be read by humans**](development-guidelines.md#code-is-intended-to-be-read-by-humans): Otherwise we'd keep assembly in git instead of source code.
 * \*\*\*\*[**Time boxes**](development-guidelines.md#time-boxes)**:** Don't spend unbounded time on a problem.
 * \*\*\*\*[**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
 * [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively.
-* \*\*\*\*[**Automate outage alerts**](development-guidelines.md#automate-outage-alerts)**:** Don't wait for your users to leave or your client to tell you it's down.
+* **Fail loudly:** Brokenness should be visible.
 * \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Don't do sweeping dramatic changes that never get finished.
 
 ### Easy development setup
 
 ### Automate testing
 
-### Clean code
+### Code is intended to be read by humans
+
+* Use full versions of command arguments in scripts, e.g. `--tries=5` instead of `-t5`
 
 ### Time boxes
 
@@ -35,14 +37,21 @@ This context means that most industry best practises are even more important to 
 
 ### Automate repetition
 
-### Automate outage alerts
+### Brokenness should be visible
+
+* Never catch and drop exceptions without logging them.
+* Ensure shell scripts fail on error instead of running through with undefined behaviour. use `set -eux`  in bash.
+* Add uptime monitoring to public services and ensure we get emailed when a service goes down.
 
 ### Tend towards best practices
+
+
 
 ## Further reading
 
 * [The Twelve-Factor App](https://12factor.net/) - Lots of clear, specific best practices for building maintainable services
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Techniques for productively building software that don't get old
+* [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html) - No, it's not outdated. It's just about separating business logic from data, network, and presentation stuff.
 
 
 
