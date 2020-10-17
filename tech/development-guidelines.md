@@ -21,7 +21,7 @@ This context means that most industry best practises are even more important to 
 * \*\*\*\*[**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
 * [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively.
 * **Fail loudly:** Brokenness should be visible.
-* \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Don't do sweeping dramatic changes that never get finished.
+* \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
 
 ### Easy development setup
 
@@ -44,6 +44,20 @@ This context means that most industry best practises are even more important to 
 * Add uptime monitoring to public services and ensure we get emailed when a service goes down.
 
 ### Tend towards best practices
+
+Avoid trying to make everything "compliant" with our coding standards at once. It will be more complex than you expect, and you'll get stuck, and all your effort will be wasted because you will run out of time and get nothing merged.
+
+At least don't worsen the quality of the codebase. Discuss extreme circumstances where we might choose to introduce technical debt with the project lead developer.
+
+#### Automated fixes touching the whole codebase
+
+Apply automated fixes like introducing a formatter in one pull request per introduced tool to minimise the time it spends under review, and thus to minimise the merge conflicts with other work in progress. Speak to the rest of the team to coordinate the best time to make these changes.
+
+#### Manual improvements
+
+Apply manual improvements like refactoring and improving test coverage as part of normal business, e.g. adding a feature or fixing a bug. Only improve the code you're touching in this change. This is generally the sweet spot for getting improvements done without causing additional pain. It means improvements get done without scope getting expanded without bound.
+
+Every change is additional effort for the person reviewing your code and risks introducing new bugs. Don't put a task at risk because you're refactoring something totally unrelated.
 
 
 
