@@ -1,4 +1,4 @@
-# Defining Project Parameters and Limitations
+# Defining Project Parameters and Limitations \(scope\)
 
 To jump to the Project Initiation main page, click [here](./). 
 

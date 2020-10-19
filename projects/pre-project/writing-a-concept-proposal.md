@@ -2,9 +2,6 @@
 
 A project proposal is an outline of the project undertaken and assembled during the Project Initiation phase. It's purpose is to inform and persuade partners and stakeholders to support the project into the Implementation phase. 
 
-
-
-* 
 ## 1\) DEFINE THE PROBLEM
 
 * What **questions** do we want to answer? 
@@ -56,9 +53,6 @@ The **PROJECT STRATEGY**
 * **Identify and justify** project roles and responsibilities.
 * * In-house staff, areas for outsourced/contracted work, consultants, etc. 
   * What will be their roles and objectives? 
-  * 
-
-
 
 ## 5\) DEFINE: The SCHEDULE, BUDGET, and COST ESTIMATES
 

@@ -10,17 +10,26 @@ Read this section and then use the **stakeholder checklist** and [**Project Over
 
 The first stage of every project. Get to know: 
 
-* **WHO** 
-* * is involved
-  * * internally
-    * externally
-* **HOW** 
-* * invested each partner and stakeholder is in the project's success
-  * they can potentially contribute
-* **WHAT** 
-* * respectively, is each partner and stakeholders' level of commitment to the project
-  * they want to contribute
-* 
+**WHO** 
+
+* is involved
+  * internally
+  * externally
+
+**HOW** 
+
+* invested each partner and stakeholder is in the project's success
+* they can potentially contribute
+
+**WHAT** 
+
+* respectively, is each partner and stakeholders' level of commitment to the project
+
+  they want to contribute
+
+  * Financially
+  * To the labour process
+
 ### 1. What are the DESIRED GOALS & OUTCOMES for each stakeholder?
 
 * What do they want out of the project? 
