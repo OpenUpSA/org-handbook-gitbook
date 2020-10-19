@@ -9,7 +9,7 @@ Forecasting:
 * What resources will OpenUp allocate toward this project? 
 * How, Where, and Why will these resources be utilized? 
 
-This is a key part of the [project proposal](writing-a-concept-proposal.md). 
+This is a key part of the [project proposal](). 
 
 ## Budgets and Finances
 

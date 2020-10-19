@@ -8,7 +8,7 @@ Budget planning begins in the **Project Initiation** phase. Whether a project is
 
 * begin planning for the budget during the project initiation phase.
 * budget plans are a standard component of the project proposal process presented to a client. 
-* * To learn more about the components of a project proposal, click [here](../../projects/pre-project/writing-a-concept-proposal.md).
+* * To learn more about the components of a project proposal, click [here]().
 
 
 

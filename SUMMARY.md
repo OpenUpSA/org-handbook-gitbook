@@ -11,8 +11,6 @@
   * [Aligning with OpenUp's Mission and Vision](projects/pre-project/openups-mission.md)
   * [Getting Partners and Stakeholders on Board](projects/pre-project/getting-partners-and-stakeholders-on-board.md)
   * [Defining Project Parameters and Limitations \(scope\)](projects/pre-project/defining-project-parameters-and-limitations.md)
-  * [Writing a Project Proposal: Step-by-Step](projects/pre-project/writing-a-concept-proposal.md)
-  * [Elements Of A Project Proposal](projects/pre-project/elements-of-a-project-proposal.md)
   * [Product Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
   * [DRAFT COPY](projects/pre-project/draft-copy.md)
 * [Project Implementation](projects/project-planning/README.md)

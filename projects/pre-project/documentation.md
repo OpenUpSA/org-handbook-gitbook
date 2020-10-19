@@ -7,7 +7,7 @@ Every project should have \(most\) the following documents. Some of the document
 ### Conceptualisation documents:
 
 * Concept Note \(template\) 
-* and/or Proposal \(template\)
+* and/or Proposal \([how to](https://docs.google.com/document/d/1M4PvAaQYEKCQ-tX67pnkZeMkdPgNCUY4HH8CHZygZUA/edit#) / template\)
   * Scope
   * Timeline
   * Costs
