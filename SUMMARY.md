@@ -7,13 +7,13 @@
 ## Project Management <a id="projects"></a>
 
 * [Project Initiation](projects/pre-project/README.md)
+  * [Documentation and Checklists](projects/pre-project/documentation.md)
   * [OpenUp's Mission and Vision](projects/pre-project/openups-mission.md)
   * [How Projects Support Our Mission and Vision](projects/pre-project/how-projects-support-our-mission-and-vision.md)
   * [Getting Partners and Stakeholders on Board](projects/pre-project/getting-partners-and-stakeholders-on-board.md)
   * [Defining Project Parameters and Limitations](projects/pre-project/defining-project-parameters-and-limitations.md)
   * [Writing a Project Proposal: Step-by-Step](projects/pre-project/writing-a-concept-proposal.md)
   * [Elements Of A Project Proposal](projects/pre-project/elements-of-a-project-proposal.md)
-  * [Documentation and Checklists](projects/pre-project/documentation.md)
   * [Product Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
   * [DRAFT COPY](projects/pre-project/draft-copy.md)
 * [Project Implementation](projects/project-planning/README.md)
