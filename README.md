@@ -10,7 +10,7 @@ Find task-specific documentation under **How we work**.
 
 ### This handbook is public!
 
-* This means others can benefit from our established processes and learnings
+* This means others can benefit from our established processes and learnings.
 * Sensitive things that should not be publicly accessible should be in Google Documents with appropriate sharing settings \(not readable with the link!\)
 
 ### What should be documented?
