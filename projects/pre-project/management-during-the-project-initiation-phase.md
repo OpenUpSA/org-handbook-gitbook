@@ -1,6 +1,6 @@
 # Product Management during the Project Initiation Phase
 
-## Product Management During the Project Initiation Phase
+## Product/Project Management During the Project Initiation Phase
 
 **Jennifer Walker manages implementations on top of existing products. The products already exist \(i.e. Wazimap\), already deemed to be aligned to OpenUp’s mission.** 
 
