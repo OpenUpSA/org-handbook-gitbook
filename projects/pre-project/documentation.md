@@ -6,11 +6,8 @@ Every project should have \(most\) the following documents. Some of the document
 
 ### Conceptualisation documents:
 
-* Concept Note \(template\) 
+* Concept Note \([template](https://docs.google.com/document/u/0/?ftv=1&folder=16iUU-4IjDorE_YB2c-wYNurnLINxkmxd&tgif=d)\) 
 * and/or Proposal \([how to](https://docs.google.com/document/d/1M4PvAaQYEKCQ-tX67pnkZeMkdPgNCUY4HH8CHZygZUA/edit#) / template\)
-  * Scope
-  * Timeline
-  * Costs
 
 ### Capacity Planning Documents:
 
