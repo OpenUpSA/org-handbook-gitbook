@@ -2,6 +2,27 @@
 
 ## Documents and Checklists
 
+Every project should \(almost\) always have the following documents
+
+Conceptualisation documents:
+
+* Concept Note \(template\) 
+* and/or Proposal \(template\)
+
+Capacity Planning Documents:
+
+* MOU \(template\) / SLA \(template\) / Contract \(template\)
+* Draft Budget \(template\)
+
+Project Kick-Off and Planning:
+
+* Budget \(template\)
+* Roadmap \(template\)
+* LogFrame \(template\)
+* Project Overview Document \(POD\) \(template\)
+* Slack Channel
+* Trello Board
+
 Through the duration of this process, Google Drive is used to document everything. It’s common for the living minutes to get taken, most notably during project steering meetings. Project steering meetings give the organization opportunities to discuss what OpenUp needs to prioritize. This is all made possible through an Agile project management system, which allows time and schedules to shift once data is made available.   
 
 
