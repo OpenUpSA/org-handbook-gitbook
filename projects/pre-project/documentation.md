@@ -2,12 +2,15 @@
 
 ## Documents and Checklists
 
-Every project should \(almost\) always have the following documents
+Every project should have \(most\) the following documents. Some of the documents below will come after the initiation phase.
 
 ### Conceptualisation documents:
 
 * Concept Note \(template\) 
 * and/or Proposal \(template\)
+  * Scope
+  * Timeline
+  * Costs
 
 ### Capacity Planning Documents:
 
