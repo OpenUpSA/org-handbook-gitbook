@@ -23,7 +23,35 @@ This context means that most industry best practises are even more important to 
 * **Fail loudly:** Brokenness should be visible.
 * \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
 
+### User experience is critical
+
+Don't assume just because you know how to use something, a user will know how to use it.
+
+We often develop frontends using Webflow to maximise the flexibility for the designer and make iteration on the user interface as rapid as possible.
+
+See our introductory talk on [our approach using webflow and user-centred design](https://za.pycon.org/talks/25-a-month-in-the-life-of-people-who-sprinkle-tech-webflow-django-and-users/).
+
 ### Easy development setup
+
+A developer should be able to clone a repository and have a working site running locally by running a few commands.
+
+#### Frontend
+
+* Backing data from an API should probably default to production, if a production service is available.
+* The backing API should be configurable via 
+  * environment variable \(semi-permanently e.g. for staging\)
+  * user interface \(per use - e.g. for testing a deploy preview against a staging or review app API\)
+    * [https://github.com/milafrerichs/dev-tools/](https://github.com/milafrerichs/dev-tools/)
+    * [Javascript prompt\(\) and session storage](https://github.com/OpenUpSA/muni-portal-frontend/blob/a8dd961eccc0438520702c8fef3a61f35db17855/src/js/api.js#L6)
+    * Do not allow this to be configured by querystring - this risks introducing an injection vulnerability 
+
+#### Backend
+
+* Use docker-compose for development so that database or other backend service dependencies don't make it hard to get up and running.
+  * Yes, this adds a layer of indirection. But have you battled with GDAL or wkhtmltopdf version issues? Also, if all our projects are structured this way, moving between projects becomes quick.
+* Use a seed data fixture for standard data like categories that could be used to seed production.
+* Use a demo data fixture for fake data e.g. pages, indicator values, etc.
+* Load and smoke-test your fixtures in CI to ensure they are kept functional. 
 
 ### Automate testing
 
