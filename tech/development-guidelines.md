@@ -13,7 +13,7 @@ This context means that most industry best practises are even more important to 
 
 ## Guidelines
 
-* **User experience is critical:** You probably don't know what's actually usable as well as you think you do.
+* \*\*\*\*[**User experience is critical**](development-guidelines.md#user-experience-is-critical)**:** You probably don't know what's actually usable as well as you think you do.
 * \*\*\*\*[**Easy dev**](development-guidelines.md#easy-development-setup)**:** It should be easy to get a project up and running in a development environment.
 * \*\*\*\*[**Automate testing**](development-guidelines.md#automated-tests)**:** If a feature is worth implementing, it's worth having automated tests for it
 * \*\*\*\*[**Code is intended to be read by humans**](development-guidelines.md#code-is-intended-to-be-read-by-humans): Otherwise we'd keep assembly in git instead of source code.
@@ -49,6 +49,7 @@ A developer should be able to clone a repository and have a working site running
 
 * Use docker-compose for development so that database or other backend service dependencies don't make it hard to get up and running.
   * Yes, this adds a layer of indirection. But have you battled with GDAL or wkhtmltopdf version issues? Also, if all our projects are structured this way, moving between projects becomes quick.
+  * By following [Twelve Factor Apps](https://12factor.net/), those who really want to run natively just need to provide configuration and it should work.
 * Use a seed data fixture for standard data like categories that could be used to seed production.
 * Use a demo data fixture for fake data e.g. pages, indicator values, etc.
 * Load and smoke-test your fixtures in CI to ensure they are kept functional. 
