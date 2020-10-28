@@ -112,15 +112,15 @@ Please ensure that you are using high-quality images that are saved a reasonable
 
 Make sure you are selecting an appropriate layout for your images. By default, the image will be centered in the body of the post at the size it was uploaded. 
 
-### 6. Do not repeat the header image in the body of the post
-
-If you want to add an image to the body of the post, the image should be different to the header image.
-
 ![](../../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
 For large images, **use the full-width option**.
 {% endhint %}
+
+### 6. Do not repeat the header image in the body of the post
+
+If you want to add an image to the body of the post, the image should be different to the header image.
 
 Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md). 
 
