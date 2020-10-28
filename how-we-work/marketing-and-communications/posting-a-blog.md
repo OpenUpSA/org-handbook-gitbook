@@ -80,7 +80,7 @@ The styles in the post editor **DO NOT** represent how the post will appear on t
 
 ### 2. Follow a linear heading structure
 
-Start your article heading structure with a "H1" and then use logical subheadings when needed \(H1 &gt; H2 &gt; H3\). Do not try to "style" the size of your post using heading styles. eg. Don't say, "I want this heading to be a bit smaller, so I am going to make it a H3". Headings are used to convey article structure.
+Start your article heading structure with a "H2" and then use logical subheadings when needed \(H2 &gt; H3 &gt; H4\). H1 is reserved for the titele. Do not try to "style" the size of your post using heading styles. eg. Don't say, "I want this heading to be a bit smaller, so I am going to make it a H3". Headings are used to convey article structure.
 
 ### 3. Remove "extra" spaces in your post
 
