@@ -99,7 +99,7 @@ Please ensure that you are using high-quality images that are saved a reasonable
 #### **Feature images:**
 
 {% hint style="success" %}
-**1280px x 800px** \(recommended\) with a **file size of 450kb**
+**1200px x 750px** \(recommended\) with a **max file size of 400kb**
 {% endhint %}
 
 #### **Post images:**
