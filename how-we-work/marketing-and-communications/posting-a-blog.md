@@ -94,7 +94,7 @@ Make sure that there aren't hard returns between elements
 
 ### 4. Images are at the correct size
 
-Please ensure that you are using high quality images that are saved a reasonable size to ensure that they look good on all devices. Some basic guidelines are:
+Please ensure that you are using high-quality images that are saved a reasonable size to ensure that they look good on all devices. Some basic guidelines are:
 
 #### **Feature images:**
 
