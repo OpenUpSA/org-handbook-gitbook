@@ -13,6 +13,7 @@ This context means that most industry best practises are even more important to 
 
 ## Guidelines
 
+* **Always deliver something:** Prefer releasing something very basic over ending a sprint with only unreleased partial work.
 * \*\*\*\*[**User experience is critical**](development-guidelines.md#user-experience-is-critical)**:** You probably don't know what's actually usable as well as you think you do.
 * \*\*\*\*[**Easy dev**](development-guidelines.md#easy-development-setup)**:** It should be easy to get a project up and running in a development environment.
 * \*\*\*\*[**Automate testing**](development-guidelines.md#automated-tests)**:** If a feature is worth implementing, it's worth having automated tests for it
