@@ -37,7 +37,7 @@
 
 ## How we work
 
-* [What do we use for...](how-we-work/what-do-we-use-for....md)
+* [Preferred tools](how-we-work/what-do-we-use-for....md)
 * [Budgets & Finance](how-we-work/budgets-and-finance/README.md)
   * [CODING](how-we-work/budgets-and-finance/coding.md)
   * [The Types of Budgets Used By OpenUp](how-we-work/budgets-and-finance/one-fish-two-fish-red-fish-blue-fish-the-types-of-budgets-openup-uses.md)

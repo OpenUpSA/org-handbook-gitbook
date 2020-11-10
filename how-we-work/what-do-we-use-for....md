@@ -2,7 +2,7 @@
 description: Preferred tools to use for specific purposes
 ---
 
-# What do we use for...
+# Preferred tools
 
 We prefer using specific tools for specific purposes over a free-for-all of tools. Exceptions can usually be made when justified.
 
@@ -52,5 +52,5 @@ We don't necessarily need to actively move things to the preferred thing, but we
 
 ## See also
 
-* [What we use for \(Tech/software development\)](../tech/what-do-we-use-for....md)
+* [Preferred tech stack](../tech/what-do-we-use-for....md)
 
