@@ -1,4 +1,4 @@
-# What do we use for...
+# Preferred tech stack
 
 ## Software/web development and hosting
 
