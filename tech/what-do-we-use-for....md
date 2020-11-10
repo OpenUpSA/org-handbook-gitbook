@@ -15,6 +15,41 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Static site hosting</td>
+      <td style="text-align:left">netlify</td>
+      <td style="text-align:left">
+        <ul>
+          <li>It will run whatever build scripts you tell it to</li>
+          <li>We have a team account for open source non-commercial projects</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Watch out - commerical projects if we ever have any should not be on the
+        sponsored team</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Virtual servers</td>
+      <td style="text-align:left">
+        <ul>
+          <li>AWS for projects matching our credits criteria.</li>
+          <li>Hetzner cloud for everything else</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Database hosting</td>
+      <td style="text-align:left">AWS RDS</td>
+      <td style="text-align:left">
+        <ul>
+          <li>no need to wonder or worry about backups</li>
+          <li>we have a server that handles our load</li>
+          <li>It&apos;s the same cost and less stress than managing the server ourselves</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Domain Registration</td>
       <td style="text-align:left">domains.co.za</td>
       <td style="text-align:left">Local, lots of our domains already there</td>
