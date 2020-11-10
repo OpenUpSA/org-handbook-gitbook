@@ -88,7 +88,7 @@
 ## Tech
 
 * [Development guidelines](tech/development-guidelines.md)
-* [Preferred tech stack](tech/what-do-we-use-for....md)
+* [Preferred tech stack](tech/preferred-tech-stack.md)
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 

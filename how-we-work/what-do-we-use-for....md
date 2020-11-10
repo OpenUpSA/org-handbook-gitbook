@@ -52,5 +52,5 @@ We don't necessarily need to actively move things to the preferred thing, but we
 
 ## See also
 
-* [Preferred tech stack](../tech/what-do-we-use-for....md)
+* [Preferred tech stack](../tech/preferred-tech-stack.md)
 
