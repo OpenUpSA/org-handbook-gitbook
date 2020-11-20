@@ -98,6 +98,8 @@ Variations of the same cloned component should be distinguished using distinct c
 
 ### Patterns
 
+#### Object-oriented component classes
+
 A nice pattern for javascript representing cloned components is to use a javascript class
 
 ```javascript
@@ -114,6 +116,8 @@ class SomeComponent {
   }
 }
 ```
+
+#### Extending and nesting components
 
 Component classes can nest and extend components
 
@@ -144,6 +148,8 @@ export class CouncillorGroupPage extends Page {
 }
 ```
 
+#### Binding "this" for use in callbacks
+
 Bind `this` in callback functions to ensure it continues to refer to the component class instance
 
 ```javascript
@@ -156,6 +162,8 @@ class ClickableComponent {
   }
 }
 ```
+
+#### Webflow interactions on cloned components
 
 Re-initialise webflow interactions each time after inserting cloned elements that have Webflow interactions so that the interaction event handlers get bound to those elements.
 
