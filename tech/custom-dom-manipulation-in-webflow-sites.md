@@ -8,7 +8,7 @@ We often build the CSS, markup and some interactivity using Webflow. We then ins
 
 This approach works for sites hosted by Webflow, as well as webflow sites exported as Zip files then hosted elsewhere. When using exported sites, we generally prefer unpacking the site using [import-webflow-export](https://www.npmjs.com/package/import-webflow-export).
 
-We refer to "components" as units of markup that can be reused. Components could be used [in-place](custom-dom-manipulation-in-webflow-sites.md#in-place-components), or included in the page in a hidden `div` as components in a "component library" and [cloned](custom-dom-manipulation-in-webflow-sites.md#cloned-components) as many times as needed.
+We refer to units of markup that can be reused as "components". Components could be used [in-place](custom-dom-manipulation-in-webflow-sites.md#in-place-components), or included in the page in a hidden `div` as a "component library" and [cloned](custom-dom-manipulation-in-webflow-sites.md#cloned-components) as many times as needed.
 
 By building components as [Webflow Symbols](https://university.webflow.com/lesson/symbols), we can update the design of the component across the site by editing it in just one place.
 
