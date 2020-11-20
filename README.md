@@ -1,5 +1,7 @@
 # Home
 
+{% embed url="https://openup.org.za/" %}
+
 Start at [onboarding](onboarding.md).
 
 Find how we structure projects under **Project Management**.
