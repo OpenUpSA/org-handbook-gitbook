@@ -90,9 +90,11 @@ Variations of the same cloned component should be distinguished using distinct c
 
 * Use unique class names for each variation of a component.
 * Never access variations of a component using some kind of n-th lookup like javascript `matches[2]` or jQuery `$(".components .link-block:eq(2)")` since updates to the component library can result in surprise changes in the arrangement of template components.
+* Do not use IDs on cloned components - that will require the javascript developer to strip the ID after cloning and might have unintended consequences. A page should not have more than one element with the same ID at the sametime.
 * Use a demo page that is not accessible by public site users to demonstrate how the component should be used, what it looks like, etc.
 * Document modifier classes and treat them as a contract between the webflow and javascript developer.
 * Document which components are intended to be children of which other components \(which often entails assumptions about margins and padding\)
+* Keep a reference in javascript to the root element of a cloned component if you will need to modify it after initial setup
 
 ### Patterns
 
@@ -137,4 +139,19 @@ export class CouncillorGroupPage extends Page {
   ...
 }
 ```
+
+Bind `this` in callback functions to ensure it continues to refer to the component class instance
+
+```javascript
+class ClickableComponent {
+  constructor() {
+    this.$element = $("...");
+    this.$element.on("click" (() => {
+      this.$element.toggleClass("something");
+    }).bind(this);
+  }
+}
+```
+
+
 
