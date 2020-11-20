@@ -2,7 +2,7 @@
 description: Overview of the approach and best practices
 ---
 
-# Custom DOM manipulation in Webflow sites
+# Webflow pages with custom javascript presenting data
 
 We often build the CSS, markup and some interactivity using Webflow. We then insert custom javascript - usually to show data from an API by manipulating the DOM and injecting the data.
 
