@@ -15,7 +15,7 @@ By building components as [Webflow Symbols](https://university.webflow.com/lesso
 ### General best practices
 
 * It must be possible to select \(the DOM element of\) a component uniquely using javascript **without resorting to selecting the n-th item of a number of matches.**
-* Charts should be as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their hight to be determined by their content.
+* Charts should size themselves as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their hight to be determined by their content.
 * Never include demo/dummy/example content e.g. lorem ipsum text or example data values - especially not in in-place components that can be seen while javascript is loading or if a javascript error results in failure to replace the demo content.
 * Use skeletons or "loading..." sort of text so that the page content looks nice and doesn't dramatically jump around while javascript and dynamically-fetched data loads and components start being placed on screen.
 
