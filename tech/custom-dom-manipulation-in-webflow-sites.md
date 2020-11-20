@@ -96,7 +96,7 @@ Variations of the same cloned component should be distinguished using distinct c
 
 ## Patterns
 
-A nice pattern for javascript representing cloned components is
+A nice pattern for javascript representing cloned components is to use a javascript class
 
 ```javascript
 class SomeComponent {
@@ -113,5 +113,28 @@ class SomeComponent {
 }
 ```
 
+Component classes can nest and extend components
 
+```javascript
+export class CouncillorGroupPage extends Page {
+  constructor(content) {
+    super(content);
+    this.members = content.councillors;
+    this.membersLabel = content.members_label;
+  }
+
+  render() {
+    return [
+      new PageTitle(this.name).render(),
+      new Breadcrumbs(this.breadcrumbItems).render(),
+      ...this.renderProfileImage(),
+      ...this.renderOverview(),
+      ...this.renderCouncillorLinks(),
+      ...this.renderContacts(),
+      ...this.renderChildPageLinks(),
+    ];
+  }
+  ...
+}
+```
 
