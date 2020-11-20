@@ -94,5 +94,24 @@ Variations of the same cloned component should be distinguished using distinct c
 * Document modifier classes and treat them as a contract between the webflow and javascript developer.
 * Document which components are intended to be children of which other components \(which often entails assumptions about margins and padding\)
 
+## Patterns
+
+A nice pattern for javascript representing cloned components is
+
+```javascript
+class SomeComponent {
+  constructor(someContent) {
+    this.$element = $(".components .some-component");
+    logIfUnequal(1, $element.length);
+    ...some setup...
+    this.$element.find(".some-nested-content-container").text(someContent);
+    ...more setup...
+  }
+  render() {
+    return this.$element;
+  }
+}
+```
+
 
 
