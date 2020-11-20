@@ -103,6 +103,7 @@ Variations of the same cloned component should be distinguished using distinct c
 A nice pattern for javascript representing cloned components is to use a javascript class
 
 ```javascript
+// Define the class in a component module
 class SomeComponent {
   constructor(someContent) {
     this.$element = $(".components .some-component");
@@ -115,6 +116,9 @@ class SomeComponent {
     return this.$element;
   }
 }
+
+// Use the class
+const someComponentInstance = new SomeComponent("Some text content");
 ```
 
 #### Extending and nesting components
