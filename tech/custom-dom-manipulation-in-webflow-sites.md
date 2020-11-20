@@ -104,10 +104,10 @@ A nice pattern for javascript representing cloned components is to use a javascr
 class SomeComponent {
   constructor(someContent) {
     this.$element = $(".components .some-component");
-    logIfUnequal(1, $element.length);
-    ...some setup...
+    logIfUnequal(1, $element.length); // easily identify failed template lookup
+    // some setup
     this.$element.find(".some-nested-content-container").text(someContent);
-    ...more setup...
+    // more setup
   }
   render() {
     return this.$element;
@@ -136,7 +136,11 @@ export class CouncillorGroupPage extends Page {
       ...this.renderChildPageLinks(),
     ];
   }
-  ...
+  
+  renderProfileImage() {
+    // ...
+  }
+  // ...
 }
 ```
 
