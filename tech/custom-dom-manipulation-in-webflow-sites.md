@@ -2,7 +2,7 @@
 description: Overview of the approach and best practices
 ---
 
-# Webflow pages with custom javascript presenting data
+# How to build pages in Webflow so that content can be added using Javascript
 
 We often build the CSS, markup and some interactivity using Webflow. We then insert custom javascript - usually to show data from an API by manipulating the DOM and injecting the data.
 

@@ -91,7 +91,7 @@
 * [Preferred tech stack](tech/preferred-tech-stack.md)
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
-* [Webflow pages with custom javascript presenting data](tech/custom-dom-manipulation-in-webflow-sites.md)
+* [How to build pages in Webflow so that content can be added using Javascript](tech/custom-dom-manipulation-in-webflow-sites.md)
 
 ---
 
