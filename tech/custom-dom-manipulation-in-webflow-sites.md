@@ -157,5 +157,9 @@ class ClickableComponent {
 }
 ```
 
+Re-initialise webflow interactions each time after inserting cloned elements that have Webflow interactions so that the interaction event handlers get bound to those elements.
 
+```javascript
+Webflow.require('ix2').init();
+```
 
