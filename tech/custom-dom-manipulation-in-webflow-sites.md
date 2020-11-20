@@ -16,13 +16,19 @@ By building components as [Webflow Symbols](https://university.webflow.com/lesso
 
 * It must be possible to select \(the DOM element of\) a component uniquely using javascript **without resorting to selecting the n-th item of a number of matches.**
 * Charts should be as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their hight to be determined by their content.
+* Never include demo/dummy/example content e.g. lorem ipsum text or example data values - especially not in in-place components that can be seen while javascript is loading or if a javascript error results in failure to replace the demo content.
+* Use skeletons or "loading..." sort of text so that the page content looks nice and doesn't dramatically jump around when dynamically-fetched data loads and components start being placed on screen.
 
 ## In-place components
+
+### Usage
 
 In-place components are ideal for
 
 * Page menu, hero, header, footer
 * Sections that don't really change frequently or where there is no demand for maintaining them using a CMS because there are other system changes necessary to change them
+
+### Example
 
 In the example below:
 
@@ -46,4 +52,47 @@ In the example below:
   * Using an ID to identify all these nested elements would result in an unnecessary maintenance burden and a good chance of duplicating IDs.
 
 ## Cloned components
+
+Cloned components are usually included in a hidden `div` used as a component library. They are cloned as needed, usually using the jquery method `$element.clone()` e.g. `const $element = $(".components .some-component").clone();` where .components is the hidden div component library.
+
+### Usage
+
+Cloned components are ideally used
+
+* you have a variable number of instances of a component based on data or user interaction
+* you use different iterations of the same component for a finite number of different styles \(indicator ratings with smiley faces in the example above\)
+
+### Example
+
+In the example below
+
+* Each service button is an instance of a cloned "link block" component cloned from the component library and populated text, icon and URL based on a response from an AJAX request to a CMS API.
+* The heading, menu and tab content area are in-place components
+* The tab buttons are dynamically created and populated with icon, label and a javascript click event handler to a function that lets the controller update what is shown on the tab content area.
+
+![Example of cloned components presented based on data and javascript.](../.gitbook/assets/screenshot_2020-11-20_16-07-56.png)
+
+![DOM showing top level in-place components and hidden component library div](../.gitbook/assets/screenshot_2020-11-20_16-21-52.png)
+
+By removing the `hidden` class, the component variations can be seen with their placeholder/example text and icons
+
+![Variations of the Link Block component in the component library div](../.gitbook/assets/screenshot_2020-11-20_16-23-26.png)
+
+Variations of the same cloned component should be distinguished using distinct class names. Using distinct templates for all the variations of a component can become excessive. At some point modifier classes for things like shading or enabling/disabling left/right icons might be easier to maintain. Those modifier classes should then be documented clearly and considered a contract between the webflow developer and the javascript developer which requires discussion to change, to avoid surprises.
+
+![](../.gitbook/assets/screenshot_2020-11-20_16-28-34.png)
+
+![](../.gitbook/assets/screenshot_2020-11-20_16-29-08.png)
+
+
+
+### Best practices
+
+* Use unique class names for each variation of a component.
+* Never access variations of a component using some kind of n-th lookup like javascript `matches[2]` or jQuery `$(".components .link-block:eq(2)")` since updates to the component library can result in surprise changes in the arrangement of template components.
+* Use a demo page that is not accessible by public site users to demonstrate how the component should be used, what it looks like, etc.
+* Document modifier classes and treat them as a contract between the webflow and javascript developer.
+* Document which components are intended to be children of which other components \(which often entails assumptions about margins and padding\)
+
+
 
