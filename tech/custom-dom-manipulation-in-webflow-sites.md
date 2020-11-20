@@ -154,7 +154,7 @@ export class CouncillorGroupPage extends Page {
 
 #### Binding "this" for use in callbacks
 
-Bind `this` in callback functions to ensure it continues to refer to the component class instance
+Bind `this` in callback functions to ensure it continues to refer to the component class instance. This is more a general javascript thing than a Webflow thing.
 
 ```javascript
 class ClickableComponent {
