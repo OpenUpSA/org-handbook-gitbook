@@ -50,6 +50,10 @@ In the example below:
   * All chart containers can be selected using `.chart-container`
   * A specific chart container can be selected using `#cash-coverage .chart-container` or as a child of a reference you already have to the ID-identified element `$("#cash-coverage").find(".chart-container")`
   * Using an ID to identify all these nested elements would result in an unnecessary maintenance burden and a good chance of duplicating IDs.
+* Don't add in-place markup requiring javascript integration to public pages before the javascript team is ready to integrate with them.
+  * Adding them blocks deploying until the javascript team has had time to integrate with the new markup. Integrating with the new markup might not be a priority while other things might urgently need to be deployed.
+  * Such new markup can be experimented with on demo pages.
+  * Such new markup could be added but hidden as long as it won't intefere with the page otherwise. The javascript could then un-hide it when it is integrated on the javascript-side.
 
 ## Cloned components
 
