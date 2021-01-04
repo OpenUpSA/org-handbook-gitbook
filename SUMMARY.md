@@ -89,6 +89,7 @@
 
 * [Development guidelines](tech/development-guidelines.md)
 * [Preferred tech stack](tech/preferred-tech-stack.md)
+* [Webflow project guide](tech/webflow-best-practice.md)
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 * [How to build pages in Webflow so that content can be added using Javascript](tech/custom-dom-manipulation-in-webflow-sites.md)
