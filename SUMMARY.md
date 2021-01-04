@@ -39,7 +39,8 @@
 
 * [Preferred tools](how-we-work/what-do-we-use-for....md)
 * [Budgets & Finance](how-we-work/budgets-and-finance/README.md)
-  * [CODING](how-we-work/budgets-and-finance/coding.md)
+  * [CODING](how-we-work/budgets-and-finance/coding/README.md)
+    * [SARS: PAYE and UIF](how-we-work/budgets-and-finance/coding/sars-paye-and-uif.md)
   * [The Types of Budgets Used By OpenUp](how-we-work/budgets-and-finance/one-fish-two-fish-red-fish-blue-fish-the-types-of-budgets-openup-uses.md)
   * [When to Start Planning a Budget](how-we-work/budgets-and-finance/where-budget-planning-starts.md)
   * [Planning a Budget](how-we-work/budgets-and-finance/how-to-spend-a-budget.md)
@@ -52,6 +53,7 @@
   * [Allocating AWS costs to a project](how-we-work/budgets-and-finance/allocating-aws-costs-to-a-project.md)
   * [Allocating Upwork transactions to projects](how-we-work/budgets-and-finance/allocating-upwork-transactions-to-projects.md)
   * [Software, Services and Hosting](how-we-work/budgets-and-finance/software-services-and-hosting.md)
+* [Paying salaries](how-we-work/paying-salaries.md)
 * [Tool Development](how-we-work/tool-development/README.md)
   * [CODING](how-we-work/tool-development/tool-development-coding.md)
   * [Coding Roles](how-we-work/tool-development/coding-roles.md)
@@ -101,8 +103,4 @@
 ## Codebridge
 
 * [Codebridge - the space](codebridge/codebridge-the-space.md)
-
-## Tax
-
-* [Untitled](tax/untitled.md)
 
