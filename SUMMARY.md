@@ -90,6 +90,9 @@
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
   * [Tracking app and campaign web traffic sources](how-we-work/marketing-and-communications/tracking-app-and-campaign-web-traffic-sources.md)
 * [Human Resources](how-we-work/human-resources.md)
+* [Organisational Decision Records](how-we-work/organisational-decision-records/README.md)
+  * [ODR1: Organisational Decision Records](how-we-work/organisational-decision-records/project-decision-records.md)
+  * [ODR2: Building dynamic web frontends using Webflow](how-we-work/organisational-decision-records/odr2-building-dynamic-web-frontends-using-webflow.md)
 
 ## Tech
 
@@ -99,11 +102,6 @@
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 * [How to build pages in Webflow so that content can be added using Javascript](tech/custom-dom-manipulation-in-webflow-sites.md)
-
----
-
-* [ODR1: Organisational Decision Records](project-decision-records.md)
-* [ODR2: Building dynamic web frontends using Webflow](odr2-building-dynamic-web-frontends-using-webflow.md)
 
 ## Codebridge
 
