@@ -1,10 +1,10 @@
 # ODR2: Building dynamic web frontends using Webflow
 
-Status: accepted
+**Status:** \(draft\) accepted
 
-Deciders: Adi Eyal, JD Bothma, Lunga Mthembu, Matthew Stark
+**Deciders:** Adi Eyal, JD Bothma, Lunga Mthembu, Matthew Stark
 
-Date: 2019-10-?
+**Date:** 2019-10-?
 
 ## Context and Problem Statement
 
