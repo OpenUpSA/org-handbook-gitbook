@@ -29,7 +29,5 @@ An invoice to OpenUp must include the following details:
 * OpenUp's phone number as per our [website footer](https://openup.org.za/)
 * OpenUp's VAT number 4450268539 \(Only if supplier is charging VAT\)
 
-Additional details for VAT-registered suppliers
-
 
 
