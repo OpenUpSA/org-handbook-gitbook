@@ -4,6 +4,8 @@ description: How should suppliers invoice OpenUp?
 
 # Invoicing OpenUp
 
+Invoices to OpenUp must be sent to [finance@openup.org.za](mailto:finance@openup.org.za) with the approver CCd.
+
 ## Required information on the invoice
 
 An invoice to OpenUp must include the following details:
