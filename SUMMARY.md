@@ -53,6 +53,7 @@
   * [How to Adjust a Budget](how-we-work/budgets-and-finance/how-to-adjust-a-budget.md)
   * [Expense claims](how-we-work/budgets-and-finance/month-in.md)
   * [Invoicing clients](how-we-work/budgets-and-finance/invoicing-clients.md)
+  * [Invoicing OpenUp](how-we-work/budgets-and-finance/invoicing-openup.md)
   * [Capturing and approving invoices for payment](how-we-work/budgets-and-finance/capturing-and-approving-invoices-for-payment.md)
   * [Allocating AWS costs to a project](how-we-work/budgets-and-finance/allocating-aws-costs-to-a-project.md)
   * [Allocating Upwork transactions to projects](how-we-work/budgets-and-finance/allocating-upwork-transactions-to-projects.md)
