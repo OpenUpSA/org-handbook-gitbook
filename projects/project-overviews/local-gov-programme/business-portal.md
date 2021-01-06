@@ -26,7 +26,7 @@ No resources added yet
 
 ### Objectives
 
-OpenUp's objective with this project
+_OpenUp's objective with this project_
 
 Get the municipality and its residents to talk to one another.
 
