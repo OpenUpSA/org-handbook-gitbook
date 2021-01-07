@@ -56,6 +56,9 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
   * one has to be released without the other
   * it is not clear at the outset which will be released first
   * e.g. the main menu is being changed in a way that requires javascript changes, but we can't make the javascript changes yet because we need to fix another bug more urgently, but the main menu has already been changed in webflow.
+  * This becomes less of an issue
+    * the more established the webflow component library \(and its accompanying javascript\) is
+    * and the more you use cloned components over in-place components 
 * You can't upgrade your component library quite like a typical one. You can backport features to old sites though, and manually fix conflicting styles.
 
 
