@@ -60,6 +60,7 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
     * the more established the webflow component library \(and its accompanying javascript\) is
     * and the more you use cloned components over in-place components 
 * You can't upgrade your component library quite like a typical one. You can backport features to old sites though, and manually fix conflicting styles.
+* Webflow Lite $16/month or Team $70+/month is needed to be able to update and export the design or components, which impacts on other organisations' willingness to build on as open source.
 
 
 
