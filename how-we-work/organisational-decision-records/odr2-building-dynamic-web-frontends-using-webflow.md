@@ -41,7 +41,7 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
 
 * We have been able to build and iterate on beautiful interfaces rapidly with a very small team of skilled developers, even though they are not CSS experts.
 * We have been able to continue building user interfaces despite our frontend lead developer leaving the organisation.
-* We can rapidly prototype design options in-browser with working HTML and CSS, and then the it's built - there's no re-implementation step after design. Only Javascript needs to be written if the new component needs dynamic data in production.
+* **There's no styling step for frontend developers.** We can rapidly prototype design options in-browser with working HTML and CSS, and then the it's built - there's no re-implementation step after design. Only Javascript needs to be written if the new component needs dynamic data in production.
 
 ## Negative consequences
 
