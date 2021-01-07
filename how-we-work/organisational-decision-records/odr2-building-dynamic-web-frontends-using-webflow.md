@@ -51,11 +51,12 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
   * Every new developer working on our projects has to learn this approach and the required conventions
 * Every dynamic/data-driven component requires javascript to be written - e.g. we have to build our own library for populating and responding to user interaction of a dropdown.
   * We might be able to build a reusable library of this code
-* Webflow does not lend itself to branching in the development process as is important when
+* **Webflow does not lend itself to branching in the development process** as is important when
   * two or more changes are being implement
   * one has to be released without the other
   * it is not clear at the outset which will be released first
   * e.g. the main menu is being changed in a way that requires javascript changes, but we can't make the javascript changes yet because we need to fix another bug more urgently, but the main menu has already been changed in webflow.
+* You can't upgrade your component library quite like a typical one. You can backport features to old sites though, and manually fix conflicting styles.
 
 
 
