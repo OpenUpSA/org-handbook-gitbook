@@ -46,7 +46,13 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
           <li>when do they rewrite and when do they refactor or evolve?</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Do they use frameworks and libraries? In the relevant idiomatic way?</li>
+          <li>Are their changes generally small, relevant adjustments to the code, or
+            big swathes of relevant and irrelevant changes?</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -131,7 +137,14 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
         requirements and constraints with Product Owner and Project Manager to
         help make appropriate compromises to achieve the best outcome on a small
         budget</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Will they suggest options for solving the problem at hand or do they blindly
+            build what they&apos;re told?</li>
+          <li>How do they figure out a compromise between solution options, requirements,
+            and constraints like budget and time?</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
