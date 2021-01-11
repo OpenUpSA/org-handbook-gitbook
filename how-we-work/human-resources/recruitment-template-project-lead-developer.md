@@ -2,6 +2,8 @@
 
 It is important to establish not just if someone is able to do these things but also if they are keen to. Avoid asking for a particular attribute "Are you keen to work this way". Rather ask "What would you like to work on? What tasks do you enjoy?".
 
+Copy the table below to a Google Sheet, and add a column "Evidence" with the evidence towards each of these attributes.
+
 <table>
   <thead>
     <tr>
@@ -32,8 +34,14 @@ It is important to establish not just if someone is able to do these things but 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Tech choices - when do they use a framework or library and when do they
-        roll their own?</td>
+      <td style="text-align:left">
+        <p><b>Tech choices and legacy</b>
+        </p>
+        <ul>
+          <li>when do they use a framework or library and when do they roll their own?</li>
+          <li>when do they rewrite and when do they refactor or evolve?</li>
+        </ul>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -48,11 +56,25 @@ It is important to establish not just if someone is able to do these things but 
         <p>Hold the team to the appropriate level of quality</p>
       </td>
       <td style="text-align:left">
-        <p>Look for experience with our processes/practises.</p>
+        <p>Look for experience with our processes/practises on their public code
+          contributions, e.g. on github.</p>
         <ul>
-          <li>github/public code</li>
+          <li>Do they name things clearly?</li>
+          <li>Is there intent in how they structure code?</li>
+          <li>Do they use common design patterns? Is it clear which?</li>
+          <li>Do they document sufficiently? Excessively?</li>
         </ul>
         <p>Ask about their approach to these issues.</p>
+        <ul>
+          <li>&quot;What do you need to do on a project so that the speed of making
+            changes doesn&apos;t reduce significantly as the project grows?&quot;</li>
+          <li>&quot;What is your approach to structuring code to keep it maintainable?&quot;</li>
+          <li>&quot;When do you use automated tests and when is it better not to?&quot;</li>
+          <li>&quot;How do you make it easy for new developers to join a project and
+            get running quickly?&quot;</li>
+          <li>&quot;How do you get the implementing team to maintain the level of quality
+            needed for the project?&quot;</li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -80,7 +102,25 @@ It is important to establish not just if someone is able to do these things but 
           <li>Plan and manage task deadlines</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Look at their public contributions (github, stackoverflow, social media)</p>
+        <ul>
+          <li>Do they communicate clearly in issues, pull requests, code reviews?</li>
+          <li>Do they communicate kindly and respectfully?</li>
+        </ul>
+        <p>Ask</p>
+        <ul>
+          <li>Have you been responsible for technical delivery on a project before?
+            What were your main activities in this regard?</li>
+          <li>Have you outsourced to contractors/freelancers/consultants before? What&apos;s
+            important to ensure success?</li>
+          <li>How do you ensure that the scope of the deliverable is specific enough
+            to be able to hold someone to account and ensure the problem is actually
+            solved?</li>
+          <li>How do you translate project requirements into tasks an intermediate-level
+            developer can implement on?</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Technical problem solving</b> - Able to explore functional and non-functional
