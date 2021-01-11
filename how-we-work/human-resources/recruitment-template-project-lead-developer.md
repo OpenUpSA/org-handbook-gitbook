@@ -25,11 +25,15 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
           <li>ETL, data processing</li>
           <li>git, github, PR workflow</li>
         </ul>
+        <p>Are they able to pick up the bits they don&apos;t know or have deep experience
+          on?</p>
       </td>
       <td style="text-align:left">
         <ul>
           <li>Ask</li>
           <li>Look at their code contributions on github</li>
+          <li>Do they use a range of languages?</li>
+          <li>Do they use a range of frameworks?</li>
         </ul>
       </td>
     </tr>
