@@ -2,7 +2,7 @@
 
 It is important to establish not just if someone is able to do these things but also if they are keen to. Avoid asking for a particular attribute "Are you keen to work this way". Rather ask "What would you like to work on? What tasks do you enjoy?".
 
-Copy the table below to a Google Sheet, and add a column "Evidence" with the evidence towards each of these attributes.
+For each candidate, copy the table below to a Google Sheet, and add a column "Evidence" with the evidence towards each of these attributes.
 
 <table>
   <thead>
@@ -14,7 +14,8 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Experience with our stack</p>
+        <p>Experience with <b>our stack</b>
+        </p>
         <ul>
           <li>Python</li>
           <li>Django, Flask</li>
@@ -138,6 +139,7 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
         help make appropriate compromises to achieve the best outcome on a small
         budget</td>
       <td style="text-align:left">
+        <p>???</p>
         <ul>
           <li>Will they suggest options for solving the problem at hand or do they blindly
             build what they&apos;re told?</li>
@@ -154,7 +156,7 @@ Copy the table below to a Google Sheet, and add a column "Evidence" with the evi
           <li>able to focus on the task at hand and deliver the essence of it ASAP,
             and not get distracted and e.g. building a new framework or recompiling
             the kernel or whatever, when we just need a button on a page.</li>
-          <li>able to identify when something will run over the alotted time, and figure
+          <li>able to identify when something will run over the allotted time, and figure
             out what the best solution is with the project manager and product owner
             - whether to cut scope, change direction, or increase the budget for the
             task.</li>
