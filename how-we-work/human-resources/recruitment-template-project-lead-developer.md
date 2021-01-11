@@ -114,6 +114,8 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
       </td>
       <td style="text-align:left">
+        <p><em><b>???<br /></b></em>
+        </p>
         <p>Look at their public contributions (github, stackoverflow, social media)</p>
         <ul>
           <li>Do they communicate clearly in issues, pull requests, code reviews?</li>
@@ -130,6 +132,8 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
             solved?</li>
           <li>How do you translate project requirements into tasks an intermediate-level
             developer can implement on?</li>
+          <li>How do you ensure that someone has actually implemented what&apos;s needed
+            and met the whole scope?</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +143,8 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         help make appropriate compromises to achieve the best outcome on a small
         budget</td>
       <td style="text-align:left">
-        <p>???</p>
+        <p><em><b>???</b></em>
+        </p>
         <ul>
           <li>Will they suggest options for solving the problem at hand or do they blindly
             build what they&apos;re told?</li>
@@ -162,7 +167,18 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
             task.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><em><b>???</b></em>
+        </p>
+        <p><em>&lt;b&gt;&lt;/b&gt;</em>
+        </p>
+        <p>Give a hypothetical, e.g. &quot;Aleph is a flask and react-based search
+          tool. It ingests many file formats, indexes them for full text search,
+          and stores them files in S3. It currently serves the full PDF which sometimes
+          means downloading 100MB to view one page. We have a budget of three days
+          of dev time to make it serve one page at a time. What are our options? <em>How do we avoid them just saying &quot;sure, no problem&quot; and learning nothing from the question?</em>
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
