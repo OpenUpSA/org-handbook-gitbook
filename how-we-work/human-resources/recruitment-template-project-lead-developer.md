@@ -157,17 +157,24 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
         <p>Ask</p>
         <ul>
-          <li>Have you been responsible for technical delivery on a project before?
-            What were your main activities in this regard?</li>
-          <li>Have you outsourced to contractors/freelancers/consultants before? What&apos;s
-            important to ensure success?</li>
-          <li>How do you ensure that the scope of the deliverable is specific enough
-            to be able to hold someone to account and ensure the problem is actually
-            solved?</li>
-          <li>How do you translate project requirements into tasks an intermediate-level
-            developer can implement on?</li>
-          <li>How do you ensure that someone has actually implemented what&apos;s needed
-            and met the whole scope?</li>
+          <li>&quot;Have you been responsible for technical delivery on a project before?
+            What were your main activities in this regard?&quot;</li>
+          <li>&quot;Have you outsourced to contractors/freelancers/consultants before?
+            What&apos;s important to ensure success?&quot;</li>
+          <li>&quot;How do you ensure that the scope of the deliverable is specific
+            enough to be able to hold someone to account and ensure the problem is
+            actually solved?&quot;</li>
+          <li>&quot;How do you translate project requirements or user stories into tasks
+            an intermediate-level developer can implement on?&quot;</li>
+          <li>&quot;How do you ensure that someone has actually implemented what&apos;s
+            needed and met the whole scope?&quot;
+            <ul>
+              <li>We tend to look for automated tests specific to the task at hand, and
+                verify that the test actually verifies the intended functionality.</li>
+            </ul>
+          </li>
+          <li>&quot;Have you experienced morale or motivation or productivity tanking
+            on a team you&apos;ve led? How did yo address that?&quot;</li>
         </ul>
       </td>
     </tr>
