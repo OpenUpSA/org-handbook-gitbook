@@ -55,10 +55,24 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
       </td>
       <td style="text-align:left">
+        <p>Looking at their code:</p>
         <ul>
           <li>Do they use frameworks and libraries? In the relevant idiomatic way?</li>
           <li>Are their changes generally small, relevant adjustments to the code, or
             big swathes of relevant and irrelevant changes?</li>
+        </ul>
+        <p>Their experience verbally:</p>
+        <ul>
+          <li>How do they choose between framework and hand-written?</li>
+          <li>How do they choose which framework?</li>
+          <li>Specific choices they&apos;ve made</li>
+          <li>Edge cases they&apos;ve experienced?</li>
+        </ul>
+        <p>Warning flag:</p>
+        <ul>
+          <li>Feeling trapped in an org&apos;s tech stack, not having the freedom to
+            use the new fandangled. There are valid cases in this, it should ideally
+            be explored as a tech choice discussion for a given case.</li>
         </ul>
       </td>
     </tr>
