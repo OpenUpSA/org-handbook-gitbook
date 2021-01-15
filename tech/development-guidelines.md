@@ -20,7 +20,7 @@ This context means that most industry best practises are even more important to 
 * \*\*\*\*[**Code is intended to be read by humans**](development-guidelines.md#code-is-intended-to-be-read-by-humans): Otherwise we'd keep assembly in git instead of source code.
 * \*\*\*\*[**Time boxes**](development-guidelines.md#time-boxes)**:** Don't spend unbounded time on a problem.
 * \*\*\*\*[**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
-* [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively.
+* [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively. Don't automate prematurely.
 * \*\*\*\*[**Fail loudly**](development-guidelines.md#fail-loudly-brokenness-should-be-visible)**:** Brokenness should be visible.
 * \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
 
