@@ -91,6 +91,7 @@
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
   * [Tracking app and campaign web traffic sources](how-we-work/marketing-and-communications/tracking-app-and-campaign-web-traffic-sources.md)
 * [Human Resources](how-we-work/human-resources/README.md)
+  * [Recruitment](how-we-work/human-resources/recruitment.md)
   * [Recruitment template: Project lead developer](how-we-work/human-resources/recruitment-template-project-lead-developer.md)
 * [Organisational Decision Records](how-we-work/organisational-decision-records/README.md)
   * [ODR1: Organisational Decision Records](how-we-work/organisational-decision-records/project-decision-records.md)

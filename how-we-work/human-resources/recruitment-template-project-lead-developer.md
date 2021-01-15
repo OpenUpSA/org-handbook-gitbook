@@ -1,7 +1,5 @@
 # Recruitment template: Project lead developer
 
-It is important to establish not just if someone is able to do these things but also if they are keen to. Avoid asking for a particular attribute "Are you keen to work this way". Rather ask "What would you like to work on? What tasks do you enjoy?".
-
 For each candidate, copy the table below to a Google Sheet, and add a column "Evidence" with the evidence towards each of these attributes.
 
 <table>
