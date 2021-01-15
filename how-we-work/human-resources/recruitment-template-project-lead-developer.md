@@ -34,6 +34,15 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           <li>Do they use a range of languages?</li>
           <li>Do they use a range of frameworks?</li>
         </ul>
+        <p><b>Disqualifying criteria:</b>
+        </p>
+        <ul>
+          <li>No browser Javascript experience - as a proxy for web programming ability
+            - if they haven&apos;t done Javascript in the browser, they&apos;re probably
+            missing all kinds of things you need to know for the web like DNS, HTTP,
+            browser request and page load/execution cycle. We don&apos;t have time
+            for people to learn that on the job.</li>
+        </ul>
       </td>
     </tr>
     <tr>
