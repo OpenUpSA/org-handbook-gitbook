@@ -141,8 +141,10 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           <li>Code integration and quality - review proposed implementations and merge
             and deploy when ready</li>
           <li>Plan and manage task deadlines</li>
-          <li>Create and maintain a sense of <em>team</em> and comradery with the other
+          <li>Create and maintain a sense of <em>team</em> and camaradery with the other
             devs, even if they&apos;re freelancers/contractors</li>
+          <li>Ensure dev team is working towards the intent in the user stories, supporting
+            PO in communicating this to the team.</li>
         </ul>
       </td>
       <td style="text-align:left">
