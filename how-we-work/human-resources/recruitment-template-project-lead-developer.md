@@ -193,7 +193,18 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         <p><b>Ask about their experience:</b>
         </p>
         <ul>
-          <li></li>
+          <li>Have they had projects where some of the project team have assumed a technical
+            solution (e.g. client says: &quot;I&apos;d like a page, with a button here,
+            and...&quot; but there were actually a number of ways of implementing what&apos;s
+            needed?
+            <ul>
+              <li>What were the tradeoffs?</li>
+              <li>How did they guide the client/PO/PM to make an appropriate choice?</li>
+              <li>What should the client/PO know about the implementation and what should
+                they keep out of?</li>
+              <li>How did they raise the matter of potential better solutions?</li>
+            </ul>
+          </li>
           <li>Will they suggest options for solving the problem at hand or do they blindly
             build what they&apos;re told?</li>
           <li>How do they figure out a compromise between solution options, requirements,
