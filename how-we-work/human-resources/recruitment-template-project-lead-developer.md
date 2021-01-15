@@ -128,7 +128,7 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           <li>Service/uptime monitoring</li>
         </ul>
       </td>
-      <td style="text-align:left">Ask if and how they&apos;ve used these.</td>
+      <td style="text-align:left"><b>Ask</b> if and how they&apos;ve used these.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -190,9 +190,10 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         help make appropriate compromises to achieve the best outcome on a small
         budget</td>
       <td style="text-align:left">
-        <p><em><b>???</b></em>
+        <p><b>Ask about their experience:</b>
         </p>
         <ul>
+          <li></li>
           <li>Will they suggest options for solving the problem at hand or do they blindly
             build what they&apos;re told?</li>
           <li>How do they figure out a compromise between solution options, requirements,
@@ -215,9 +216,32 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
       </td>
       <td style="text-align:left">
-        <p><em><b>???</b></em>
+        <p><b>Ask about their experience:</b>
         </p>
-        <p><em>&lt;b&gt;&lt;/b&gt;</em>
+        <ul>
+          <li>What experience have they had of working with constraints e.g. bootstrapped
+            or scrappy startups (as opposed to apparently endless enterprise dev budgets
+            or startups with gazzilions in seed funding)</li>
+          <li>Ask about projects where they were in a position of making key technical
+            decisions
+            <ul>
+              <li>What were the tradeoffs?</li>
+              <li>When did they have to choose between something really cool and impressive
+                and something quick and simple (but useful)? How did they make that call?
+                What were the tradeoffs?</li>
+            </ul>
+          </li>
+          <li>Have they ever had a project where the budget was pretty much blown, but
+            there were still contractual obligations that needed to be delivered, now
+            on a tigher-than-expected budget? How did they tackle that?
+            <ul>
+              <li>It&apos;s not that we expect to blow budgets, but this is a resource-constrained
+                situation where something still has to be delivered. We&apos;re interested
+                in what gets delivered, and how that decision is made.</li>
+            </ul>
+          </li>
+        </ul>
+        <p><b>Backup question to promote discussion:</b>
         </p>
         <p>Give a hypothetical, e.g. &quot;Aleph is a flask and react-based search
           tool. It ingests many file formats, indexes them for full text search,
