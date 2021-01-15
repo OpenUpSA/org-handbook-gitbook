@@ -21,7 +21,7 @@ This context means that most industry best practises are even more important to 
 * \*\*\*\*[**Time boxes**](development-guidelines.md#time-boxes)**:** Don't spend unbounded time on a problem.
 * \*\*\*\*[**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
 * [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively.
-* **Fail loudly:** Brokenness should be visible.
+* \*\*\*\*[**Fail loudly**](development-guidelines.md#fail-loudly-brokenness-should-be-visible)**:** Brokenness should be visible.
 * \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
 
 ### User experience is critical
@@ -75,7 +75,7 @@ Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-
 
 ### Automate repetition
 
-### Brokenness should be visible
+### Fail loudly \(Brokenness should be visible\)
 
 * Never catch and drop exceptions without logging them.
 * Ensure shell scripts fail on error instead of running through with undefined behaviour. use `set -eux`  in bash.
