@@ -132,7 +132,7 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Technical ownership and management</b>
+        <p><b>Technical ownership, management, leadership</b>
         </p>
         <ul>
           <li>Technical specification - ensure technical requirements are clear for
@@ -148,14 +148,14 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
       </td>
       <td style="text-align:left">
-        <p><em><b>???<br /></b></em>
-        </p>
-        <p>Look at their public contributions (github, stackoverflow, social media)</p>
+        <p><b>Look at their public contributions</b> (github, stackoverflow, social
+          media)</p>
         <ul>
           <li>Do they communicate clearly in issues, pull requests, code reviews?</li>
           <li>Do they communicate kindly and respectfully?</li>
         </ul>
-        <p>Ask</p>
+        <p><b>Ask</b>
+        </p>
         <ul>
           <li>&quot;Have you been responsible for technical delivery on a project before?
             What were your main activities in this regard?&quot;</li>
@@ -175,6 +175,12 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           </li>
           <li>&quot;Have you experienced morale or motivation or productivity tanking
             on a team you&apos;ve led? How did yo address that?&quot;</li>
+        </ul>
+        <p><b>Disqualifying criteria:</b>
+        </p>
+        <ul>
+          <li>Never led a technical team - we can&apos;t afford people learning this
+            on the job when they&apos;re in a leadership position.</li>
         </ul>
       </td>
     </tr>
