@@ -55,23 +55,29 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
         </ul>
       </td>
       <td style="text-align:left">
-        <p>Looking at their code:</p>
+        <p><b>Looking at their code:</b>
+        </p>
         <ul>
           <li>Do they use frameworks and libraries? In the relevant idiomatic way?</li>
           <li>Are their changes generally small, relevant adjustments to the code, or
             big swathes of relevant and irrelevant changes?</li>
         </ul>
-        <p>Their experience verbally:</p>
+        <p><b>Their experience verbally:</b>
+        </p>
         <ul>
           <li>How do they choose between framework and hand-written?</li>
           <li>How do they choose which framework?</li>
           <li>Specific choices they&apos;ve made</li>
           <li>Edge cases they&apos;ve experienced?</li>
+          <li>e.g. When do you build a CMS that can be used in multiple places, and
+            when do you add a simple table with a title and an HTML field with a WYSIWYG
+            editor in front?</li>
         </ul>
-        <p>Warning flag:</p>
+        <p><b>Warning flags:</b>
+        </p>
         <ul>
           <li>Feeling trapped in an org&apos;s tech stack, not having the freedom to
-            use the new fandangled. There are valid cases in this, it should ideally
+            use the new fandangled. There are valid cases in this - it should ideally
             be explored as a tech choice discussion for a given case.</li>
         </ul>
       </td>
@@ -85,18 +91,19 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           <li>testing</li>
           <li>project dev setup</li>
         </ul>
-        <p>Hold the team to the appropriate level of quality</p>
+        <p>Hold the team to the <b>appropriate</b> level of quality</p>
       </td>
       <td style="text-align:left">
-        <p>Look for experience with our processes/practises on their public code
-          contributions, e.g. on github.</p>
+        <p><b>Looking at their code:</b>
+        </p>
         <ul>
           <li>Do they name things clearly?</li>
           <li>Is there intent in how they structure code?</li>
           <li>Do they use common design patterns? Is it clear which?</li>
           <li>Do they document sufficiently? Excessively?</li>
         </ul>
-        <p>Ask about their approach to these issues.</p>
+        <p><b>Their experience verbally:</b>
+        </p>
         <ul>
           <li>&quot;What do you need to do on a project so that the speed of making
             changes doesn&apos;t reduce significantly as the project grows?&quot;</li>
@@ -106,6 +113,8 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
             get running quickly?&quot;</li>
           <li>&quot;How do you get the implementing team to maintain the level of quality
             needed for the project?&quot;</li>
+          <li>How do you determine the appropriate level of quality for a project? What
+            should be allowed to &quot;slip&quot;</li>
         </ul>
       </td>
     </tr>
@@ -132,6 +141,8 @@ For each candidate, copy the table below to a Google Sheet, and add a column "Ev
           <li>Code integration and quality - review proposed implementations and merge
             and deploy when ready</li>
           <li>Plan and manage task deadlines</li>
+          <li>Create and maintain a sense of <em>team</em> and comradery with the other
+            devs, even if they&apos;re freelancers/contractors</li>
         </ul>
       </td>
       <td style="text-align:left">
