@@ -42,6 +42,7 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
 * We have been able to build and iterate on beautiful interfaces rapidly with a very small team of skilled developers, even though they are not CSS experts.
 * We have been able to continue building user interfaces despite our frontend lead developer leaving the organisation.
 * **There's no styling step for frontend developers.** We can rapidly prototype design options in-browser with working HTML and CSS, and then the it's built - there's no re-implementation step after design. Only Javascript needs to be written if the new component needs dynamic data in production.
+* Webflow developers can build fun or helpful interactions which often work without additional dev effort in the final page.
 
 ## Negative consequences
 
@@ -60,7 +61,11 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
     * the more established the webflow component library \(and its accompanying javascript\) is
     * and the more you use cloned components over in-place components 
 * You can't upgrade your component library quite like a typical one. You can backport features to old sites though, and manually fix conflicting styles.
-* Webflow Lite $16/month or Team $70+/month is needed to be able to update and export the design or components, which impacts on other organisations' willingness to build on as open source.
+* It's hard for other organisations to build on such user interfaces, even though they can clone the webflow project.
+  * Webflow Lite $16/month or Team $70+/month is needed to be able to update and export the design or components, which impacts on other organisations' willingness to build on as open source.
+  * Upstreaming improvements, or merging in upstream changes, is less controlled and well-defined than coded interfaces.
+* We often have to stop and think whether an interaction should be built in webflow or javascript/css
+  * This might still be cheaper considering that we often don't have to build those interactions outside webflow.
 
 
 

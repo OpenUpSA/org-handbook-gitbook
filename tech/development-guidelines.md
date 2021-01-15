@@ -48,6 +48,8 @@ A developer should be able to clone a repository and have a working site running
 
 #### Backend
 
+Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-dokku) for django apps.
+
 * Use docker-compose for development so that database or other backend service dependencies don't make it hard to get up and running.
   * Yes, this adds a layer of indirection. But have you battled with GDAL or wkhtmltopdf version issues? Also, if all our projects are structured this way, moving between projects becomes quick.
   * By following [Twelve Factor Apps](https://12factor.net/), those who really want to run natively just need to provide configuration and it should work.
@@ -60,6 +62,12 @@ A developer should be able to clone a repository and have a working site running
 ### Code is intended to be read by humans
 
 * Use full versions of command arguments in scripts, e.g. `--tries=5` instead of `-t5`
+* Consistency and context is more important than personal preference
+* Javascript: 
+  * We prefer the [AirBnB Javascript style guide](https://github.com/airbnb/javascript/blob/master/README.md)
+    * See the [eslint plugin](https://www.npmjs.com/package/eslint-config-airbnb)
+* Python:
+  * Use [isort](https://pypi.org/project/isort/) for imports, followed by [python-black](https://pypi.org/project/black/) so that black formatting takes precedence 
 
 ### Time boxes
 
