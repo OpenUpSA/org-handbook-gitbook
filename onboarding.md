@@ -45,7 +45,7 @@ If you find broken steps or something that needs fixing, please use comments cre
       * Use numbers.
       * Use punctuation.
   * Use a password manager to help you remember all those unique passwords.
-* Sign up for the OpenUp Slack and get added to the \#team channel and join \#new-hires.
+* Get invited to the OpenUp Slack workspace and get added to the \#team channel and join \#new-hires.
 * Fill out your contact details in the [employee contact list](https://docs.google.com/spreadsheets/d/15bBPWQlbfL0kJG2SZ6Hn0D9i6yZeII2Xs_PIJPMWvwc/edit#gid=0).
 * Have someone share the [root OpenUp google drive folder](https://drive.google.com/drive/folders/0Byo7dStSYqvPSzFXbmFrSW9hUkU) with you, and add it to your Google Drive.
 * Have Codebridge keys cut and sign the key register.
@@ -60,15 +60,17 @@ If you find broken steps or something that needs fixing, please use comments cre
   * [Slack](https://slack.com/) for internal communications.
   * [Trello](https://trello.com/en) for task management.
   * [Simplepay](https://www.simplepay.co.za/) for payroll.
+  * GitBook for improving this documentation
 
 #### Technical Staff
 
-* Read up on our [best practices](http://github.com/Code4SA/best-practices).
+* Read up on our [Development Guidelines](tech/development-guidelines.md)
 * Get added to the OpenUpSA Github organisation by your manager.
-* Add yourself to the website’s Team page by sending a pull request - [https://github.com/OpenUpSA/openupsa.github.io](https://github.com/OpenUpSA/openupsa.github.io).
 * Ask your manager to add you to the webapps@openup.org.za email list.
 * Get your [SSH key added to the servers](https://github.com/OpenUpSA/ansible-config/#add-new-admins-to-ansibles-inventory).
 * Get your [GPG key added to the secrets store](https://github.com/OpenUpSA/secrets_store).
+* Sentry
+* Cloudflare
 
 ### How we Communicate and Collaborate
 
