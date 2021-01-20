@@ -12,7 +12,7 @@ Find task-specific documentation under **How we work**.
 
 ### This handbook is public!
 
-* This means others can benefit from our established processes and learnings.
+* This means others can benefit from our established processes and what we've learned
 * Sensitive things that should not be publicly accessible should be in Google Documents with appropriate sharing settings \(not readable with the link!\)
 
 ### What should be documented?
@@ -24,7 +24,7 @@ Find task-specific documentation under **How we work**.
 ### Who should document something?
 
 * The person establishing a standard procedure should document it
-* The person asking how to do something, when they find it is not documented, or the documentation is out of date or incorrect. They should find out what the current correct information is, and fix the documentation.
+* The person asking how to do something, when they find it is not documented, or the documentation is out of date or incorrect. They should find out what the current correct information is, and fix the documentation
 
 ### When do we document something?
 
@@ -39,8 +39,8 @@ Find task-specific documentation under **How we work**.
 
 ### How should we organise the documentation?
 
-* The documentation should be organised so that you can find what you need based on the task you need to carry out.
-* Use clear concise page names and headings so that someon scanning a list of pages or links can easily see the relevant page
+* The documentation should be organised so that you can find what you need based on the task you need to carry out
+* Use clear concise page names and headings so that someone scanning a list of pages or links can easily see the relevant page
 * Avoid creating empty stub pages - it makes it hard to know what's documented and what isn't, and someone else might document that concept in another section without realising a stub had been created
 
 
