@@ -6,7 +6,7 @@ description: Overview of the approach and best practices
 
 We often build the CSS, markup and some interactivity using Webflow. We then insert custom javascript - usually to show data from an API by manipulating the DOM and injecting the data.
 
-This approach works for sites hosted by Webflow, as well as webflow sites exported as Zip files then hosted elsewhere. When using exported sites, we generally prefer unpacking the site using [import-webflow-export](https://www.npmjs.com/package/import-webflow-export).
+This approach works for sites hosted by Webflow, as well as Webflow sites exported as Zip files then hosted elsewhere. When using exported sites, we generally prefer unpacking the site using [import-webflow-export](https://www.npmjs.com/package/import-webflow-export).
 
 We refer to units of markup that can be reused as "components". Components could be used [in-place](custom-dom-manipulation-in-webflow-sites.md#in-place-components), or included in the page in a hidden `div` as a "component library" and [cloned](custom-dom-manipulation-in-webflow-sites.md#cloned-components) as many times as needed.
 
@@ -15,7 +15,7 @@ By building components as [Webflow Symbols](https://university.webflow.com/lesso
 ### General best practices
 
 * It must be possible to select \(the root DOM element of\) a component uniquely using javascript **without resorting to selecting the n-th item of a number of matches.**
-* Charts and other responsive embeds should size themselves as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their hight to be determined by their content.
+* Charts and other responsive embeds should size themselves as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their height to be determined by their content.
 * Never include demo/dummy/example content e.g. lorem ipsum text or example data values - especially not in in-place components that can be seen while javascript is loading or if a javascript error results in failure to replace the demo content.
 * Use skeletons or "loading..." sort of text so that the page content looks nice and doesn't dramatically jump around while javascript and dynamically-fetched data loads and components start being placed on screen.
 
@@ -53,7 +53,7 @@ In the example below:
 * Don't add in-place markup requiring javascript integration to public pages before the javascript team is ready to integrate with them.
   * Adding them blocks deploying until the javascript team has had time to integrate with the new markup. Integrating with the new markup might not be a priority while other things might urgently need to be deployed.
   * Such new markup can be experimented with on demo pages.
-  * Such new markup could be added but hidden as long as it won't intefere with the page otherwise. The javascript could then un-hide it when it is integrated on the javascript-side.
+  * Such new markup could be added but hidden as long as it won't interfere with the page otherwise. The javascript could then un-hide it when it is integrated on the javascript-side.
 
 ## Cloned components
 
@@ -82,7 +82,7 @@ By removing the `hidden` class, the component variations can be seen with their 
 
 ![Variations of the Link Block component in the component library div](../.gitbook/assets/screenshot_2020-11-20_16-23-26.png)
 
-Variations of the same cloned component should be distinguished using distinct class names. Using distinct templates for all the variations of a component can become excessive. At some point modifier classes for things like shading or enabling/disabling left/right icons might be easier to maintain. Those modifier classes should then be documented clearly and considered a contract between the webflow developer and the javascript developer which requires discussion to change, to avoid surprises.
+Variations of the same cloned component should be distinguished using distinct class names. Using distinct templates for all the variations of a component can become excessive. At some point modifier classes for things like shading or enabling/disabling left/right icons might be easier to maintain. Those modifier classes should then be documented clearly and considered a contract between the Webflow developer and the javascript developer which requires discussion to change, to avoid surprises.
 
 ![](../.gitbook/assets/screenshot_2020-11-20_16-28-34.png)
 
@@ -94,9 +94,9 @@ Variations of the same cloned component should be distinguished using distinct c
 
 * Use unique class names for each variation of a component.
 * Never access variations of a component using some kind of n-th lookup like javascript `matches[2]` or jQuery `$(".components .link-block:eq(2)")` since updates to the component library can result in surprise changes in the arrangement of template components.
-* Do not use IDs on cloned components - that will require the javascript developer to strip the ID after cloning and might have unintended consequences. A page should not have more than one element with the same ID at the sametime.
+* Do not use IDs on cloned components - that will require the javascript developer to strip the ID after cloning and might have unintended consequences. A page should not have more than one element with the same ID at the same time.
 * Use a demo page that is not accessible by public site users to demonstrate how the component should be used, what it looks like, etc.
-* Document modifier classes and treat them as a contract between the webflow and javascript developer.
+* Document modifier classes and treat them as a contract between the Webflow and javascript developer.
 * Document which components are intended to be children of which other components \(which often entails assumptions about margins and padding\)
 * Keep a reference in javascript to the root element of a cloned component if you will need to modify it after initial setup
 
