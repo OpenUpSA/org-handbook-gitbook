@@ -66,6 +66,7 @@ Chosen option: _"Webflow with custom javascript to manipulate the page content b
   * Upstreaming improvements, or merging in upstream changes, is less controlled and well-defined than coded interfaces.
 * We often have to stop and think whether an interaction should be built in webflow or javascript/css
   * This might still be cheaper considering that we often don't have to build those interactions outside webflow.
+* Repository history of CSS and HTML files become useless due to Webflow not necessarily respecting consistency and order when exporting.
 
 
 
