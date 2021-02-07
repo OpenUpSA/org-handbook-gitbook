@@ -44,7 +44,8 @@
         <ul>
           <li>no need to wonder or worry about backups</li>
           <li>we have a server that handles our load</li>
-          <li>It&apos;s the same cost and less stress than managing the server ourselves</li>
+          <li>It&apos;s the same cost and less stress than managing the server and ops
+            ourselves</li>
         </ul>
       </td>
       <td style="text-align:left"></td>
@@ -75,7 +76,10 @@
       <td style="text-align:left"><a href="https://github.com/OpenUpSA/secrets_store">Passwordstore</a>
       </td>
       <td style="text-align:left">Built on simple principles. Very secure.</td>
-      <td style="text-align:left">Not really usable by non-technical people</td>
+      <td style="text-align:left">
+        <p>Steep learning curve even for techies.</p>
+        <p>Not usable by non-technical people.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Running apps on servers</td>
@@ -88,7 +92,9 @@
           <li>Easy TLS</li>
         </ul>
       </td>
-      <td style="text-align:left">Not suitable for every situation</td>
+      <td style="text-align:left">Not suitable for every situation, e.g it doesn&apos;t have a notion of
+        dependencies between apps. Docker Networks solves this better than Docker
+        Links though.</td>
     </tr>
     <tr>
       <td style="text-align:left">Databases that accept writes at runtime</td>
@@ -120,6 +126,20 @@
         <p>Open Source sponsorship for team account</p>
       </td>
       <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Application Performance Monitoring (APM)</td>
+      <td style="text-align:left">sentry.io</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Port monitoring (notifications when a new port opens on a server)</td>
+      <td
+      style="text-align:left">hackertarget.com</td>
+        <td style="text-align:left">Diff of open ports via email makes it really easy to spot changes and
+          decide if they thought be open or not.</td>
+        <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
