@@ -111,10 +111,9 @@
     </tr>
     <tr>
       <td style="text-align:left">Website monitoring</td>
-      <td style="text-align:left">uptimedoctor.com</td>
+      <td style="text-align:left">uptimerobot (migrating from uptimedoctor.com)</td>
       <td style="text-align:left">Most affordable, does the job</td>
-      <td style="text-align:left">Apart from the subject line and a basic status, alert emails are not super
-        helpful, e.g. don&apos;t include the actual URL checked.</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Error alerting</td>
