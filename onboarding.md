@@ -67,7 +67,7 @@ If you find broken steps or something that needs fixing, please use comments cre
 * Read up on our [Development Guidelines](tech/development-guidelines.md)
 * Get added to the OpenUpSA Github organisation by your manager.
 * Ask your manager to add you to the webapps@openup.org.za email list.
-* Get your [SSH key added to the servers](https://github.com/OpenUpSA/ansible-config/#add-new-admins-to-ansibles-inventory).
+* Get your [SSH key added to the servers.](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) 
 * Get your [GPG key added to the secrets store](https://github.com/OpenUpSA/secrets_store).
 * Sentry
 * Cloudflare
