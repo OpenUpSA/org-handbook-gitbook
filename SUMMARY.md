@@ -37,7 +37,8 @@
 
 ## How we work
 
-* [Preferred tools](how-we-work/what-do-we-use-for....md)
+* [Preferred tools](how-we-work/what-do-we-use-for.../README.md)
+  * [Tool sponsorships](how-we-work/what-do-we-use-for.../tool-sponsorships.md)
 * [Budgets & Finance](how-we-work/budgets-and-finance/README.md)
   * [Taxes](how-we-work/budgets-and-finance/taxes/README.md)
     * [VAT](how-we-work/budgets-and-finance/taxes/vat.md)
