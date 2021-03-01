@@ -3,7 +3,7 @@
 ### Step by step
 
 1. Let users on slack know that you will be logging into the webapps Webflow account in the channel \#webflow-accounts
-2. Login to webapps Webflow account with detail on the General Credentials spreadsheet
+2. Login to webapps Webflow account with detail on the General Credentials spreadsheet \([www.webflow.com](www.webflow.com)\)
 3. Click account menu and select "Account Settings"
 4. Select the "Billing" tab
 5. Scroll down to invoices and select the relevant invoice to "Download as PDF"
