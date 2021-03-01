@@ -59,6 +59,7 @@
   * [Allocating AWS costs to a project](how-we-work/budgets-and-finance/allocating-aws-costs-to-a-project.md)
   * [Allocating Upwork transactions to projects](how-we-work/budgets-and-finance/allocating-upwork-transactions-to-projects.md)
   * [Software, Services and Hosting](how-we-work/budgets-and-finance/software-services-and-hosting.md)
+  * [Downloading Webflow invoices](how-we-work/budgets-and-finance/downloading-webflow-invoices.md)
 * [Paying salaries](how-we-work/paying-salaries.md)
 * [Tool Development](how-we-work/tool-development/README.md)
   * [CODING](how-we-work/tool-development/tool-development-coding.md)
