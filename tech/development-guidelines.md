@@ -80,6 +80,7 @@ Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-
 * Never catch and drop exceptions without logging them.
 * Ensure shell scripts fail on error instead of running through with undefined behaviour. use `set -eux`  in bash.
 * Add uptime monitoring to public services and ensure we get emailed when a service goes down.
+* App startup should fail if required variables are not set, rather than providing a default value that doesn't actually work. e.g. use `env.str("AWS_ACCESS_KEY_ID")` with no default so that the app doesn't start if this environment variable is not set. This means deployment of a new feature/to a new environment fails with a clear indication of the problem, rather than succeeding but with core functionality not being available. This, along with seamless deploys, means a new deployment without the required config won't kill a good working previous deploy.
 
 ### Tend towards best practices
 
