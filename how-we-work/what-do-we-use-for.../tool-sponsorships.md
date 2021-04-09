@@ -52,6 +52,15 @@ description: >-
       <td style="text-align:left">3 sites until June - sites can be swapped out and reused.</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">Docker hub</td>
+      <td style="text-align:left">Docker image building and repository</td>
+      <td style="text-align:left">We have added your namespace, openup, to the Docker Open Source program.
+        openup is now a whitelisted namespace, which means that all Docker users
+        can pull images from there, without the limits of new Docker data pull
+        rates.</td>
+      <td style="text-align:left">Docker Open Source programme</td>
+    </tr>
   </tbody>
 </table>
 
