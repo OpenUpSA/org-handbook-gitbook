@@ -17,7 +17,7 @@ To pay PAYE and UIF, an EMP 201 form needs to be completed. The steps to complet
 
 ### SimplePay
 
-Once a [pay run](../../paying-salaries.md) has been finalised you can find a PAYE report in the **Filing** section.
+Once a [pay run](../paying-salaries.md) has been finalised you can find a PAYE report in the **Filing** section.
 
 ![](../../../.gitbook/assets/screen-shot-2021-01-04-at-15.08.17%20%281%29.png)
 
