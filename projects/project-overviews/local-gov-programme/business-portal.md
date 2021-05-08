@@ -50,15 +50,14 @@ Users' objectives
 
 The easiest way we currently believe we can achieve the objective
 
-We can use CIPC data to build a business portal which is valuable both to the public and the municipal staff.
-
-For the muni it helps with reporting to provincial government, and with planning regarding local economic development.
-
-For the public it's an easy way to find local businesses and see what the market looks like if they want to start a local business.
+* We can use CIPC data to build a business portal which is valuable both to the public and the municipal staff.
+* For the muni it helps with reporting to provincial government, and with planning regarding local economic development.
+* For the public it's an easy way to find local businesses and see what the market looks like if they want to start a local business.
+* Businesses can submit their information to the municipality, thus starting a dialogue
 
 #### Other opportunities
 
-We could get municipal officials to sell ice cream and start a dialogue with patrons.
+People love ice cream. We could get municipal officials to sell ice cream and start a dialogue with patrons and collect their data. _\(this suggestion is facetious just to demonstrate the point that there are other opportunities and potential strategies\)_
 
 ### Principles
 
