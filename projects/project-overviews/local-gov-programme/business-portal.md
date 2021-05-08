@@ -37,6 +37,11 @@ _Municipality's objectives_
 
 * Have data on local businesses to be able to report to provincial governmnet on local economic development
 
+Users' objectives
+
+* Find businesses
+* Advertise their business
+
 ### Measurables/Metrics/Indicators
 
 ### Opportunities
