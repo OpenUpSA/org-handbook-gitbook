@@ -28,13 +28,14 @@ No resources added yet
 
 _OpenUp's objective with this project_
 
-Get the municipality and its residents to talk to one another.
+* Get the municipality and its residents to talk to one another.
+* Deliver empowering information to the public.
+* Empower the municipal staff with data literacy and use.
+* See whether the municipality can get the local youth to gather valuable data.
 
-Deliver empowering information to the public.
+_Municipality's objectives_
 
-Empower the municipal staff with data literacy and use.
-
-See whether the municipality can get the local youth to gather valuable data.
+* Have data on local businesses to be able to report to provincial governmnet on local economic development
 
 ### Measurables/Metrics/Indicators
 
