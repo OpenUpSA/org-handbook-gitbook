@@ -20,7 +20,7 @@ We believe in [Agile Principles to deliver value efficiently and reliably.](http
 
 We use [Scrum. Read the Scrum guide](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100). It’s short and clear. We adapt the process to our needs, especially when we are not producing software. Get someone to [introduce you to Scrum using these slides.](https://www.slideshare.net/arriellemali/scrum-101-introduction-to-scrum) You don’t learn scrum by reading, you learn it by doing, but this is a start. Everyone involved with a project is responsible for ensuring that the project’s Scrum process is followed. One reason we use scrum is that the concept of sprints provides more predictable planning for ourselves and clients. It is also the most effective way we know to ensure clients eventually get attention: it’s easier to continually push ad-hoc scheduled work out, while a commitment of 1 week of implementation time in sprint n or n+1 is harder to push out without consideration. We can choose not to use scrum on a project, but we should be aware of what the tradeoff is.
 
-[https://www.youtube.com/watch?v=U8gpTZvkVIA](https://www.youtube.com/watch?v=U8gpTZvkVIA)
+Watch this video to learn more about how we use scrum and agile: [https://www.youtube.com/watch?v=U8gpTZvkVIA](https://www.youtube.com/watch?v=U8gpTZvkVIA)
 
 ## Structure of this guide
 
