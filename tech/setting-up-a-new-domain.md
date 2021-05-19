@@ -14,8 +14,10 @@ Before you register a domain the purchase needs to be authorised by the Project 
 
 ## Registering and Buying a Domain
 
-We prefer [Domains.co.za](http://domains.co.za/) for registering domains.
-
+* We prefer [Domains.co.za](http://domains.co.za/) for registering domains. 
+* Login details can be requested from senior management if you do not have access to the password manager.
+* You can register a domain without paying for it at the time, the cost will be invoiced to the OpenUp account and paid accordingly by \[person?\].
+* 
 
 
 ## Setting up a Domain
