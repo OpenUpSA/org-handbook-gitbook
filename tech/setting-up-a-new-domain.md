@@ -14,7 +14,7 @@ Before you register a domain the purchase needs to be authorised by the Project 
 
 We normally buy either **.co.za** or **.org.za** or **.com** [top-level domains](https://en.wikipedia.org/wiki/Top-level_domain). Other domains can be more expensive. Please speak to the Chief Technical Officer \(CTO\) before you register a special top-level domain.
 
-## Registering and Buying a Domain
+## Registering and paying for a Domain
 
 * We prefer [Domains.co.za](http://domains.co.za/) for registering domains. 
 * Login details can be requested from senior management if you do not have access to the password manager.
