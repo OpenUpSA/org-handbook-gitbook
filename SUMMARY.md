@@ -108,6 +108,7 @@
 * [Setting up a new server](tech/setting-up-a-new-server.md)
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
+* [Setting up a new Domain](tech/setting-up-a-new-domain.md)
 
 ## Codebridge
 
