@@ -31,7 +31,12 @@ For each candidate, create a google sheet with columns Attribute, Strengths, and
               <li>ability to find a mutually agreeable outcome/plan</li>
             </ul>
           </li>
-          <li>managing design by committee</li>
+          <li>managing design by committee
+            <ul>
+              <li>ability to pause this, capture the intended outcome, and arrange for us
+                to prepare a proposal with wireframes/mockups</li>
+            </ul>
+          </li>
         </ul>
       </td>
       <td style="text-align:left"></td>
