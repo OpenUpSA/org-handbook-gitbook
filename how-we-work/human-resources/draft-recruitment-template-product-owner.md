@@ -22,6 +22,10 @@ For each candidate, create a google sheet with columns Attribute, Strengths, and
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Experience with user-centred design</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">
         <p>Client management, e.g.</p>
         <ul>
