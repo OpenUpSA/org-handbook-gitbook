@@ -1,6 +1,6 @@
 # Recruitment template: Project lead developer
 
-For each candidate, copy the table below to a Google Sheet, and add a column "Evidence" with the evidence towards each of these attributes.
+For each candidate, create a google sheet with columns Attribute, Strengths, and Weaknesses where the evidence for these can be noted for review.
 
 <table>
   <thead>

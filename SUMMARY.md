@@ -95,6 +95,7 @@
 * [Human Resources](how-we-work/human-resources/README.md)
   * [Recruitment](how-we-work/human-resources/recruitment.md)
   * [Recruitment template: Project lead developer](how-we-work/human-resources/recruitment-template-project-lead-developer.md)
+  * [DRAFT Recruitment template: Product owner](how-we-work/human-resources/draft-recruitment-template-product-owner.md)
 * [Organisational Decision Records](how-we-work/organisational-decision-records/README.md)
   * [ODR1: Organisational Decision Records](how-we-work/organisational-decision-records/project-decision-records.md)
   * [ODR2: Building dynamic web frontends using Webflow](how-we-work/organisational-decision-records/odr2-building-dynamic-web-frontends-using-webflow.md)
