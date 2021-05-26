@@ -17,6 +17,9 @@ For each candidate, create a google sheet with columns Attribute, Strengths, and
           <li>Agile qualifications and training</li>
           <li>Experience practicing this in teams</li>
           <li>Experience adapting the process to specific needs</li>
+          <li>Ability to hold the implementing team to sprint commitments, and finding
+            compromises to ensure that <em>something</em> is delivered each sprint instead
+            of letting work drag and stagnate</li>
         </ul>
       </td>
       <td style="text-align:left"></td>
