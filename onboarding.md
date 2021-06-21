@@ -56,7 +56,7 @@ If you find broken steps or something that needs fixing, please use comments cre
 * You'll need a photo and a bio for the website \([example](https://openup.org.za/team/adi.html)\).
   * For interns a different format will be followed.
 * Ensure we have a copy of your signed contract and your ID.
-* Set up a fortnightly 1-1 session with your manager/peers.
+* Set up a fortnightly [1-1 session](how-we-work/human-resources/one-on-ones-1-1s.md) with your manager/peers.
 * Take some time to read through this manual and get to know how OpenUp works.
 * Have the operations manager add the daily standup to your calendar.
 * Ask the operations manager to add you to: 
