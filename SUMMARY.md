@@ -29,12 +29,12 @@
   * [Blog article](projects/ending-a-project/blog-article.md)
   * [Maintenance plan \(if necessary\)](projects/ending-a-project/maintenance-plan-if-necessary.md)
 * [Project overviews](projects/project-overviews/README.md)
-  * [Project boards](projects/project-overviews/project-boards.md)
   * [Citizen Engagement App](projects/project-overviews/citizen-engagement-app.md)
   * [Our Project List](projects/project-overviews/our-project-list.md)
   * [Local Gov Programme](projects/project-overviews/local-gov-programme/README.md)
     * [Business Portal](projects/project-overviews/local-gov-programme/business-portal.md)
   * [Tech Infrastructure](projects/project-overviews/tech-infrastructure.md)
+* [Project boards](projects/project-boards.md)
 
 ## How we work
 

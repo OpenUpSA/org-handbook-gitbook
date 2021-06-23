@@ -23,5 +23,5 @@ Don't
 * Don't reuse a colour for a different type of label, if posible
   * If you have to do so, use the prefixes to distinguish them.
 
-![](../../.gitbook/assets/screenshot_2021-06-23_11-49-53.png)
+![](../.gitbook/assets/screenshot_2021-06-23_11-49-53.png)
 
