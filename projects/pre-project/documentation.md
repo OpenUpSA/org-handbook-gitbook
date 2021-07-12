@@ -53,7 +53,7 @@ Find all templates [here](https://drive.google.com/drive/folders/1IIx_uEQZRn_W3b
 
 ### Project Close-Out
 
-* Close-out report \(template\)
+* Close-out report \([template](https://docs.google.com/document/d/1SRemCgyrqz627BBciS2wn6FInh117K49bQ6j95nuKwQ/edit?usp=sharing)\)
 * Maintenance Plan \(template\)
 * Stakeholder thank yous \(template\)
 
@@ -68,7 +68,7 @@ The last step is to partner with a committed domain expert- a process called sta
 * Contains all the important project information 
 * Gives the reader an overview of the project; who is involved, what it's trying to achieve and how it's trying to achieve it. 
 * Important for senior management and new staff members who need to be on-boarded. 
-* **A Project Overview Document \(POD\)** \(template available\). Link: [https://docs.google.com/document/d/1oa8xMs3HE1ZlcblkTaEOKA8-yf001tuu8cnzQhTgK2Q/edit](https://docs.google.com/document/d/1oa8xMs3HE1ZlcblkTaEOKA8-yf001tuu8cnzQhTgK2Q/edit)
+* **A Project Overview Document \(POD\)** \([template](https://docs.google.com/spreadsheets/d/12i7esEb6RpQLFOYvZlWut4MipgytYWzB6R_9ImAakQo/edit?usp=sharing)\)
 
 ## Tools
 
