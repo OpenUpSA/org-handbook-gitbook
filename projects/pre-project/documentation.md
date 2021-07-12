@@ -30,7 +30,7 @@ Find all templates [here](https://drive.google.com/drive/folders/1IIx_uEQZRn_W3b
 
 ### Issue and User Mapping
 
-* Persona definitions \(template\)
+* Persona definitions \([template](https://docs.google.com/document/d/1tO_1ayW-YleoBltjuLF0x0zF_ZgXDe0VEn8KuIdGOVo/edit?usp=sharing)\)
 * User Journey Maps \(template\)
 * User Storyboards \(template\)
 * Content Survey \(template\)
