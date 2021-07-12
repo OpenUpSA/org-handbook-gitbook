@@ -17,10 +17,11 @@ Every project should have \(most\) the following documents. Some of the document
 ### Project Kick-Off and Planning:
 
 * Budget \(template\)
-* Roadmap \(template\)
-* LogFrame \(template\)
-* Project Overview Document \(POD\) \(template\)
-* Stakeholder contact list \(template\)
+* Project Document \([template](https://docs.google.com/spreadsheets/d/12i7esEb6RpQLFOYvZlWut4MipgytYWzB6R_9ImAakQo/edit?usp=sharing)\) includes the following:
+  * Project Overview Document \(POD\)
+  * Roadmap
+  * LogFrame
+  * Stakeholder contact list
 * Slack Channel
 * Trello Board
 * Living Minutes \(template\)
