@@ -11,7 +11,7 @@ Every project should have \(most\) the following documents. Some of the document
 
 ### Capacity Planning Documents:
 
-* MOU \(template\) / SLA \(template\) / Contract \(template\)
+* MOU \([template](https://docs.google.com/document/d/1EqLR3jysI5ORx8SKJhoP3WpKAsNYlu7IDMb5lcU0lJQ/edit?usp=sharing)\) / SLA \(template\) / Contract \(template\)
 * Draft Budget \(template\)
 
 ### Project Kick-Off and Planning:
