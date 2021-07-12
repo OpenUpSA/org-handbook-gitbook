@@ -4,6 +4,8 @@
 
 Every project should have \(most\) the following documents. Some of the documents below will come after the initiation phase.
 
+Find all templates [here](https://drive.google.com/drive/folders/1IIx_uEQZRn_W3bx9Ax1h_5-PU2TWUSQx).
+
 ### Conceptualisation documents:
 
 * Concept Note \([template](https://docs.google.com/document/u/0/?ftv=1&folder=16iUU-4IjDorE_YB2c-wYNurnLINxkmxd&tgif=d)\) 
