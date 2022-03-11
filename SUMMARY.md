@@ -4,13 +4,13 @@
 * [Onboarding](onboarding.md)
 * [Code of Conduct](code-of-conduct.md)
 
-## Project Management <a id="projects"></a>
+## Project Management <a href="#projects" id="projects"></a>
 
 * [Project Initiation](projects/pre-project/README.md)
   * [Documentation and Checklists](projects/pre-project/documentation.md)
   * [Aligning with OpenUp's Mission and Vision](projects/pre-project/openups-mission.md)
   * [Getting Partners and Stakeholders on Board](projects/pre-project/getting-partners-and-stakeholders-on-board.md)
-  * [Defining Project Parameters and Limitations \(scope\)](projects/pre-project/defining-project-parameters-and-limitations.md)
+  * [Defining Project Parameters and Limitations (scope)](projects/pre-project/defining-project-parameters-and-limitations.md)
   * [Product Management during the Project Initiation Phase](projects/pre-project/management-during-the-project-initiation-phase.md)
   * [DRAFT COPY](projects/pre-project/draft-copy.md)
 * [Project Implementation](projects/project-planning/README.md)
@@ -27,7 +27,7 @@
   * [Donor thanks](projects/ending-a-project/donor-thanks.md)
   * [One page write-up](projects/ending-a-project/one-page-write-up.md)
   * [Blog article](projects/ending-a-project/blog-article.md)
-  * [Maintenance plan \(if necessary\)](projects/ending-a-project/maintenance-plan-if-necessary.md)
+  * [Maintenance plan (if necessary)](projects/ending-a-project/maintenance-plan-if-necessary.md)
 * [Project overviews](projects/project-overviews/README.md)
   * [Citizen Engagement App](projects/project-overviews/citizen-engagement-app.md)
   * [Our Project List](projects/project-overviews/our-project-list.md)
@@ -91,14 +91,14 @@
   * [Creating an email newsletter](how-we-work/marketing-and-communications/creating-an-email-newsletter.md)
   * [Posting a blog](how-we-work/marketing-and-communications/posting-a-blog.md)
   * [Sharing a blog post](how-we-work/marketing-and-communications/sharing-a-blog-post.md)
-  * [Marketing Q &A](how-we-work/marketing-and-communications/marketing-q-and-a.md)
+  * [Marketing Q \&A](how-we-work/marketing-and-communications/marketing-q-and-a.md)
   * [Official communications](how-we-work/marketing-and-communications/official-communications.md)
   * [Tracking app and campaign web traffic sources](how-we-work/marketing-and-communications/tracking-app-and-campaign-web-traffic-sources.md)
 * [Human Resources](how-we-work/human-resources/README.md)
   * [Recruitment](how-we-work/human-resources/recruitment.md)
   * [Recruitment template: Project lead developer](how-we-work/human-resources/recruitment-template-project-lead-developer.md)
   * [DRAFT Recruitment template: Product owner](how-we-work/human-resources/draft-recruitment-template-product-owner.md)
-  * [One-on-ones \(1:1s\)](how-we-work/human-resources/one-on-ones-1-1s.md)
+  * [One-on-ones (1:1s)](how-we-work/human-resources/one-on-ones-1-1s.md)
 * [Organisational Decision Records](how-we-work/organisational-decision-records/README.md)
   * [ODR1: Organisational Decision Records](how-we-work/organisational-decision-records/project-decision-records.md)
   * [ODR2: Building dynamic web frontends using Webflow](how-we-work/organisational-decision-records/odr2-building-dynamic-web-frontends-using-webflow.md)
@@ -115,7 +115,10 @@
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 * [Setting up a new Domain](tech/setting-up-a-new-domain.md)
 
+## Product management
+
+* [Our product design process](product-management/our-product-design-process.md)
+
 ## Codebridge
 
 * [Codebridge - the space](codebridge/codebridge-the-space.md)
-

@@ -10,10 +10,12 @@ Find task-specific documentation under **How we work**.
 
 ## Maintaining the handbook
 
+{% hint style="warning" %}
 ### This handbook is public!
 
 * This means others can benefit from our established processes and what we've learned
-* Sensitive things that should not be publicly accessible should be in Google Documents with appropriate sharing settings \(not readable with the link!\)
+* Sensitive things that should not be publicly accessible should be in Google Documents with appropriate sharing settings (not readable with the link!)
+{% endhint %}
 
 ### What should be documented?
 
@@ -42,6 +44,4 @@ Find task-specific documentation under **How we work**.
 * The documentation should be organised so that you can find what you need based on the task you need to carry out
 * Use clear concise page names and headings so that someone scanning a list of pages or links can easily see the relevant page
 * Avoid creating empty stub pages - it makes it hard to know what's documented and what isn't, and someone else might document that concept in another section without realising a stub had been created
-
-
 
