@@ -14,7 +14,7 @@ By building components as [Webflow Symbols](https://university.webflow.com/lesso
 
 ### General best practices
 
-* It must be possible to select \(the root DOM element of\) a component uniquely using javascript **without resorting to selecting the n-th item of a number of matches.**
+* It must be possible to select (the root DOM element of) a component uniquely using javascript **without resorting to selecting the n-th item of a number of matches.**
 * Charts and other responsive embeds should size themselves as wide as their container and as long as is appropriate by design or configuration, possibly dynamic in height to accommodate wrapping text or other features. Chart containers should usually allow their height to be determined by their content.
 * Never include demo/dummy/example content e.g. lorem ipsum text or example data values - especially not in in-place components that can be seen while javascript is loading or if a javascript error results in failure to replace the demo content.
 * Use skeletons or "loading..." sort of text so that the page content looks nice and doesn't dramatically jump around while javascript and dynamically-fetched data loads and components start being placed on screen.
@@ -39,9 +39,9 @@ In the example below:
 * The social sharing and export buttons on the top right have javascript events attached by custom javascript as well
 * The chart is inserted by providing a reference to the chart container to the chart library, where the chart renders itself as wide as the container allows, and as long as the chart is designed or configured to be, possibly depending on its width.
 
-![Example in-place components before javascript populates the page with data](../../.gitbook/assets/screenshot_2020-11-20_15-24-02.png)
+![Example in-place components before javascript populates the page with data](../../.gitbook/assets/screenshot\_2020-11-20\_15-24-02.png)
 
-![Example in-page components after Javascript has populated the data dynamically](../../.gitbook/assets/screenshot_2020-11-20_15-29-15.png)
+![Example in-page components after Javascript has populated the data dynamically](../../.gitbook/assets/screenshot\_2020-11-20\_15-29-15.png)
 
 ### Best practices
 
@@ -64,7 +64,7 @@ Cloned components are usually included in a hidden `div` used as a component lib
 Cloned components are ideally used
 
 * you have a variable number of instances of a component based on data or user interaction
-* you use different iterations of the same component for a finite number of different styles \(indicator ratings with smiley faces in the example above\)
+* you use different iterations of the same component for a finite number of different styles (indicator ratings with smiley faces in the example above)
 
 ### Example
 
@@ -74,19 +74,19 @@ In the example below
 * The heading, menu and tab content area are in-place components
 * The tab buttons are dynamically created and populated with icon, label and a javascript click event handler to a function that lets the controller update what is shown on the tab content area.
 
-![Example of cloned components presented based on data and javascript.](../../.gitbook/assets/screenshot_2020-11-20_16-07-56.png)
+![Example of cloned components presented based on data and javascript.](../../.gitbook/assets/screenshot\_2020-11-20\_16-07-56.png)
 
-![DOM showing top level in-place components and hidden component library div](../../.gitbook/assets/screenshot_2020-11-20_16-21-52.png)
+![DOM showing top level in-place components and hidden component library div](../../.gitbook/assets/screenshot\_2020-11-20\_16-21-52.png)
 
 By removing the `hidden` class, the component variations can be seen with their placeholder/example text and icons
 
-![Variations of the Link Block component in the component library div](../../.gitbook/assets/screenshot_2020-11-20_16-23-26.png)
+![Variations of the Link Block component in the component library div](../../.gitbook/assets/screenshot\_2020-11-20\_16-23-26.png)
 
 Variations of the same cloned component should be distinguished using distinct class names. Using distinct templates for all the variations of a component can become excessive. At some point modifier classes for things like shading or enabling/disabling left/right icons might be easier to maintain. Those modifier classes should then be documented clearly and considered a contract between the Webflow developer and the javascript developer which requires discussion to change, to avoid surprises.
 
-![](../../.gitbook/assets/screenshot_2020-11-20_16-28-34.png)
+![](../../.gitbook/assets/screenshot\_2020-11-20\_16-28-34.png)
 
-![](../../.gitbook/assets/screenshot_2020-11-20_16-29-08.png)
+![](../../.gitbook/assets/screenshot\_2020-11-20\_16-29-08.png)
 
 
 
@@ -97,7 +97,7 @@ Variations of the same cloned component should be distinguished using distinct c
 * Do not use IDs on cloned components - that will require the javascript developer to strip the ID after cloning and might have unintended consequences. A page should not have more than one element with the same ID at the same time.
 * Use a demo page that is not accessible by public site users to demonstrate how the component should be used, what it looks like, etc.
 * Document modifier classes and treat them as a contract between the Webflow and javascript developer.
-* Document which components are intended to be children of which other components \(which often entails assumptions about margins and padding\)
+* Document which components are intended to be children of which other components (which often entails assumptions about margins and padding)
 * Keep a reference in javascript to the root element of a cloned component if you will need to modify it after initial setup
 
 ### Patterns
@@ -179,3 +179,13 @@ Re-initialise webflow interactions each time after inserting cloned elements tha
 Webflow.require('ix2').init();
 ```
 
+## Exporting from Webflow
+
+### Best practices
+
+**Rules for Webflow exports on projects that use custom JS and external developers:**
+
+1. Do no change existing class names (unless strictly necessary to implement a request)
+2. If a class name is change, ensure that change is discussed with a developer and documented in the Gitbook.
+3. When making sweeping changes to an already existing component, be sure to duplicate the original component and mark the new component with a versioned name so that any changes do not break the production site. eg. ".map-options" -> ".map-options--v2".
+4. Ensure that any change is documented in the Gitbook.
