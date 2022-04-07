@@ -17,40 +17,22 @@ We don't necessarily need to actively move things to the preferred thing, but we
 
 ## Productivity
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Task</th>
-      <th style="text-align:left">Preferred tool</th>
-      <th style="text-align:left">Pros</th>
-      <th style="text-align:left">Cons</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Non-public documents, slideshows, spreadsheets</td>
-      <td style="text-align:left">Google Docs</td>
-      <td style="text-align:left">Change tracking, import/export common formats; OpenUp templates available</td>
-      <td
-      style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Documentation</td>
-      <td style="text-align:left">GitBook</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Easy to use</li>
-          <li>Looks good</li>
-          <li>Free team workspaces for open source and non profit</li>
-          <li>Github integration to sync data making migration and backups feasible</li>
-        </ul>
-      </td>
-      <td style="text-align:left">Moving content from one page to another is surprisingly hard</td>
-    </tr>
-  </tbody>
-</table>
+| Task                                           | Preferred tool | Pros                                                                                                                                                                                                 | Cons                                                                                                                                                                                                                                 |
+| ---------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Non-public documents, slideshows, spreadsheets | Google Docs    | Change tracking, import/export common formats; OpenUp templates available                                                                                                                            |                                                                                                                                                                                                                                      |
+| Documentation                                  | GitBook        | <ul><li>Easy to use</li><li>Looks good</li><li>Free team workspaces for open source and non profit</li><li>Github integration to sync data making migration and backups feasible</li></ul>           | Moving content from one page to another is surprisingly hard                                                                                                                                                                         |
+| Password management                            | Bitwarden      | <ul><li>Well-priced</li><li>Open Source</li><li>NPO discount</li><li>Respected by security community</li><li>Flexible/powerful permissions management even in the Teams subscription level</li></ul> | <ul><li>No way to let users see that an account exists to discover service accounts without them technically having access to the password. (Not sure any other password manager other than passwordstore.org can do this)</li></ul> |
+
+## Service accounts
+
+The following service accounts are available. See which unit they belong to to get access.
+
+| Service name | Used for                | Unit  |
+| ------------ | ----------------------- | ----- |
+| Buffer       | Social media management | comms |
+|              |                         |       |
+|              |                         |       |
 
 ## See also
 
 * [Preferred tech stack](../../tech/preferred-tech-stack.md)
-
