@@ -18,6 +18,8 @@ Secure passwords are complex randomly-generated text which you can't remember (b
 
 We use BitWarden for shared password management.&#x20;
 
+We try to follow the principle of least privilege, meaning you should only have access to passwords you actually need. To avoid creating multiple shared accounts on the same service, please add any accounts that relate to your unit's work to the [Service Accounts](what-do-we-use-for.../#service-accounts) table, and please document when it is the preferred tool for the job in the table above it. Before creating a new account, check if there is an existing account you can get access to and reuse. Duplicate accounts can waste money and effort.
+
 We organise shared passwords according to:
 
 * unit - for passwords shared with everyone in that unit, e.g. comms, dev, finance
