@@ -1,8 +1,24 @@
 # Password management
 
-We use BitWarden for password management.
+We prefer **not** using shared accounts where possible. We use shared accounts when the plan we can afford to use of a given service does not allow individual accounts for enough users to be practical for our needs.
 
-We organise passwords according to:
+You should definitely get a dedicated account for any django/flask app we develop.
+
+{% hint style="info" %}
+**Use a password manager.** We recommend that you use bitwarden or your favourite password manager for managing your own passwords of services you use in your work at OpenUp.
+
+A password that is reused between services, or that is a small variation of a password you use in another service, is **not secure**.&#x20;
+
+**We owe it to our beneficiaries, clients and reputation as an organisation that can navigate the world of technology to use secure passwords.**
+
+Secure passwords are complex randomly-generated text which you can't remember (but use a password manager to look up), or unique complex text like the first letter of each word (or the full words!) of a long sentence. **So just use a password manager** and use a long phrase for your password in it.
+{% endhint %}
+
+## Sharing passwords
+
+We use BitWarden for shared password management.&#x20;
+
+We organise shared passwords according to:
 
 * unit - for passwords shared with everyone in that unit, e.g. comms, dev, finance
 * project - for passwords shared with everyone in the project
@@ -17,7 +33,7 @@ Bitwarden can "nest" collections using forward-slashes (`/`) in the name, and cr
 Giving someone access to the `projects` collection does not mean they have access to all collections under `projects`.
 {% endhint %}
 
-## Credentials used by our software
+### Credentials used by our software
 
 Developers will need to deploy credentials via Ansible.
 
