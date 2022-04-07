@@ -33,6 +33,25 @@ Bitwarden can "nest" collections using forward-slashes (`/`) in the name, and cr
 Giving someone access to the `projects` collection does not mean they have access to all collections under `projects`.
 {% endhint %}
 
+### Adding users
+
+Invite new users to the organisation. Once they've accepted, they will have an account and can store passwords for themselves, but they aren't part of the organisation yet.
+
+These users will be listed as `accepted` in the organisation user list. You can accept them into the organisation by confirming their Bitwarden [fingerprint](https://bitwarden.com/help/fingerprint-phrase/) after selecting `Confirm` in the menu next to their name. They can find their fingerprint on their user profile in BitWarden. It is not secret.
+
+![After this, it will ask you to confirm their Bitwarden fingerprint.](../.gitbook/assets/Screenshot\_2022-04-07\_14-16-50.png)
+
+Once they are confirmed, add them to any collections they need access to by clicking on their name and checking the relevant collection boxes.
+
+Everyone should have access to
+
+* project
+* unit
+
+and then any specific units and projects they need to access.
+
+![](../.gitbook/assets/Screenshot\_2022-04-07\_14-30-10.png)
+
 ### Credentials used by our software
 
 Developers will need to deploy credentials via Ansible.
