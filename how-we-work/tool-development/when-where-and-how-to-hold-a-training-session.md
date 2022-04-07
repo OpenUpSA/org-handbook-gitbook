@@ -4,12 +4,13 @@
 
 * Usually offered as a product, moreso than something that happens internally.
 * Offered as an ongoing project and/or program deliverable
-* Conducted for and among: 
-* * OpenUp 
+* Conducted for and among:&#x20;
+*
+  * OpenUp&#x20;
   * Clients
   * If someone needs to learn how to do a particular task or learn a set of skills.
 
-Though selling/pushing training is **NOT** a key part of our philosophy, the majority of training offered externally is considered a **revenue stream.** 
+Though selling/pushing training is **NOT** a key part of our philosophy, the majority of training offered externally is considered a **revenue stream.**&#x20;
 
 **Internal training** is usually considered knowledge sharing
 
@@ -22,12 +23,10 @@ Though selling/pushing training is **NOT** a key part of our philosophy, the maj
 
 * They reach out to us first
 
-#### 2. OpenUp emails them back, as soon as possible. 
+#### 2. OpenUp emails them back, as soon as possible.&#x20;
 
 * Near-immediate response time is important; we have to act fast when someone wants something
-* Depending on who it is and what they're asking, OpenUp might ask for client **data** and **objectives**. 
+* Depending on who it is and what they're asking, OpenUp might ask for client **data** and **objectives**.&#x20;
 
-3. The client responds back with a date and time set for the session\(s\).
-
-
+3\. The client responds back with a date and time set for the session(s).
 

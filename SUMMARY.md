@@ -104,6 +104,7 @@
   * [ODR1: Organisational Decision Records](how-we-work/organisational-decision-records/project-decision-records.md)
   * [ODR2: Building dynamic web frontends using Webflow](how-we-work/organisational-decision-records/odr2-building-dynamic-web-frontends-using-webflow.md)
 * [Personal Information](how-we-work/personal-information.md)
+* [Password management](how-we-work/password-management.md)
 
 ## Tech
 

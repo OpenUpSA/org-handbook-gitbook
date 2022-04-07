@@ -16,27 +16,27 @@ Please request the login details from Shaun Russell or find the login credential
 
 1.Click the collections tab in the bottom left:
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](<../../.gitbook/assets/image (11).png>)
 
-2. Select "Blog Posts" from the list:
+2\. Select "Blog Posts" from the list:
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](<../../.gitbook/assets/image (7).png>)
 
-3. Add a new blog post in the top right:
+3\. Add a new blog post in the top right:
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](<../../.gitbook/assets/image (9).png>)
 
-4. Follow the guidelines in the next section when completing this process and use the checklist before publishing the article.
+4\. Follow the guidelines in the next section when completing this process and use the checklist before publishing the article.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
-5. When you are finished, "Create" the article \(the post will not be live until it is published\):
+5\. When you are finished, "Create" the article (the post will not be live until it is published):
 
 ![](../../.gitbook/assets/image.png)
 
-6. When the article has been created, you can share it with a member of the communications team for them to sign-off on before publishing.
+6\. When the article has been created, you can share it with a member of the communications team for them to sign-off on before publishing.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Custom options for your post
 
@@ -44,7 +44,7 @@ Please request the login details from Shaun Russell or find the login credential
 
 If you are a regular contributor, your name will be populated in the CMS and will show up in "Blog authors". If you are a once-off contributor, use the "Author name" field. If you are going to be posting multiple posts, please talk to a member of the comms team to have your profile added to the authors list.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](<../../.gitbook/assets/image (6).png>)
 
 ### 2. Alternative post layouts
 
@@ -52,15 +52,15 @@ If you do not specifically want your post to have a layout other than the defaul
 
 #### Full width:
 
-Full-width removes the sticky section on the left side of the post and widens the post area. This should be used when large graphics are required \(like data visualisations\).
+Full-width removes the sticky section on the left side of the post and widens the post area. This should be used when large graphics are required (like data visualisations).
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (10).png>)
 
 ### 3. Categories
 
 Categories are site wide and are ways of logically grouping content to ensure that it is able to be shown in specific locations. eg. posts relating to a specific tools showing up on that tools page.
 
-You can select multiple categories for a post, but please ensure that your selections make logical sense. 
+You can select multiple categories for a post, but please ensure that your selections make logical sense.&#x20;
 
 {% hint style="warning" %}
 **IF UNSURE** what category to use on your post, please contact a member of the comms team.
@@ -72,7 +72,7 @@ You can select multiple categories for a post, but please ensure that your selec
 
 Do not use any alternative fonts when structuring your post.
 
-![Highlight text to apply heading styles](../../.gitbook/assets/image%20%281%29.png)
+![Highlight text to apply heading styles](<../../.gitbook/assets/image (1).png>)
 
 {% hint style="danger" %}
 The styles in the post editor **DO NOT** represent how the post will appear on the live site. **DO NOT** try to tailor the spacing or font styles to represent how you _think_ the post should look.
@@ -80,7 +80,7 @@ The styles in the post editor **DO NOT** represent how the post will appear on t
 
 ### 2. Follow a linear heading structure
 
-Start your article heading structure with a "H2" and then use logical subheadings when needed \(H2 &gt; H3 &gt; H4\). H1 is reserved for the titele. Do not try to "style" the size of your post using heading styles. eg. Don't say, "I want this heading to be a bit smaller, so I am going to make it a H3". Headings are used to convey article structure.
+Start your article heading structure with a "H2" and then use logical subheadings when needed (H2 > H3 > H4). H1 is reserved for the titele. Do not try to "style" the size of your post using heading styles. eg. Don't say, "I want this heading to be a bit smaller, so I am going to make it a H3". Headings are used to convey article structure.
 
 ### 3. Remove "extra" spaces in your post
 
@@ -89,7 +89,7 @@ Make sure that there aren't hard returns between elements
 ![](../../.gitbook/assets/article-spacing.png)
 
 {% hint style="danger" %}
-**DO NOT add line breaks** \(hit enter\) between headings, paragraphs or images in order to make the post look "correct" in the post editor. The spacing has been designed to look correct on the published post.
+**DO NOT add line breaks** (hit enter) between headings, paragraphs or images in order to make the post look "correct" in the post editor. The spacing has been designed to look correct on the published post.
 {% endhint %}
 
 ### 4. Images are at the correct size
@@ -99,20 +99,20 @@ Please ensure that you are using high-quality images that are saved a reasonable
 #### **Feature images:**
 
 {% hint style="success" %}
-**1200px x 750px** \(recommended\) with a **max file size of 400kb**
+**1200px x 750px** (recommended) with a **max file size of 400kb**
 {% endhint %}
 
 #### **Post images:**
 
 {% hint style="success" %}
-**800px wide** \(recommended\) with a **file size of 450kb**
+**800px wide** (recommended) with a **file size of 450kb**
 {% endhint %}
 
 ### 5. Images are using the correct layout
 
-Make sure you are selecting an appropriate layout for your images. By default, the image will be centered in the body of the post at the size it was uploaded. 
+Make sure you are selecting an appropriate layout for your images. By default, the image will be centered in the body of the post at the size it was uploaded.&#x20;
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="info" %}
 For large images, **use the full-width option**.
@@ -122,5 +122,4 @@ For large images, **use the full-width option**.
 
 If you want to add an image to the body of the post, the image should be different to the header image.
 
-Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md). 
-
+Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md).&#x20;

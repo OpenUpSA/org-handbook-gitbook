@@ -2,18 +2,18 @@
 
 ### Project Details
 
-**Website:** 
+**Website:**&#x20;
 
-* Cape Agulhas [https://biz-capeagulhas.openup.org.za/](https://biz-capeagulhas.openup.org.za/)\*\*\*\*
-* Demo muni [https://biz-portal.openup.org.za/](https://biz-portal.openup.org.za/)
+* Cape Agulhas [https://biz-capeagulhas.openup.org.za/](https://biz-capeagulhas.openup.org.za)****
+* Demo muni [https://biz-portal.openup.org.za/](https://biz-portal.openup.org.za)
 
 **Drive Folder:** [https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai](https://drive.google.com/drive/u/0/folders/1B2uqNmFdmO1-I1rmsfie7GzXgiRvLaai)
 
 ### Project Team
 
-**Product Owner:** Adrian Kearns  
-**Project Manager:** Adrian Kearns  
-**Tech Lead:** JD Bothma  
+**Product Owner:** Adrian Kearns\
+**Project Manager:** Adrian Kearns\
+**Tech Lead:** JD Bothma\
 
 
 ### Description
@@ -57,7 +57,7 @@ The easiest way we currently believe we can achieve the objective
 
 #### Other opportunities
 
-People love ice cream. We could get municipal officials to sell ice cream and start a dialogue with patrons and collect their data. _\(this suggestion is facetious just to demonstrate the point that there are other opportunities and potential strategies\)_
+People love ice cream. We could get municipal officials to sell ice cream and start a dialogue with patrons and collect their data. _(this suggestion is facetious just to demonstrate the point that there are other opportunities and potential strategies)_
 
 ### Principles
 
@@ -65,9 +65,8 @@ Revenue from this should be reinvested in the the local community e.g. through p
 
 [Mockups](https://www.figma.com/file/vdOtyeFK6WD6XcimWiXqHZ/CAM-Business-Directory?node-id=2958%3A479)
 
-[Mockup prototype](https://www.figma.com/proto/vdOtyeFK6WD6XcimWiXqHZ/CAM-Business-Directory?node-id=2958%3A479&scaling=scale-down&redirected=1)
+[Mockup prototype](https://www.figma.com/proto/vdOtyeFK6WD6XcimWiXqHZ/CAM-Business-Directory?node-id=2958%3A479\&scaling=scale-down\&redirected=1)
 
-[Mockup slideshow](https://docs.google.com/presentation/d/1M-r2iX8ob7mTJHbZ4jKPBnSyhpxUa1vmyn2GuLsCJf0/edit#slide=id.g3d26f9590f_0_49)
+[Mockup slideshow](https://docs.google.com/presentation/d/1M-r2iX8ob7mTJHbZ4jKPBnSyhpxUa1vmyn2GuLsCJf0/edit#slide=id.g3d26f9590f\_0\_49)
 
 [Inception documents](https://drive.google.com/drive/folders/1SnnF5Q-56RsDBgNHoOdWVdV67JRU12wm)
-
