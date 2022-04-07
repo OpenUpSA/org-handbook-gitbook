@@ -35,6 +35,10 @@ Bitwarden can "nest" collections using forward-slashes (`/`) in the name, and cr
 Giving someone access to the `projects` collection does not mean they have access to all collections under `projects`.
 {% endhint %}
 
+When adding items, remember to add them to the relevant collection. The collections can be edited later. An item can be in multiple collections, e.g. the project, as well as the finance collection to give the finance team access to invoices.
+
+![](<../.gitbook/assets/Screenshot\_2022-04-07\_15-23-48 (1).png>) ![](<../.gitbook/assets/Screenshot\_2022-04-07\_15-24-40 (1).png>)
+
 ### Adding users
 
 Invite new users to the organisation. Once they've accepted, they will have an account and can store passwords for themselves, but they aren't part of the organisation yet.
