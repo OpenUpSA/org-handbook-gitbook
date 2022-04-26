@@ -43,7 +43,13 @@ When adding items, remember to add them to the relevant collection. The collecti
 
 Invite new users to the organisation. Once they've accepted, they will have an account and can store passwords for themselves, but they aren't part of the organisation yet.
 
-These users will be listed as `accepted` in the organisation user list. You can accept them into the organisation by confirming their Bitwarden [fingerprint](https://bitwarden.com/help/fingerprint-phrase/) after selecting `Confirm` in the menu next to their name. They can find their fingerprint on their user profile in BitWarden. It is not secret.
+These users will be listed as `accepted` in the organisation user list. You will need their bitwarden _fingerprint_.
+
+**They can find their fingerprint on their user profile** in BitWarden. It is not secret.
+
+![](../.gitbook/assets/Screenshot\_2022-04-07\_10-00-16.png)
+
+**You can accept them into the organisation by confirming their Bitwarden** [**fingerprint**](https://bitwarden.com/help/fingerprint-phrase/) after selecting `Confirm` in the menu next to their name.&#x20;
 
 ![After this, it will ask you to confirm their Bitwarden fingerprint.](../.gitbook/assets/Screenshot\_2022-04-07\_14-16-50.png)
 
