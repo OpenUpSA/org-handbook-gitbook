@@ -14,7 +14,7 @@ Maintaining the Organisational Manual is everyone’s responsibility. When proce
 
 Our founding principles are the basis for who we are – they \[reflect?] our culture. They’re available to everyone on our website, please read them: [https://openup.org.za/about](https://openup.org.za/about)
 
-We believe in [Agile Principles to deliver value efficiently and reliably.](https://docs.google.com/document/d/1JJBHhOoH\_bfPvOGyYonQwBW0bOzPhV7SyNLZl02LrE0/edit#)
+We believe in [Agile Principles to deliver value efficiently and reliably.](https://docs.google.com/document/d/1JJBHhOoH\_bfPvOGyYonQwBW0bOzPhV7SyNLZl02LrE0/edit)
 
 ### Agile methodology
 
@@ -62,10 +62,10 @@ If you find broken steps or something that needs fixing, please use comments cre
 * Take some time to read through this manual and get to know how OpenUp works.
 * Have the operations manager add the daily standup to your calendar.
 * Ask the operations manager to add you to:&#x20;
-  * [Clockify](https://clockify.me) for timekeeping.
-  * [Slack](https://slack.com) for internal communications.
+  * [Clockify](https://clockify.me/) for timekeeping.
+  * [Slack](https://slack.com/) for internal communications.
   * [Trello](https://trello.com/en) for task management.
-  * [Simplepay](https://www.simplepay.co.za) for payroll.
+  * [Simplepay](https://www.simplepay.co.za/) for payroll.
   * GitBook for improving this documentation
 
 #### Technical Staff
@@ -158,7 +158,7 @@ These guidelines help to make our goals concrete:
 
 **Writing documents**
 
-* Please follow the writing guidelines recorded in [this](https://docs.google.com/document/d/17mhEtDaPbmJj3FeVO4sChxC-BPBQ2DHQtGPzZePpavU/edit#) document.
+* Please follow the writing guidelines recorded in [this](https://docs.google.com/document/d/17mhEtDaPbmJj3FeVO4sChxC-BPBQ2DHQtGPzZePpavU/edit) document.
 
 ### Key folders in Drive
 

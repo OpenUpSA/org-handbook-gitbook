@@ -17,15 +17,15 @@ To pay PAYE and UIF, an EMP 201 form needs to be completed. The steps to complet
 
 ### SimplePay
 
-Once a [pay run](../paying-salaries.md) has been finalised you can find a PAYE report in the **Filing** section.
+Once a [pay run](broken-reference) has been finalised you can find a PAYE report in the **Filing** section.
 
-![](../../../.gitbook/assets/screen-shot-2021-01-04-at-15.08.17%20%281%29.png)
+![](<../../../.gitbook/assets/screen-shot-2021-01-04-at-15.08.17 (1).png>)
 
 The information in this report will be needed to complete the EMP 201
 
 ### SARS eFiling
 
-Using the PAYE report, log into [https://www.sarsefiling.co.za/](https://www.sarsefiling.co.za/).  Navigate to **Returns Issued -&gt; Employees' Tax \(EMP 201\)**.   
+Using the PAYE report, log into [https://www.sarsefiling.co.za/](https://www.sarsefiling.co.za/).  Navigate to **Returns Issued -> Employees' Tax (EMP 201)**.  &#x20;
 
 ![](../../../.gitbook/assets/screen-shot-2021-01-04-at-15.11.32.png)
 
@@ -45,7 +45,7 @@ One you've finished it, click **File Return**
 
 ### Payment
 
-Once that is done, click on Make Payment. This is ask you a million times whether you are sure. This will create an instruction in the FNB bank account to pay PAYE and UIF. 
+Once that is done, click on Make Payment. This is ask you a million times whether you are sure. This will create an instruction in the FNB bank account to pay PAYE and UIF.&#x20;
 
 Log into the bank account, in the **Payments section,** you will find an eFiling option. Click on that and you will see the payment instruction. Click **Pay.**
 
@@ -60,4 +60,3 @@ The last step is to finalise in SimplePay. Navigate back to the **Filing** secti
 ![](../../../.gitbook/assets/screen-shot-2021-01-04-at-15.22.45.png)
 
 Now you're done!
-

@@ -142,7 +142,7 @@ Don't call meetings for meetings sake. Meetings are a planning and communication
 
 * Features and outputs (tracking via [Trello](https://trello.com/openupza/home) - **create a template project board**)
 * Stages and deliverables
-* Tracking time with [Clockify](https://clockify.me)
+* Tracking time with [Clockify](https://clockify.me/)
 
 ## Feedback, Review, and Reporting
 
