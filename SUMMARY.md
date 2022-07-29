@@ -84,6 +84,7 @@
   * [UpWork Contracting](how-we-work/outsourcing-and-contracting/upwork-contracting.md)
 * [Monitoring & Evaluation](how-we-work/monitoring-and-evaluation-within-projects.md)
 * [Communications & Branding](how-we-work/marketing-and-communications/README.md)
+  * [Resizing images](how-we-work/marketing-and-communications/resizing-images.md)
   * [Creating an email newsletter](how-we-work/marketing-and-communications/creating-an-email-newsletter.md)
   * [Posting a blog](how-we-work/marketing-and-communications/posting-a-blog.md)
   * [Sharing a blog post](how-we-work/marketing-and-communications/sharing-a-blog-post.md)
