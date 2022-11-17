@@ -123,3 +123,7 @@ For large images, **use the full-width option**.
 If you want to add an image to the body of the post, the image should be different to the header image.
 
 Once your blog has been posted you need to share it on social media. Go to the "Sharing a Blog Post" page [here](sharing-a-blog-post.md).&#x20;
+
+### 7. Make sure the body text is not bold (entirely bold)
+
+In some posts there have been situations where the entire post body has been published with bold on the text. This must not happen. Make sure there is only bold text on the neccesary words.
