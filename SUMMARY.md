@@ -104,6 +104,7 @@
 
 ## Tech
 
+* [CKAN](tech/ckan.md)
 * [Development guidelines](tech/development-guidelines.md)
 * [Preferred tech stack](tech/preferred-tech-stack.md)
 * [Webflow project guide](tech/webflow-best-practice/README.md)
