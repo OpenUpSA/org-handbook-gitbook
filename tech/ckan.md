@@ -30,4 +30,4 @@
 24. After a few seconds, your dataset and associated data files will load.
 25. If you click on Datasets at the top of the page again, your newly created dataset should appear at the top of the list.
 
-{% embed url="https://drive.google.com/file/d/1krlWUJO4MqkfGLmmZB5Kg2tsy94dTKFY/view?usp=drive_link" %}
+{% embed url="https://youtu.be/CtPZFWEsmRI" %}
