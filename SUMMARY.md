@@ -104,7 +104,6 @@
 
 ## Tech
 
-* [CKAN](tech/ckan.md)
 * [Development guidelines](tech/development-guidelines.md)
 * [Preferred tech stack](tech/preferred-tech-stack.md)
 * [Webflow project guide](tech/webflow-best-practice/README.md)
@@ -113,6 +112,7 @@
 * [Hosting on dokku](tech/hosting-on-dokku.md)
 * [CDN in front of S3](tech/cdn-in-front-of-s3.md)
 * [Setting up a new Domain](tech/setting-up-a-new-domain.md)
+* [CKAN](tech/ckan.md)
 
 ## Product management
 
