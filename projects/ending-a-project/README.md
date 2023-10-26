@@ -32,11 +32,11 @@ We use Google Suite to do our work. I think it’s convenient and quite importan
 
 ### Donor thanks
 
-****
+
 
 ### One-page write up
 
-****
+
 
 ### Blog article
 

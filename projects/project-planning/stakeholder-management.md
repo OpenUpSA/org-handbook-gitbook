@@ -10,7 +10,7 @@ To jump to the Project Implementation main page, click [here](./).&#x20;
 
 **CLIENT.** Someone who employs the services of a professional person and/or company.&#x20;
 
-****
+
 
 ## How to manage a client or partner well
 

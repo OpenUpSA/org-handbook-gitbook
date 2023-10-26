@@ -45,4 +45,4 @@ TL;DR, OpenUp's social media marketing strategy ultimately depends on the audien
 
 * Deciding what’s posted online is usually a team decision. Suggestions are made based on current events, and opinions are gathered. Then material either goes into the backlog or is prioritized to come out soon. &#x20;
 * We try to keep our projects visible, and put out the work we do.&#x20;
-* Many organizations do good work that they fail to advertise or make public knowledge, and people don’t get to see it. ****&#x20;
+* Many organizations do good work that they fail to advertise or make public knowledge, and people don’t get to see it.&#x20;

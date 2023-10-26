@@ -16,27 +16,51 @@ Please request the login details from Shaun Russell or find the login credential
 
 1.Click the collections tab in the bottom left:
 
-![](<../../.gitbook/assets/image (11).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (32).png" alt="">
+
+</div>
 
 2\. Select "Blog Posts" from the list:
 
-![](<../../.gitbook/assets/image (7).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (20).png" alt="">
+
+</div>
 
 3\. Add a new blog post in the top right:
 
-![](<../../.gitbook/assets/image (9).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (1).png" alt="">
+
+</div>
 
 4\. Follow the guidelines in the next section when completing this process and use the checklist before publishing the article.
 
-![](<../../.gitbook/assets/image (4).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (12).png" alt="">
+
+</div>
 
 5\. When you are finished, "Create" the article (the post will not be live until it is published):
 
-![](../../.gitbook/assets/image.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (26).png" alt="">
+
+</div>
 
 6\. When the article has been created, you can share it with a member of the communications team for them to sign-off on before publishing.
 
-![](<../../.gitbook/assets/image (5).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (28).png" alt="">
+
+</div>
 
 ## Custom options for your post
 
@@ -44,7 +68,11 @@ Please request the login details from Shaun Russell or find the login credential
 
 If you are a regular contributor, your name will be populated in the CMS and will show up in "Blog authors". If you are a once-off contributor, use the "Author name" field. If you are going to be posting multiple posts, please talk to a member of the comms team to have your profile added to the authors list.
 
-![](<../../.gitbook/assets/image (6).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (27).png" alt="">
+
+</div>
 
 ### 2. Alternative post layouts
 
@@ -54,7 +82,11 @@ If you do not specifically want your post to have a layout other than the defaul
 
 Full-width removes the sticky section on the left side of the post and widens the post area. This should be used when large graphics are required (like data visualisations).
 
-![](<../../.gitbook/assets/image (10).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (22).png" alt="">
+
+</div>
 
 ### 3. Categories
 
@@ -72,7 +104,11 @@ You can select multiple categories for a post, but please ensure that your selec
 
 Do not use any alternative fonts when structuring your post.
 
-![Highlight text to apply heading styles](<../../.gitbook/assets/image (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (14).png" alt="Highlight text to apply heading styles">
+
+</div>
 
 {% hint style="danger" %}
 The styles in the post editor **DO NOT** represent how the post will appear on the live site. **DO NOT** try to tailor the spacing or font styles to represent how you _think_ the post should look.
@@ -112,7 +148,11 @@ Please ensure that you are using high-quality images that are saved a reasonable
 
 Make sure you are selecting an appropriate layout for your images. By default, the image will be centered in the body of the post at the size it was uploaded.&#x20;
 
-![](<../../.gitbook/assets/image (2).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (35).png" alt="">
+
+</div>
 
 {% hint style="info" %}
 For large images, **use the full-width option**.

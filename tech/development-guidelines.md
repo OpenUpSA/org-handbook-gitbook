@@ -14,15 +14,15 @@ This context means that most industry best practises are even more important to 
 ## Guidelines
 
 * **Always deliver something:** Prefer releasing something very basic over ending a sprint with only unreleased partial work.
-* \*\*\*\*[**User experience is critical**](development-guidelines.md#user-experience-is-critical)**:** You probably don't know what's actually usable as well as you think you do.
-* \*\*\*\*[**Easy dev**](development-guidelines.md#easy-development-setup)**:** It should be easy to get a project up and running in a development environment.
-* \*\*\*\*[**Automate testing**](development-guidelines.md#automated-tests)**:** If a feature is worth implementing, it's worth having automated tests for it
-* \*\*\*\*[**Code is intended to be read by humans**](development-guidelines.md#code-is-intended-to-be-read-by-humans): Otherwise we'd keep assembly in git instead of source code.
-* \*\*\*\*[**Time boxes**](development-guidelines.md#time-boxes)**:** Don't spend unbounded time on a problem.
-* \*\*\*\*[**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
+* [**User experience is critical**](development-guidelines.md#user-experience-is-critical)**:** You probably don't know what's actually usable as well as you think you do.
+* [**Easy dev**](development-guidelines.md#easy-development-setup)**:** It should be easy to get a project up and running in a development environment.
+* [**Automate testing**](development-guidelines.md#automated-tests)**:** If a feature is worth implementing, it's worth having automated tests for it
+* [**Code is intended to be read by humans**](development-guidelines.md#code-is-intended-to-be-read-by-humans): Otherwise we'd keep assembly in git instead of source code.
+* [**Time boxes**](development-guidelines.md#time-boxes)**:** Don't spend unbounded time on a problem.
+* [**Tracer bullets**](development-guidelines.md#tracer-bullets)**:** Don't leave the end-to-end functionality for last.
 * [**Automate repetition**](development-guidelines.md#automate-repetition)**:** Automate the things you do repetitively. Don't automate prematurely.
-* \*\*\*\*[**Fail loudly**](development-guidelines.md#fail-loudly-brokenness-should-be-visible)**:** Brokenness should be visible.
-* \*\*\*\*[**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
+* [**Fail loudly**](development-guidelines.md#fail-loudly-brokenness-should-be-visible)**:** Brokenness should be visible.
+* [**Tend towards best practices**](development-guidelines.md#tend-towards-best-practises)**:** Avoid attempting sweeping dramatic changes that never get finished.
 
 ### User experience is critical
 
@@ -39,12 +39,12 @@ A developer should be able to clone a repository and have a working site running
 #### Frontend
 
 * Backing data from an API should probably default to production, if a production service is available.
-* The backing API should be configurable via 
-  * environment variable \(semi-permanently e.g. for staging\)
-  * user interface \(per use - e.g. for testing a deploy preview against a staging or review app API\)
+* The backing API should be configurable via&#x20;
+  * environment variable (semi-permanently e.g. for staging)
+  * user interface (per use - e.g. for testing a deploy preview against a staging or review app API)
     * [https://github.com/milafrerichs/dev-tools/](https://github.com/milafrerichs/dev-tools/)
-    * [Javascript prompt\(\) and session storage](https://github.com/OpenUpSA/muni-portal-frontend/blob/a8dd961eccc0438520702c8fef3a61f35db17855/src/js/api.js#L6)
-    * Do not allow this to be configured by querystring - this risks introducing an injection vulnerability 
+    * [Javascript prompt() and session storage](https://github.com/OpenUpSA/muni-portal-frontend/blob/a8dd961eccc0438520702c8fef3a61f35db17855/src/js/api.js#L6)
+    * Do not allow this to be configured by querystring - this risks introducing an injection vulnerability&#x20;
 
 #### Backend
 
@@ -55,7 +55,7 @@ Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-
   * By following [Twelve Factor Apps](https://12factor.net/), those who really want to run natively just need to provide configuration and it should work.
 * Use a seed data fixture for standard data like categories that could be used to seed production.
 * Use a demo data fixture for fake data e.g. pages, indicator values, etc.
-* Load and smoke-test your fixtures in CI to ensure they are kept functional. 
+* Load and smoke-test your fixtures in CI to ensure they are kept functional.&#x20;
 
 ### Automate testing
 
@@ -63,11 +63,11 @@ Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-
 
 * Use full versions of command arguments in scripts, e.g. `--tries=5` instead of `-t5`
 * Consistency and context is more important than personal preference
-* Javascript: 
+* Javascript:&#x20;
   * We prefer the [AirBnB Javascript style guide](https://github.com/airbnb/javascript/blob/master/README.md)
     * See the [eslint plugin](https://www.npmjs.com/package/eslint-config-airbnb)
 * Python:
-  * Use [isort](https://pypi.org/project/isort/) for imports, followed by [python-black](https://pypi.org/project/black/) so that black formatting takes precedence 
+  * Use [isort](https://pypi.org/project/isort/) for imports, followed by [python-black](https://pypi.org/project/black/) so that black formatting takes precedence&#x20;
 
 ### Time boxes
 
@@ -75,10 +75,10 @@ Use [our cookiecutter template](https://github.com/OpenUpSA/cookiecutter-django-
 
 ### Automate repetition
 
-### Fail loudly \(Brokenness should be visible\)
+### Fail loudly (Brokenness should be visible)
 
 * Never catch and drop exceptions without logging them.
-* Ensure shell scripts fail on error instead of running through with undefined behaviour. use `set -eux`  in bash.
+* Ensure shell scripts fail on error instead of running through with undefined behaviour. use `set -eux` in bash.
 * Add uptime monitoring to public services and ensure we get emailed when a service goes down.
 * App startup should fail if required variables are not set, rather than providing a default value that doesn't actually work. e.g. use `env.str("AWS_ACCESS_KEY_ID")` with no default so that the app doesn't start if this environment variable is not set. This means deployment of a new feature/to a new environment fails with a clear indication of the problem, rather than succeeding but with core functionality not being available. This, along with seamless deploys, means a new deployment without the required config won't kill a good working previous deploy.
 * Servers that run cron jobs should be [configured to mail us when cron jobs fail](https://github.com/OpenUpSA/ansible-config/#configure-cron-to-email-output-for-error-alerts)
@@ -106,8 +106,6 @@ Every change is additional effort for the person reviewing your code and risks i
 * [The Twelve-Factor App](https://12factor.net/) - Lots of clear, specific best practices for building maintainable services
 * [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Techniques for productively building software that don't get old
 * [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2011/11/22/Clean-Architecture.html) - No, it's not outdated. It's just about separating business logic from data, network, and presentation stuff.
-
-
 
 
 

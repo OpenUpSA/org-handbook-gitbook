@@ -34,7 +34,7 @@ Externally
 
 **Jen W:**&#x20;
 
-J: Um, what are we communicating? Anything? ****&#x20;
+J: Um, what are we communicating? Anything?&#x20;
 
 K: So you say it depends on what you’re communicating-
 
@@ -43,7 +43,7 @@ J: Yeah.
 K: -then y’know; you’d speak to the public differently than you’d speak to your OpenUp team, or your Wazimap team. Right?
 
 J: Yup. And also, internally, is it a company update in terms of how we’re tracking, or y’know, what the next quarter looks like? Or is it just a note, going forward, saying- I dunno, “we’re not going to be using the coffee machine downstairs?” It really depends, to me, on what needs to be communicated. \
-****
+
 
 \
 **Team Management During Projects That Call For External Collaboration**

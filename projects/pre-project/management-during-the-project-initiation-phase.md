@@ -5,7 +5,7 @@
 **Jennifer Walker manages implementations on top of existing products. The products already exist (i.e. Wazimap), already deemed to be aligned to OpenUp’s mission.**&#x20;
 
 **For instance: Wazimap aligns with OpenUp’s mission by democratizing data, opening data, and acting as an intermediary to others. This means that when a new client wants to implement the product or a version of it, OpenUp already knows that the product alignment lines up with our company standards.** \
-****
+
 
 **Jen W:** Well, there are some points in this initiation section that we do. For instance, getting MOUs in place, and contracts in place, and getting the project set up within the organization. So making sure that it’s on the master project list, that they exist in Clockify so people can log their time in again. So there are still project initiation tasks that happen; they’re just not a full assessment and validation of whether or not we want to go ahead with this. That decision is typically made before it lands on my plate.&#x20;
 
@@ -36,7 +36,7 @@ Something I’m very remiss in is communication from a social media point of vie
 
 
 **J: Okay, so “how long does Project Initiation take in relation to the rest of the project lifespan?”** Difficult question for me because I don’t  necessarily know when it starts, but my parts of it are kind of getting tools in place, and everything set up is pretty quick. That’s probably, ah-\
-****
+
 
 I don’t know, ten to fifteen percent of the total lifespan? Maybe less? \
 

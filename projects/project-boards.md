@@ -11,9 +11,9 @@ We should consider using Taiga since it provices classic Scrum swimlanes to grou
 Do
 
 * Use a common colour for related labels
-  * e.g. All \(and only\) Profile names are the colour with the diagonal lines
+  * e.g. All (and only) Profile names are the colour with the diagonal lines
 * Use a common prefix for related labels
-  * e.g. `Profile:`  below
+  * e.g. `Profile:` below
 
 Don't
 
@@ -23,5 +23,4 @@ Don't
 * Don't reuse a colour for a different type of label, if posible
   * If you have to do so, use the prefixes to distinguish them.
 
-![](../.gitbook/assets/screenshot_2021-06-23_11-49-53.png)
-
+![](../.gitbook/assets/Screenshot\_2021-06-23\_11-49-53.png)

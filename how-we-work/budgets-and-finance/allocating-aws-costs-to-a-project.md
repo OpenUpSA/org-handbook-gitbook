@@ -12,13 +12,13 @@ Resources like s3 buckets used for just one project should have a tag key `proje
 
 Resources that are shared need some way to apportion those costs between projects in a reasonably fair way.
 
-Currently our biggest clearly allocatable cost is S3. We allocate the rest \(RDS, extra-aws transfer costs, etc\) according to the apps running on each EC2 server, and the size of those servers.
+Currently our biggest clearly allocatable cost is S3. We allocate the rest (RDS, extra-aws transfer costs, etc) according to the apps running on each EC2 server, and the size of those servers.
 
 ## Steps
 
 ### Create file for the new month
 
- \(the month that the costs were incurred - see "This invoice is for the billing period ..." on the invoice\)
+&#x20;(the month that the costs were incurred - see "This invoice is for the billing period ..." on the invoice)
 
 Copy the latest allocations spreadsheet in the [AWS invoice allocations folder](https://drive.google.com/drive/folders/1FqRVxmUFCdhknIB8kwV2z4lOSPfjA0eS) and update the name for the month you're allocating
 
@@ -26,15 +26,15 @@ Prefix it with DRAFT until it's done, so that someone doesn't think you're done 
 
 Copy the exchange rate into the `ZAR in a USD` value cell on the Settings sheet
 
-![](../../.gitbook/assets/screenshot_2020-04-29_16-43-53.png)
+![](../../.gitbook/assets/Screenshot\_2020-04-29\_16-43-53.png)
 
 ### Calculate the tax rate
 
-Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` value cell and the `AWS Service Charges` value into the  `AWS Service Charges` `incl Tax` cell. We expect the tax rate to be around 15% 
+Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` value cell and the `AWS Service Charges` value into the  `AWS Service Charges` `incl Tax` cell. We expect the tax rate to be around 15%&#x20;
 
 ### Allocate S3 costs
 
-1. Visit the [S3 costs by project report](https://console.aws.amazon.com/cost-management/home?#/custom?groupBy=TagKeyValue:project&hasBlended=false&hasAmortized=false&excludeDiscounts=true&excludeTaggedResources=false&excludeCategorizedResources=false&excludeForecast=false&timeRangeOption=Last3Months&granularity=Monthly&reportName=S3%20costs%20by%20project%20-%20last%203%20months&reportType=CostUsage&isTemplate=false&filter=%5B%7B%22dimension%22:%22Service%22,%22values%22:%5B%22Amazon%20Simple%20Storage%20Service%22%5D,%22include%22:true,%22children%22:null%7D%5D&chartStyle=Stack&forecastTimeRangeOption=None&usageAs=usageQuantity&startDate=2020-01-01&endDate=2020-03-31&reportId=efc5673d-75ad-42a8-99b5-9e4ffdbc2361) in the AWS Cost Management console
+1. Visit the [S3 costs by project report](https://console.aws.amazon.com/cost-management/home?#/custom?groupBy=TagKeyValue:project\&hasBlended=false\&hasAmortized=false\&excludeDiscounts=true\&excludeTaggedResources=false\&excludeCategorizedResources=false\&excludeForecast=false\&timeRangeOption=Last3Months\&granularity=Monthly\&reportName=S3%20costs%20by%20project%20-%20last%203%20months\&reportType=CostUsage\&isTemplate=false\&filter=%5B%7B%22dimension%22:%22Service%22,%22values%22:%5B%22Amazon%20Simple%20Storage%20Service%22%5D,%22include%22:true,%22children%22:null%7D%5D\&chartStyle=Stack\&forecastTimeRangeOption=None\&usageAs=usageQuantity\&startDate=2020-01-01\&endDate=2020-03-31\&reportId=efc5673d-75ad-42a8-99b5-9e4ffdbc2361) in the AWS Cost Management console
 2. Copy the total cost for the month to the `S3` `excl Tax` value cell on the Settings sheet.
 3. Ensure significant projects are listed in the table on the S3 sheet
 4. Copy the project totals for the month to the monthly $ cell of the S3 sheet
@@ -54,6 +54,4 @@ Copy the tax-free `Charges` value into the `AWS Service Charges` `excl Tax` valu
 1. Record costs on the **S3** sheet
 2. Record costs on the **EC2+Other Project charges** sheet
 3. Allocate unknown to Core
-
-
 

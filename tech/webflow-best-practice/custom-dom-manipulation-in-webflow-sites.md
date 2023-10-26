@@ -39,9 +39,9 @@ In the example below:
 * The social sharing and export buttons on the top right have javascript events attached by custom javascript as well
 * The chart is inserted by providing a reference to the chart container to the chart library, where the chart renders itself as wide as the container allows, and as long as the chart is designed or configured to be, possibly depending on its width.
 
-![Example in-place components before javascript populates the page with data](../../.gitbook/assets/screenshot\_2020-11-20\_15-24-02.png)
+![Example in-place components before javascript populates the page with data](../../.gitbook/assets/Screenshot\_2020-11-20\_15-24-02.png)
 
-![Example in-page components after Javascript has populated the data dynamically](../../.gitbook/assets/screenshot\_2020-11-20\_15-29-15.png)
+![Example in-page components after Javascript has populated the data dynamically](../../.gitbook/assets/Screenshot\_2020-11-20\_15-29-15.png)
 
 ### Best practices
 
@@ -74,19 +74,19 @@ In the example below
 * The heading, menu and tab content area are in-place components
 * The tab buttons are dynamically created and populated with icon, label and a javascript click event handler to a function that lets the controller update what is shown on the tab content area.
 
-![Example of cloned components presented based on data and javascript.](../../.gitbook/assets/screenshot\_2020-11-20\_16-07-56.png)
+![Example of cloned components presented based on data and javascript.](../../.gitbook/assets/Screenshot\_2020-11-20\_16-07-56.png)
 
-![DOM showing top level in-place components and hidden component library div](../../.gitbook/assets/screenshot\_2020-11-20\_16-21-52.png)
+![DOM showing top level in-place components and hidden component library div](../../.gitbook/assets/Screenshot\_2020-11-20\_16-21-52.png)
 
 By removing the `hidden` class, the component variations can be seen with their placeholder/example text and icons
 
-![Variations of the Link Block component in the component library div](../../.gitbook/assets/screenshot\_2020-11-20\_16-23-26.png)
+![Variations of the Link Block component in the component library div](../../.gitbook/assets/Screenshot\_2020-11-20\_16-23-26.png)
 
 Variations of the same cloned component should be distinguished using distinct class names. Using distinct templates for all the variations of a component can become excessive. At some point modifier classes for things like shading or enabling/disabling left/right icons might be easier to maintain. Those modifier classes should then be documented clearly and considered a contract between the Webflow developer and the javascript developer which requires discussion to change, to avoid surprises.
 
-![](../../.gitbook/assets/screenshot\_2020-11-20\_16-28-34.png)
+![](../../.gitbook/assets/Screenshot\_2020-11-20\_16-28-34.png)
 
-![](../../.gitbook/assets/screenshot\_2020-11-20\_16-29-08.png)
+![](../../.gitbook/assets/Screenshot\_2020-11-20\_16-29-08.png)
 
 
 

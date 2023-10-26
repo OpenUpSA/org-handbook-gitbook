@@ -31,6 +31,6 @@ On estimating:
 
 * Historically-based budget forecasting is a three-part exercise in social studies, archival digging, and oracular prognostication.
 * **On estimating:**&#x20;
-  1. ****
+  1.
 
 ## &#x20;

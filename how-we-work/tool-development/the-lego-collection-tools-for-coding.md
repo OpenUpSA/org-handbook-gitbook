@@ -21,7 +21,7 @@ We ask questions, and determine:&#x20;
 * If the solution needs to be built from scratch, or
 * If a solution to the problem possibly (probably) exists, in the form of another application.
 
-****
+
 
 ### 3. Option A or Option B
 

@@ -15,4 +15,3 @@
 * Requirements are rarely fixed.
 * Needed skills commonly fluctuate from quarter to quarter
 
-****

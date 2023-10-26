@@ -45,7 +45,7 @@ For things like retros, I don’t really...I don’t really mind; physical, virt
 
 I like chat because it’s explicit- I’ve always got a history that I can go back and refer to. Voice allows for easier conversations, but obviously it’s not documented, or as searchable, as what text is.&#x20;
 
-&#x20;**** Where work needs to happen, I’d prefer it in-person. So when it’s less of a communique, sort of broadcast? If it’s just a discussion of “hey, this is what we’re doing,” and “this is where things are,” then I would prefer that to be virtual or email.
+&#x20;Where work needs to happen, I’d prefer it in-person. So when it’s less of a communique, sort of broadcast? If it’s just a discussion of “hey, this is what we’re doing,” and “this is where things are,” then I would prefer that to be virtual or email.
 
 I guess that’s why I was trying to make the distinction between workshops and status updates. Because I think people tend to call everything a meeting- that you put in a diary, as a meeting. \
 \
